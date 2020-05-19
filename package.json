@@ -1,0 +1,19 @@
+{
+  "name": "awesome-stoicism",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Stoic philosophy resources & quotes",
+  "main": "quote.js",
+  "scripts": {
+    "generate": "node scripts/generate.js"
+  },
+  "keywords": [
+    "philosophy",
+    "stoicism"
+  ],
+  "author": "David Wells <hello@davidwells.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "markdown-magic": "^1.0.0"
+  }
+}
