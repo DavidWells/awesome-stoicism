@@ -13,7 +13,7 @@ Resources around stoic philosophy.
 - [Videos](#videos)
 - [Sites](#sites)
 - [Podcasts](#podcasts)
-- [Other lists](#other-lists)
+- [Additional resources](#additional-resources)
 - [Criticisms](#criticisms)
 
 </details>
@@ -21,851 +21,851 @@ Resources around stoic philosophy.
 
 ## Quotes
 <!-- AUTO-GENERATED-CONTENT:START (GENERATE_QUOTE_LIST)-->
-- **[@LifeMathMoney]** Take a deep breath. You're living the dream life of hundreds of millions who are below poverty line people. You have some of the best comforts available to you. You live better than kings did 100 years ago! What the f*ck are you so worried and stressed out all the time about?
-- **[@LifeMathMoney]** I like times of turbulence more than times of stability. More opportunity to seize and grow.
-- **[@LifeMathMoney]** The thicker the skin, the happier the man.
-- **[@LifeMathMoney]** There will come a time in the distant future, where no one will know who you were, no one will know of your existence and contributions, no one will know your pain and suffering, and your happiness. Time will wipe away both men and the memories of men. Let yourself be free.
-- **[@LifeMathMoney]** Never be angry at someone for telling you the truth, no matter how unpleasant.
-- **[@TheAncientSage]** "Why do I keep repeating harmful behaviors/habits when I know they are bad for me?" Because they give you pleasure or help you avoid discomfort. And you are too weak to let go of a little pleasure or to bear a little discomfort.
-- **[@TheAncientSage]** Unfollow the mind. Follow the heart. Mute the masses.
-- **[@TheAncientSage]** Welcome if it comes. Let go if it goes. Chase nothing. Cling to nothing. Remain unconcerned.
-- **[@TheAncientSage]** Wisdom lies in cheerful acceptance of whatever life throws at you.
-- **[@TheAncientSage]** Don't argue with people nor insist on showing them truth. Maybe it is you who needs to change your mind. Even if you are right you only incur resentment by trying to correct others.
-- **[@TheAncientSage]** If you cannot change something, it is best to accept it cheerfully rather than adding to one's misfortune by grieving over it.
-- **[@TheAncientSage]** Self-control is all about moment to moment self awareness. You catch yourself doing – or about to do – something undesirable, see that it isn't good for you in the long term, and as a result of this awareness abstain from doing it.
-- **[@TheAncientSage]** One must be gullible yet skeptical, sane yet mad, proud yet humble, warm yet indifferent, faithful yet a heretic, loving yet uncompromising, fearless yet cautious, open yet decisive. These are not contradictions. They make a person whole. And above all one must be whole, not fragmentary.
-- **[@TheAncientSage]** Start living in discomfort. Gradually increase it little by little, and you will steadily grow. If you want sudden growth, deluge yourself in great discomfort and do not retreat from it. The more discomfort you are willing to bear, the more you can grow.
-- **[@TheAncientSage]** You are not affected by reality itself but by your interpretation of reality. A change of perspective changes everything.
-- **[@TheAncientSage]** A person who has built his life around pleasure is bound to be disillusioned. Hedonism is not sustainable, and it leaves a person empty. We are not meant to experience sustained pleasure. Therefore, to cope with the drab routine of daily existence, one must find meaning somewhere.
-- **[@TheAncientSage]** The fundamental human fallacy: the illusion that a change in external circumstances will lead to permanent bliss. That the attainment of a future goal will make you satisfied forever. The illusion is so entrenched that it persists despite being refuted by repeated experience.
-- **[@TheAncientSage]** When you internalize that the source of your satisfaction is within you not without, you are then prepared to receive bliss that never ends because it does not rely on the ever changing external circumstances.
-- **[@TheAncientSage]** Contentment doesn't mean you stop improving your situation. In fact it has nothing to do with your external situation. It is a state of mind in which your happiness does not depend on external circumstances. It is the absence of neediness. You become self sufficient.
-- **[@TheAncientSage]** Getting more of something has not satisfied anyone. It will not satisfy you either. It will only increase your discontent. He who has little can be content, but not the one who has a lot. The more one attains, the higher the expectations, and the greater the discontent.
-- **[@TheAncientSage]** Fear is the basis of all suffering. Both desire and anger are manifestations of fear. Fear itself is a creation of your mind. It does not exist independently. Since it is a fabrication, you don't have to fight it. Just understand it. Understanding is the key to freedom.
-- **[@TheAncientSage]** People think that if they complain about life, life or the world might change. But of course this does not happen. You cannot change and its laws. It is what it is. No amount of complaining, resentment or mourning will help. Accept, let go and move on.
-- **[@TheAncientSage]** If you drop your ego, don't take things personally and adopt a detached perspective, your ability to deal with all types of people/situations will immensely improve.
-- **[@TheAncientSage]** Ignoring someone is more powerful than hating them. Hate means that you are somehow bothered by the person and can't stop thinking about them. They possess you. Indifference indicates that you just don't care. It is freedom.
-- **[@TheAncientSage]** Not reacting to deliberate provocation is a superpower. If you have the awareness and self-control to not react predictably, there is nothing that can put you off your path. Remember: the only enemy you need to fear is your own self – your lack of awareness and loss of control.
-- **[@TheAncientSage]** Do not care what others think of you. Be an unapologetic rebel. The masses are lost. Looking up to them for guidance is like a person with eyes looking up to the blind. Feel free to do your own thing without fearing the disapproval of others. If they don't like it's their problem.
-- **[@TheAncientSage]** If it is time to rest, rest completely. A good rest rejuvenates you so that you may do quality work. If it is time to work, work with complete focus. Time spent working earnestly earns you a well deserved rest. Don't mix work and rest; this compromises the quality of both.
-- **[@TheStoicEmperor]** Peace must be found in the imperfect present.
-- **[@TheStoicEmperor]** You will be attacked for doing the right thing. Do it anyway.
-- **[@TheStoicEmperor]** Think long term. Execute short term. Experience now.
-- **[@TheStoicEmperor]** You amplify everything you react to.
-- **[@TheStoicEmperor]** Life is a storm that will test you unceasingly. Don't wait for calm waters that may not arrive. Derive purpose from resilience. Learn to sail the raging sea.
-- **[@TheStoicEmperor]** Short term thinking is everywhere. Noisy feuds over little prizes. The long term thinker will be king. Win the decade, not the day.
-- **[@TheStoicEmperor]** "Why did this happen to me?" Why not? Events will never conform perfectly to your desires. Move forward.
-- **[@TheStoicEmperor]** This is an era of universal hyperbole. Every day delivers a new banality disguised as an emergency. Distrust your first reactions. Begin with the assumption that you are overreacting. Conserve your emotional energies for your real concerns.
-- **[@TheStoicEmperor]** An hour of deeply contemplating your own moral failures will leave you feeling much more forgiving of the foibles of others.
-- **[@TheStoicEmperor]** Many will choose the stability of slavery over the uncertainty of freedom.
-- **[@TheStoicEmperor]** Conviction is much more powerful than "positive thinking". Positive thinking is fragile and easily shattered by random tragedy. Random tragedy is an inevitable feature of life. Conviction guides you through misfortune. It does not wish it away. Purpose outdoes positivity.
-- **[@TheStoicEmperor]** Short-term thinking makes people desperate, ungenerous, impulsive. Long-term thinking makes people, gracious, controlled.
-- **[@TheStoicEmperor]** It is easy to blame "them". It is hard to confront "me". The easy path is the road to ruin. The hard path is the way of growth.
-- **[@TheStoicEmperor]** When you are upset you are likely to sacrifice the wellbeing of tomorrow to appease the hurt feelings of today. Not a good trade. Subject your emotions to a cooling-off period before you allow them to guide major decisions.
-- **[@TheStoicEmperor]** Try to avoid making important decisions when you're angry. Acknowledge the emotion. Recognize that it clouds your judgement. Remember that angry people tend to sacrifice the long-term good in response to short-term provocation.
-- **[@TheStoicEmperor]** Drama provides a convenient distraction. We light small fires and busy ourselves with putting them out. Short term "emergencies" give us an excuse to ignore the long term issues that we don't wish to acknowledge.
-- **[@TheStoicEmperor]** Not everything requires a response. This is truth for many things in life and almost everything in the news.
-- **[@TheStoicEmperor]** The cause of an event is often unclear. You will feel less anxiety if you can learn to be comfortable with ambiguity.
-- **[@TheStoicEmperor]** Human beings worry incessantly about their social status. Making every device "socially connected" turned every device into an anxiety machine. The machine becomes symbolic of the set of all people that may be judging you. If "hell is other people" then hell is in our pocket.
-- **[@TheStoicEmperor]** Some reach the heights of power. Some live quiet lives of virtue and purpose. Some seek nothing but mischief. All find their way to the grave. Time will make ashes of us all. Do not squander this moment. It will not come again.
-- **[@TheStoicEmperor]** Emotions are easily hijacked by illusory threats that tap into our insecurities. We can't be strategically dynamic if we are always on the defensive. We are more effective when we realize how many things don't require any response at all.
-- **[@TheStoicEmperor]** It is a narrow passageway that leads to the garden of contentment. Big egos don't fit.
-- **[@TheStoicEmperor]** A minute of rage can undo a lifetime of diligent effort. Self-control is self-preservation. Most of us won't look back on the moments we acted in anger as among our finest.
-- **[@TheStoicEmperor]** Do not act when the tide of rage flows in. Wait for it to go out. Then act with reason and proportion.
-- **[@TheStoicEmperor]** Life is full of suffering. Yes. Why should it be otherwise? Embrace. Endure.
-- **[@TheStoicEmperor]** Many think great success will pacify their critics. Quite the contrary. Criticism will multiply as you grow and progress. Positive attention does not come without negative attention. This is the price of having an impact.
-- **[@TheStoicEmperor]** There is nothing more precious than trust. Low trust environments are full of friction and inefficiency. Every interaction is a fierce negotiation. Trust makes a marriage warm and a nation wealthy.
-- **[@TheStoicEmperor]** Fragile egos make for fragile friendships.
-- **[@TheStoicEmperor]** People tend to avoid the important work they fear by doing unimportant work that wears them out. They suppress anxiety with exhaustion, but they do not address the source of the problem.
-- **[@TheStoicEmperor]** Finding information is easier than ever. Filtering information is harder than ever. We are bombarded with irrelevant data and unsolicited stimulation. Choosing what to ignore is as important as choosing what to pay attention to.
-- **[Aeschylus]** Happiness is a choice that requires effort at times.
-- **[Alan Watts]** The meaning of life is just to be alive. It is so plain and so obvious and so simple. And yet, everybody rushes around in a great panic as if it were necessary to achieve something beyond themselves.
-- **[Alan Watts]** As long as you remember that everything is exactly how it's supposed to be, you will always be sane.
-- **[Alan Watts]** No amount of anxiety makes any difference to anything that is going to happen.
-- **[Albert Einstein]** Failure and deprivation are the best educators and purifiers.
-- **[Albert Einstein]** The ordinary objects of human endeavour – property, outward success, luxury – have always seemed to me contemptible.
-- **[Albert Einstein]** I am happy because I want nothing from anyone. I do not care for money. Decorations, titles or distinctions mean nothing to me. I do not crave praise. The only thing that gives me pleasure, apart from my work, my violin and my sailboat, is the appreciation of my fellow workers.
-- **[Anthony de Mello]** Problems only exist in the human mind.
-- **[Anthony de Mello]** "What is the work of a Master?" said a solemn-faced visitor. "To teach people to laugh," said the Master gravely.
-- **[Anthony de Mello]** Drop your concepts, drop your opinions, drop your prejudices, drop your judgments, and you will see that.
-- **[Antisthenes]** Pay attention to your enemies, for they are the first to discover your mistakes.
-- **[Augustine of Hippo]** Order your soul. Reduce your wants.
-- **[Brené Brown]** Lean into the discomfort of the work.
-- **[Brian Thompson]** Be disentangled from all perceptions. They are not you.
-- **[Brooke Castillo]** Discomfort is the currency of success.
-- **[Buddhist proverb]** Change is never painful, only your resistance to change is painful.
-- **[Byron Katie]** You're never given more pain than you can handle.
-- **[Caroline Myss]** Discomfort is a wise teacher.
-- **[Cato The Younger]** I begin to speak only when I'm certain what I'll say isn't better left unsaid.
-- **[Charlie Munger]** Is there such a thing as a cheerful pessimist? That's what I am.
-- **[Charlie Munger]** What are the secret of success? -one word answer: "rational".
-- **[Charlie Munger]** You stuck to your principles and when opportunities came along, you pounced on them with vigour.
-- **[Charlie Munger]** Assume life will be really tough, and then ask if you can handle it. If the answer is yes, you've won.
-- **[Charlie Munger]** It's waiting that helps you as an investor, and a lot of people just can't stand to wait.
-- **[Charlie Munger]** You need patience, discipline, and an agility to take losses and adversity without going crazy.
-- **[Charlie Munger]** Our job is to find a few intelligent things to do, not to keep up with every damn thing in the world.
-- **[Charlie Munger]** It's not supposed to be easy. Anyone who finds it easy is stupid.
-- **[Clark]** We find comfort among those who agree with us – growth among those who don't. Frank A.
-- **[Cleanthes]** The willing are led by fate, the reluctant dragged.
-- **[Colin Wilson]** The average man is a conformist, accepting miseries and disasters with the stoicism of a cow standing in the rain.
-- **[Conor McGregor]** The more you seek the uncomfortable, the more you will become comfortable.
-- **[Dalai Lama]** The true hero is one who conquers his own anger and hatred.
-- **[Dan Horton]** A man is no bigger than the smallest thing that provokes him.
-- **[David Goggins]** Success is based off of your willingness to work your ass off no matter what obstacles are in your way.
-- **[David Goggins]** Show people, don't tell people.
-- **[David Goggins]** Never let people who choose the path of least resistance steer you away from your chosen path of most resistance.
-- **[David Goggins]** Don't be the person that looks at the weather report the night before to decide what you are going to do the next day.
-- **[David Goggins]** Sometimes saying "fuck it" at the right time can be a very powerful thing. It tells your mind that you are willing to do whatever it takes to get to the other side.
-- **[David Goggins]** Don't get mad at others because life is kicking your ass.
-- **[David Goggins]** I'm happy as hell, but I'm also real. Happy didn't get me here. But going through hell to get to where I'm at made me happy.
-- **[David Goggins]** Be true to whoever or whatever you are and wear it like a badge of honor. Fit in with one person and one person only: yourself.
-- **[David Goggins]** There is no better way to grow as a person than to do something you hate every day.
-- **[David Goggins]** People are always looking for shortcuts. The only way to achieve greatness in life is to have patience, consistency, and discipline.
-- **[David Goggins]** I like to see what I'm made of. I want to see if there is a limit to the human soul.
-- **[David Goggins]** The path to success will leave you callused, bruised, and very tired. It will also leave you empowered.
-- **[David Goggins]** Life isn't always about doing the things we like to do. It's about doing things we have to do.
-- **[David Goggins]** Don't let your fears paralyze you into becoming a lesser version of yourself. Eliminate fear by confronting what you're afraid of.
-- **[David Goggins]** Don't let fear, low and the negative voices hold you back from your true destiny.
-- **[David Goggins]** When you think you're done, you're only at 40% of your body's capability.
-- **[David Goggins]** Even if you are hurting, never let your competition see the look of defeat or even vulnerability on your face.
-- **[David Goggins]** Most people who doubt you doubt you because they can never see themselves doing what you are trying to do.
-- **[Diogenes]** He has the most who is content with the least.
-- **[Dzigar Kongtrul Rinpoche]** It takes courage to accept life fully, to say yes to our life, yes to our karma, yes to our mind, emotions and whatever else unfolds.
-- **[Eckhart Tolle]** To complain is always nonacceptance of what is.
-- **[Eckhart Tolle]** Remember that your perception of the world is a reflection of your state of consciousness.
-- **[Ed Latimore]** Be so busy building your own life that other people's bullshit is of no concern.
-- **[Ed Latimore]** Self-discipline and self-control determine the quality of your life more than anything else.
-- **[Elizabeth Kenny]** He who angers you conquers you.
-- **[Epictetus]** What decides whether a sum of money is good? The money is not going to tell you; it must be the faculty that makes use of such impressions – reason.
-- **[Epictetus]** Being attached to many things, we are weighed down and dragged along with them.
-- **[Epictetus]** What should we do then? Make the best use of what is in our power, and treat the rest in accordance with its nature.
-- **[Epictetus]** What should we have ready at hand in a situation like this? The knowledge of what is mine and what is not mine, what I can and cannot do.
-- **[Epictetus]** "I will throw you into prison." "Correction – it is my body you will throw there."
-- **[Epictetus]** I have to die. If it is now, well then I die now; if later, then now I will take my lunch, since the hour for lunch has arrived – and dying I will tend to later.
-- **[Epictetus]** Consider at what price you sell your integrity; but please, for God’s sake, don’t sell it cheap.
-- **[Epictetus]** What is the goal of virtue, after all, except a life that flows smoothly?
-- **[Epictetus]** If from the moment they get up in the morning they adhere to their ideals, eating and bathing like a person of integrity, putting their principles into practice in every situation they face – the way a runner does when he applies the principles of running, or a singer those of musicianship – that is where you will see true progress embodied, and find someone who has not wasted their time making the journey here from home.
-- **[Epictetus]** What else are tragedies but the ordeals of people who have come to value externals, tricked out in tragic verse?
-- **[Epictetus]** If a man objects to truths that are all too evident, it is no easy task finding arguments that will change his mind. This is proof neither of his own strength nor of his teacher’s weakness. When someone caught in an argument hardens to stone, there is just no more reasoning with them.
-- **[Epictetus]** Most of us dread the deadening of the body and will do anything to avoid it. About the deadening of the soul, however, we don’t care one iota.
-- **[Epictetus]** And so it is inexcusable for man to begin and end where the beasts do. He should begin where they do, but only end where nature left off dealing with him; which is to say, in contemplation and understanding.
-- **[Epictetus]** "But my nose is running!" What do you have hands for, idiot, if not to wipe it? "But how is it right that there be running noses in the first place?" Instead of thinking up protests, wouldn’t it be easier just to wipe your nose?
-- **[Epictetus]** For what does reason purport to do? "Establish what is true, eliminate what is false and suspend judgement in doubtful cases." ... What else does reason prescribe? "To accept the consequence of what has been admitted to be correct."
-- **[Epictetus]** Why are we still lazy, indifferent and dull? Why do we look for excuses to avoid training and exercising our powers of reason? "Look, if I err in such matters I haven’t killed my father, have I?" No, fool – for there was no father there for you to kill! What did you do instead? You made the only mistake you had the opportunity to make.
-- **[Epictetus]** Don’t confuse qualities that are found in the same writer only incidentally. If Plato had been strong and handsome, should I also try to become strong and handsome, as if this were essential to philosophy, since there was one particular philosopher who combined philosophy with good looks?
-- **[Epictetus]** Ask me what the real good in man’s case is, and I can only say that it is the right kind of moral character.
-- **[Epictetus]** Do as Socrates did, never replying to the question of where he was from with, "I am Athenian," or "I am from Corinth," but always, "I am a citizen of the world."
-- **[Epictetus]** Really, such a person amounts to no more than a carcass and a little blood. If he were anything more, he would realize that no one is ever unhappy because of someone else.
-- **[Epictetus]** It isn’t death, pain, exile or anything else you care to mention that accounts for the way we act, only our opinion about death, pain and the rest.
-- **[Epictetus]** We, not externals, are the masters of our judgements.
-- **[Epictetus]** Socrates was not in prison, because he chose to be there.
-- **[Epictetus]** You ought to realize, you take up very little space in the world as a whole – your body, that is; in reason, however, you yield to no one, not even to the gods, because reason is not measured in size but sense. So why not care for that side of you, where you and the gods are equals?
-- **[Epictetus]** If you have been placed in a position above others, are you automatically going to behave like a despot? Remember who you are and whom you govern – that they are kinsmen, brothers by nature, fellow descendants of Zeus.
-- **[Epictetus]** You can process in your intellect and senses a wealth of thoughts and impressions simultaneously. There are impressions that you assent to, others that you reject; sometimes you suspend judgement altogether.
-- **[Epictetus]** Nothing important comes into being overnight; even grapes or figs need time to ripen. If you say that you want a fig now, I will tell you to be patient. First, you must allow the tree to flower, then put forth fruit; then you have to wait until the fruit is ripe. So if the fruit of a fig tree is not brought to maturity instantly or in an hour, how do you expect the human mind to come to fruition, so quickly and easily?
-- **[Epictetus]** Since reason is what analyses and coordinates everything, it should not go itself unanalysed. Then what will it be analysed by? Obviously by itself or something different. Now, this something different must either be reason or something superior to reason – which is impossible, since there is nothing superior to reason.
-- **[Epictetus]** Which, I suppose, is why Stoics put logic at the head of our curriculum – for the same reason that, before a quantity of grain can be measured, we must settle on a standard of measurement.
-- **[Epictetus]** "What about if someone threatens me with death, though; surely he compels me then?" It isn’t what you’re threatened with – it’s the fact that you prefer to do anything rather than die. It’s your set of values that compelled you: will acting on will.
-- **[Epictetus]** We use labels like "thief" and "robber" in connection with them, but what do these words mean? They merely signify that people are confused about what is good and what is bad. So should we be angry with them, or should we pity them instead?
-- **[Epictetus]** "But the tyrant will chain –" What will he chain? Your leg. "He will chop off –" What? Your head. What he will never chain or chop off is your integrity.
-- **[Epictetus]** We should discipline ourselves in small things, and from there progress to things of greater value. If you have a headache, practise not cursing. Don’t curse every time you have an earache. And I’m not saying that you can’t complain, only don’t complain with your whole being.
-- **[Epictetus]** "But I get to wear a crown of gold." If you have your heart set on wearing crowns, why not make one out of roses – you will look even more elegant in that.
-- **[Epictetus]** If you want to know just how little concerned you are about things good and bad, and how serious about things indifferent, compare your attitude to going blind with your attitude about being mentally in the dark. You will realize, I think, how inappropriate your values really are.
-- **[Epictetus]** When someone is properly grounded in life, they shouldn’t have to look outside themselves for approval.
-- **[Epictetus]** Who exactly are these people that you want to be admired by? Aren’t they the same people you are in the habit of calling crazy? And is this your life ambition, then – to win the approval of lunatics?
-- **[Epictetus]** Jews, Syrians, Egyptians and Romans. They don’t dispute that what is holy should be preferred above everything else and in every case pursued; but they argue, for example, over whether it is holy or unholy to eat pork.
-- **[Epictetus]** The operations of the will are in our power; not in our power are the body, the body’s parts, property, parents, siblings, children, country or friends.
-- **[Epictetus]** The true man is revealed in difficult times. So when trouble comes, think of yourself as a wrestler whom God, like a trainer, has paired with a tough young buck. For what purpose? To turn you into Olympic-class material. But this is going to take some sweat to accomplish.
-- **[Epictetus]** Death, [Diogenes] said, was not evil because it was not dishonourable. Reputation was the empty noise of fools.
-- **[Epictetus]** Don’t believe your situation is genuinely bad – no one can make you do that. Is there smoke in the house? If it’s not suffocating, I will stay indoors; if it proves too much, I’ll leave. Always remember – the door is open.
-- **[Epictetus]** Remember that it is we who torment, we who make difficulties for ourselves – that is, our opinions do. What, for instance, does it mean to be insulted? Stand by a rock and insult it, and what have you accomplished? If someone responds to insult like a rock, what has the abuser gained with his invective?
-- **[Epictetus]** This, then, is the beginning of philosophy – an awareness of one’s own mental fitness.
-- **[Epictetus]** Death is necessary and cannot be avoided. I mean, where am I going to go to get away from it?
-- **[Epictetus]** I cannot escape death, but at least I can escape the fear of it.
-- **[Epictetus]** Passions stem from frustrated desire.
-- **[Epictetus]** You Sceptics, who dismiss the evidence of the senses – do you act any differently? Which one of you ever went to the mill when you were in need of a bath?
-- **[Epictetus]** When someone assents to a false proposition, be sure that they did not want to give their assent, since, as Plato says, "Every soul is deprived of the truth against its will." They simply mistook for true something false.
-- **[Epictetus]** The essence of good and evil consists in the condition of our character. And externals are the means by which our character finds its particular good and evil.
-- **[Epictetus]** Correct judgements about externals make our character good, as perverse or distorted ones make it bad.
-- **[Epictetus]** This is how I came to lose my lamp: the thief was better than I am in staying awake. But he acquired the lamp at a price: he became a thief for its sake, for its sake, he lost his ability to be trusted, for a lamp he became a brute. And he imagined he came out ahead!
-- **[Epictetus]** If you didn’t learn these things in order to demonstrate them in practice, what did you learn them for?
-- **[Epictetus]** Anyone who affirms that, in a circle, lines that extend from the centre to the circumference can be unequal is not going to win the respect of mathematicians. So – a true philosopher is under no obligation to respect vulgar opinion as to what is religious or irreligious, what is just or unjust.
-- **[Epictetus]** "Define for me now what the "indifferents" are." "Whatever things we cannot control.’"Tell me the upshot." "They are nothing to me."
-- **[Epictetus]** Death and pain are not frightening, it’s the fear of pain and death we need to fear. Which is why we praise the poet who wrote, "Death is not fearful, but dying like a coward is."
-- **[Epictetus]** Pain too is just a scary mask: look under it and you will see. The body sometimes suffers, but relief is never far behind. And if that isn’t good enough for you, the door stands open; otherwise put up with it. The door needs to stay open whatever the circumstances, with the result that our problems disappear.
-- **[Epictetus]** The masses are wrong to say that only freeborn men are entitled to an education; believe the philosophers instead, who say that only educated people are entitled to be called free.
-- **[Epictetus]** If you want to be a man of honour and a man of your word, who is going to stop you? You say you don’t want to be obstructed or forced to do something against your will – well, who is going to force you to desire things that you don’t approve, or dislike something against your better judgement?
-- **[Epictetus]** Whenever externals are more important to you than your own integrity, then be prepared to serve them the remainder of your life.
-- **[Epictetus]** We know how to analyse arguments, and have the skill a person needs to evaluate competent logicians. But in life what do I do? What today I say is good tomorrow I will swear is bad. And the reason is that, compared to what I know about syllogisms, my knowledge and experience of life fall far behind.
-- **[Epictetus]** What are we really doing when we throw away our innate faithfulness, to intrigue with our neighbour’s wife? We are ruining and destroying – well, what? How about the man of trust, principle and piety that once was? And is that all? Aren’t we also ruining the idea of neighbourliness, friendship and community? What position are we putting ourselves in? How am I supposed to deal with you now? As a neighbour? A friend? Some friend! A fellow citizen? But how can a fellow citizen like you be trusted?
-- **[Epictetus]** Material things per se are indifferent, but the use we make of them is not indifferent.
-- **[Epictetus]** Getting those things is not in my control – and not good or bad in any case. But the way I use them is good or bad, and depends on me.
-- **[Epictetus]** It’s something like going on an ocean voyage. What can I do? Pick the captain, the boat, the date, and the best time to sail. But then a storm hits. Well, it’s no longer my business; I have done everything I could. It’s somebody else’s problem now – namely the captain’s. But then the boat actually begins to sink. What are my options? I do the only thing I am in a position to do, drown – but fearlessly, without bawling or crying out to God, because I know that what is born must also die.
-- **[Epictetus]** To be sure, external things of whatever kind require skill in their use, but we must not grow attached to them; whatever they are, they should only serve for us to show how skilled we are in our handling of them.
-- **[Epictetus]** What are you? A human being. If you think of yourself as a unit apart, then it is in accordance with your nature to live to old age, to be rich, and be healthy. But if your view of yourself involves being part of a whole, then, for the sake of the whole, circumstances may make it right for you to be sick, go on a dangerous journey, endure poverty, even die before your time.
-- **[Epictetus]** Because what is a human being? Part of a community – the community of gods and men, primarily, and secondarily that of the city we happen to inhabit, which is only a microcosm of the universe in toto.
-- **[Epictetus]** So when you hear that even life and the like are indifferent, don’t become apathetic; and by the same token, when you’re advised to care about them, don’t become superficial and conceive a passion for externals.
-- **[Epictetus]** Because we’re the only animals who not only die but are conscious of it even while it happens, we are beset by anxiety.
-- **[Epictetus]** "My God, what if I’m sent to Gyara?" Well, if that’s tolerable for you, you will go; if not, you have the choice of another destination, the place even the person who sent you to Gyara is headed, whether they like it or not.
-- **[Epictetus]** You think I can listen to poetry in my position?" "Why, what is it?" "I’m sentenced to death!" "And the rest of us aren’t?"
-- **[Epictetus]** Since plants do not even have the power of perception, "good" and "evil" are not applicable to them. Evidently, "good" and "bad" presume the power of using impressions.
-- **[Epictetus]** A will that never fails to get what it wants, a faculty of aversion that always avoids what it dislikes, proper impulse, careful purpose and disciplined assent. That’s the human specimen you should prepare yourselves to see.
-- **[Epictetus]** Never get into family fights over material things; give them up willingly, and your moral standing will increase in proportion.
-- **[Epictetus]** Reflect on the other social roles you play. If you are a council member, consider what a council member should do. If you are young, what does being young mean, if you are old, what does age imply, if you are a father, what does fatherhood entail? Each of our titles, when reflected upon, suggests the acts appropriate to it.
-- **[Epictetus]** If you lost the capacity to read, or play music, you would think it was a disaster, but you think nothing of losing the capacity to be honest, decent and civilized.
-- **[Epictetus]** If money is your only standard, then consider that, by your lights, someone who loses their nose does not suffer any harm.
-- **[Epictetus]** If "good" as well as "bad" really relate to our choices, then consider whether your position does not amount to saying something like, "Well, since that guy hurt himself with the injustice he did me, shouldn’t I wrong him in order to hurt myself in retaliation?"
-- **[Epictetus]** "Well, whatever you may say, I know good from bad, and have an idea of the good." You have one, I allow. "And I put it into practice." You use it in specific instances, yes. "And I use it correctly." Well, that’s the crux, because this is where opinions become an issue.
-- **[Epictetus]** Here you have philosophy’s starting point: we find that people cannot agree among themselves, and we go in search of the source of their disagreement.
-- **[Epictetus]** Something good should be a source of pride, correct? "Yes." And can one really take pride in a momentary pleasure? Please don’t say yes.
-- **[Epictetus]** When a guide meets up with someone who is lost, ordinarily his reaction is to direct him on the right path, not mock or malign him, then turn on his heel and walk away. As for you, lead someone to the truth and you will find that he can follow. But as long as you don’t point it out to him, don’t make fun of him; be aware of what you need to work on instead.
-- **[Epictetus]** That is what Socrates would do: he would quit only after he had fleshed out an idea and explored its implications. He wouldn’t just say, "Define envy for me," then, when his discourses interlocutor had ventured on a definition, say, "Wrong: your definiens is not extensionally equivalent to the definiendum."
-- **[Epictetus]** Now that is the first thing Socrates was known for – never turning dialogue into dispute, never introducing rudeness or invective, although he would put up with the insults of others in order to avoid a fight.
-- **[Epictetus]** At this point you run the risk of him saying, "What business is that of yours, sir? What are you to me?" Pester him further, and he is liable to punch you in the nose. I myself was once keen for this sort of discourse, until I met with just such a reception.
-- **[Epictetus]** Take a lyre player: he’s relaxed when he performs alone, but put him in front of an audience, and it’s a different story, no matter how beautiful his voice or how well he plays the instrument. Why? Because he not only wants to perform well, he wants to be well received – and the latter lies outside his control.
-- **[Epictetus]** It was Antigonus who was anxious before their meeting. Naturally – he wanted to make a good impression, which was beyond his control. Zeno, for his part, had no wish to please the king; no expert needs validation from an amateur.
-- **[Epictetus]** Becoming a carpenter or pilot, we realize, requires some formal training. Is it unreasonable to suppose that it will take more than just the desire to be good or bad – that the student of philosophy will also have to learn a few things of his own?
-- **[Epictetus]** And yet I won’t have done you any harm – any more than a mirror is to blame when it shows a plain person what they look like; or a doctor is mean if he tells a patient, "Look, you may think this is insignificant, but you’re really sick; no food for you today, only water." No one thinks, "How rude!" But say to someone, "Your desires are unhealthy, your powers of aversion are weak, your plans are incoherent, your impulses are at odds with nature and your system of values is false and confused," – and off they go alleging slander.
-- **[Epictetus]** "But we must stick with a decision." "For heaven’s sake, man, that rule only applies to sound decisions. I suppose next you will decide that it is night now, and refuse to change your mind because you don’t want to.
-- **[Epictetus]** "A fool cannot be convinced or even compelled to renounce his folly." God save me from fools with a little philosophy – no one is more difficult to reach.
-- **[Epictetus]** Where does the good lie? "In the will." And evil? "Also in the will." And things neither good nor bad – "... lie in whatever is external to the will."
-- **[Epictetus]** You might as well get on your knees and pray that your nose won’t run. A better idea would be to wipe your nose and forgo the prayer. The point is, isn’t there anything God gave you for your present problem? You have the gifts of courage, fortitude and endurance. With "hands" like these, do you still need somebody to help wipe your nose?
-- **[Epictetus]** Show me one person who cares how they act, someone for whom success is less important than the manner in which it is achieved. While out walking, who gives any thought to the act of walking itself? Who pays attention to the process of planning, not just the outcome?
-- **[Epictetus]** The first thing a pretender to philosophy must do is get rid of their presuppositions; a person is not going to undertake to learn anything that they think they already know.
-- **[Epictetus]** This presumption that you possess knowledge of any use has to be dropped before you approach philosophy – just as if we were enrolling in a school of music or mathematics.
-- **[Epictetus]** If you like doing something, do it regularly; if you don’t like doing something, make a habit of doing something different. The same goes for moral inclinations. When you get angry, you should know that you aren’t guilty of an isolated lapse, you’ve encouraged a trend and thrown fuel on the fire.
-- **[Epictetus]** If you don’t want to be cantankerous, don’t feed your temper, or multiply incidents of anger. Suppress the first impulse to be angry, then begin to count the days on which you don’t get mad.
-- **[Epictetus]** It will even do to socialize with men of good character, in order to model your life on theirs, whether you choose someone living or someone from the past.
-- **[Epictetus]** Don’t let the force of the impression when first it hits you knock you off your feet; just say to it, "Hold on a moment; let me see who you are and what you represent. Let me put you to the test."
-- **[Epictetus]** Today people care only for academic discussion, nothing beyond that. But I’m presenting to you the real athlete, namely the one training to face off against the most formidable of impressions.
-- **[Epictetus]** Show me someone untroubled with disturbing thoughts about illness, danger, death, exile or loss of reputation. By all the gods, I want to see a Stoic!
-- **[Epictetus]** Even people who deny that statements can be valid or impressions clear are obliged to make use of both. You might almost say that nothing proves the validity of a statement more than finding someone forced to use it while at the same time denying that it is sound.
-- **[Epictetus]** A vine cannot behave olively, nor an olive tree vinely – it is impossible, inconceivable. No more can a human being wholly efface his native disposition.
-- **[Epictetus]** What illusion about myself do I entertain?
-- **[Epictetus]** Don’t be disappointed if you return home with the very same set of ideas you arrived with. Because you had no intention of changing, correcting or adopting others in their place.
-- **[Epictetus]** You say the speculative topics are useless. Useless to whom? Only to people who don’t use them as they should. I mean, salves and ointments are not useless to people who apply them when and how they’re supposed to; weights are not useless in themselves, they’re useful to some people, worthless to others.
-- **[Epictetus]** If someone is incapable of distinguishing good things from bad and neutral things from either – well, how could such a person be capable of love? The power to love, then, belongs only to the wise man.
-- **[Epictetus]** You’re subject to sorrow, fear, jealousy, anger and inconsistency. That’s the real reason you should admit that you are not wise.
-- **[Epictetus]** No doubt you have seen dogs playing with, and fawning before, each other, and thought, "Nothing could be friendlier." But just throw some meat in the middle, and then you’ll know what friendship amounts to.
-- **[Epictetus]** Paris was Menelaus" guest, and anyone who saw how well they treated each other would have laughed at anyone who said they weren’t friends. But between the two a bit of temptation was thrown in the form of a beautiful woman, and over that there arose war.
-- **[Epictetus]** Just ask whether they put their self-interest in externals or in moral choice. If it’s in externals, you cannot call them friends, any more than you can call them trustworthy, consistent, courageous or free.
-- **[Epictetus]** For where else is friendship found if not with fairness, reliability and respect for virtue only?
-- **[Epictetus]** [Treat] unenlightened souls with sympathy and indulgence, remembering that they are ignorant or mistaken about what’s most important. Never be harsh, remember Plato’s dictum: "Every soul is deprived of the truth against its will."
-- **[Epictetus]** An eye, when open, has no option but to see. The decision whether to look at a particular man’s wife, however, and how, belongs to the will. And the determination whether to trust what someone says, and then, if we trust them, whether we should be angered by it – that also belongs to the will.
-- **[Epictetus]** People act like a traveller headed for home who stops at an inn and, finding it comfortable, decides to remain there. You’ve lost sight of your goal, man. You were supposed to drive through the inn, not park there.
-- **[Epictetus]** Some students [of philosophy] become captivated by all these things and don’t want to proceed further. One is captivated by diction, another by deductive or equivocal arguments, someone else by yet another "inn" of this kind; and there they stay and rot as if seduced by the Sirens.
-- **[Epictetus]** When I see that one thing [virtue] is supreme and most important, I cannot say that something else is, just to make you happy.
-- **[Epictetus]** The body is the raw material of the doctor and physical therapist. Land is the farmer’s raw material. The raw material of the good man is his mind – his goal being to respond to impressions the way nature intended.
-- **[Epictetus]** What, after all, are sighing and crying, except opinions? What is "misfortune’? An opinion. And sectarian strife, dissension, blame and accusation, ranting and raving – they all are mere opinion, the opinion that good and bad lie outside us.
-- **[Epictetus]** Speaking for myself, I hope death overtakes me when I’m occupied solely with the care of my character, in an effort to make it passionless, free, unrestricted and unrestrained.
-- **[Epictetus]** What does Socrates say? "One person likes tending to his farm, another to his horse; I like to daily monitor my self-improvement."
-- **[Epictetus]** Keep well out of the sun, then, so long as your principles are as pliant as wax.
-- **[Epictetus]** "Being healthy is good, being sick is bad." No, my friend: enjoying health in the right way is good; making bad use of your health is bad.
-- **[Epictetus]** For God’s sake, stop honouring externals, quit turning yourself into the tool of mere matter, or of people who can supply you or deny you those material things.
-- **[Epictetus]** A boxer derives the greatest advantage from his sparring partner – and my accuser is my sparring partner. He trains me in patience, civility and even temper.
-- **[Epictetus]** I have a bad neighbour – bad, that is, for himself. For me, though, he is good: he exercises my powers of fairness and sociability.
-- **[Epictetus]** My mind represents for me my medium – like wood to a carpenter, or leather to a shoemaker. The goal in my case is the correct use of impressions.
-- **[Epictetus]** Look, can you be forced to assent to what appears to you wrong?" "No." "Or to dissent from the plain truth?" "No." "Then you see you do have within you a share of freedom."
-- **[Epictetus]** All our efforts must be directed towards an end, or we will act in vain. If it is not the right end, we will fail utterly.
-- **[Epictetus]** Do you want to know if you are educated? Show us your values, philosopher.
-- **[Epictetus]** He’s a clever young man and a fan of rhetoric." "How do you know?" "He praises me." Oh, well, that proves it, of course.
-- **[Epictetus]** Understand what words you use first, then use them.
-- **[Epictetus]** Friends, the school of a philosopher is a hospital. When you leave, you should have suffered, not enjoyed yourself.
-- **[Epictetus]** Who wants to live with delusion and prejudice, being unjust, undisciplined, mean and ungrateful? "No one." No bad person, then, lives the way he wants, and no bad man is free.
-- **[Epictetus]** So you admit that you have at least one master. And don’t let the fact that Caesar rules over everyone, as you say, console you: it only means that you’re a slave in a very large household.
-- **[Epictetus]** "Do we have that many masters?" We do. Because over and above the rest we have masters in the form of circumstances, which are legion. And anyone who controls any one of them controls us as well.
-- **[Epictetus]** What makes for freedom and fluency in the practice of writing? Knowledge of how to write. The same goes for the practice of playing an instrument. It follows that, in the conduct of life, there must be a science to living well.
-- **[Epictetus]** But suppose I choose to walk, and someone obstructs me?" What part of you will they obstruct? Certainly not your power of assent? "No, my body." Your body, yes – as they might obstruct a rock. "Perhaps; but the upshot is, now I’m not allowed to walk." Whoever told you, "Walking is your irrevocable privilege’? I said only that the will to walk could not be obstructed.
-- **[Epictetus]** A plant or animal fares poorly when it acts contrary to its nature; and a human being is no different. Well, then, biting, kicking, wanton imprisonment and beheading – is that what our nature entails? No; rather, acts of kindness, cooperation and good will. And so, whether you like it or not, a person fares poorly whenever he acts like an insensitive brute.
-- **[Epictetus]** People to whom such things are still denied come to imagine that everything good will be theirs if only they could acquire them. Then they get them: and their longing is unchanged, their anxiety is unchanged, their disgust is no less, and they still long for whatever is lacking. Freedom is not achieved by satisfying desire, but by eliminating it.
-- **[Epictetus]** Formerly, when you were devoted to worthless pursuits, your friends found you congenial company. But you can’t be a hit in both roles. To the extent you cultivate one you will fall short in the other.
-- **[Epictetus]** If you forfeit an external possession, make sure to notice what you get in return. If it is something more valuable, never say, "I have suffered a loss."
-- **[Epictetus]** Very little is needed for everything to be upset and ruined, only a slight lapse in reason. It’s much easier for a mariner to wreck his ship than it is for him to keep it sailing safely; all he has to do is head a little more upwind and disaster is instantaneous. In fact, he does not have to do anything: a momentary loss of attention will produce the same result.
-- **[Epictetus]** The more we value things outside our control, the less control we have.
-- **[Epictetus]** Either you’re going to be depressed when your wish is not realized or foolishly pleased with yourself if it is, overjoyed for the wrong reasons.
-- **[Epictetus]** Just prove to me that you are trustworthy, high-minded and reliable, and that your intentions are benign – prove to me that your jar doesn’t have a hole in it – and you’ll find that I won’t even wait for you to open your heart to me, I’ll be the first to implore you to lend an ear to my own affairs.
-- **[Epictetus]** If we try to adapt our mind to the regular sequence of changes and accept the inevitable with good grace, our life will proceed quite smoothly and harmoniously.
-- **[Epictetus]** Impressions (which philosophers call), striking a person’s mind as soon as he perceives something within range of his senses, are not voluntary or subject to his will, they impose themselves on people’s attention almost with a will of their own. But the act of assent (which they call) which endorses these impressions is voluntary and a function of the human will.
-- **[Epictetus]** Most apparent philosophers were philosophers not in their actions, only their words.
-- **[Epictetus]** There were two vices much blacker and more serious than the rest: lack of persistence and lack of self-control ... persist and resist.
-- **[Epictetus]** I say that virtue is more valuable than wealth to the same degree that eyes are more valuable than fingernails.
-- **[Epictetus]** I blush deeply whenever I catch myself saying anything disgraceful. It’s this reflex that will not allow me to propose pleasure as the good and the goal of life.
-- **[Epictetus]** It is just charming how people boast about qualities beyond their control. For instance, "I am better than you because I have many estates, while you are practically starving’; or, "I’m a consul," "I’m a governor," or "I have fine curly hair."
-- **[Epictetus]** People who are physically ill are unhappy with a doctor who doesn’t give them advice, because they think he has given up on them. Shouldn’t we feel the same towards a philosopher – and assume that he has given up hope of our ever becoming rational – if he will no longer tell us what we need (but may not like) to hear?
-- **[Epictetus]** People with a strong physical constitution can tolerate extremes of hot and cold; people of strong mental health can handle anger, grief, joy and the other emotions.
-- **[Epictetus]** Once, when [Agrippinus] was preparing for lunch, a messenger arrived from Rome announcing that Nero had sentenced him to exile. Unflustered he replied, "Then why don’t we just move our lunch to Aricia."
-- **[Epictetus]** So does this misfortune prevent you in any way from being just, generous, sober, reasonable, careful, free from error, courteous, free, etc. – all of which together make human nature complete?
-- **[Epictetus]** We are responsible for some things, while there are others for which we cannot be held responsible.
-- **[Epictetus]** If you have the right idea about what really belongs to you and what does not, you will never be subject to force or hindrance, you will never blame or criticize anyone, and everything you do will be done willingly.
-- **[Epictetus]** So make a practice at once of saying to every strong impression: "An impression is all you are, not the source of the impression." Then test and assess it with your criteria, but one primarily: ask, "Is this something that is, or is not, in my control?"
-- **[Epictetus]** The faculty of desire purports to aim at securing what you want, while aversion purports to shield you from what you don’t. If you fail in your desire, you are unfortunate, if you experience what you would rather avoid you are unhappy.
-- **[Epictetus]** It is not events that disturb people, it is their judgements concerning them.
-- **[Epictetus]** An ignorant person is inclined to blame others for his own misfortune. To blame oneself is proof of progress. But the wise man never has to blame another or himself.
-- **[Epictetus]** What quality belongs to you? The intelligent use of impressions. If you use impressions as nature enchiridion prescribes, go ahead and indulge your pride, because then you will be celebrating a quality distinctly your own.
-- **[Epictetus]** Don’t hope that events will turn out the way you want, welcome events in whichever way they happen: this is the path to peace.
-- **[Epictetus]** Provoked by the sight of a handsome man or a beautiful woman, you will discover within you the contrary power of self-restraint. Faced with pain, you will discover the power of endurance. If you are insulted, you will discover patience. In time, you will grow to be confident that there is not a single impression that you will not have the moral means to tolerate.
-- **[Epictetus]** Under no circumstances ever say "I have lost something," only "I returned it."
-- **[Epictetus]** Starting with things of little value – a bit of spilled oil, a little stolen wine – repeat to yourself: "For such a small price I buy tranquillity and peace of mind."
-- **[Epictetus]** You have to realize, it isn’t easy to keep your will in agreement with nature, as well as externals. Caring about the one inevitably means you are going to shortchange the other.
-- **[Epictetus]** Remember to act always as if you were at a symposium. When the food or drink comes around, reach out and take some politely; if it passes you by don’t try pulling it back. And if it has not reached you yet, don’t let your desire run ahead of you, be patient until your turn comes.
-- **[Epictetus]** Don’t let outward appearances mislead you into thinking that someone with more prestige, power or some other distinction must on that account be happy.
-- **[Epictetus]** Remember, it is not enough to be hit or insulted to be harmed, you must believe that you are being harmed. If someone succeeds in provoking you, realize that your mind is complicit in the provocation. ... Take a moment before reacting, and you will find it is easier to maintain control.
-- **[Epictetus]** If you commit to philosophy, be prepared at once to be laughed at and made the butt of many snide remarks.
-- **[Epictetus]** If I can make money while remaining honest, trustworthy and dignified, show me how and I will do it. But if you expect me to sacrifice my own values, just so you can get your hands on things that aren’t even good – well, you can see yourself how thoughtless and unfair you’re being.
-- **[Epictetus]** "Well, what will my profession in the community be?" Whatever position you are equipped to fill, so long as you preserve the man of trust and integrity.
-- **[Epictetus]** When somebody’s wife or child dies, to a man we all routinely say, "Well, that’s part of life." But if one of our own family is involved, then right away it’s "Poor, poor me!" We would do better to remember how we react when a similar loss afflicts others.
-- **[Epictetus]** If your body was turned over to just anyone, you would doubtless take exception. Why aren’t you ashamed that you have made your mind vulnerable to anyone who happens to criticize you, so that it automatically becomes confused and upset?
-- **[Epictetus]** "My brother is unfair to me." Well then, keep up your side of the relationship; don’t concern yourself with his behaviour, only with what you must do to keep your will in tune with nature. Another person will not hurt you without your cooperation; you are hurt the moment you believe yourself to be.
-- **[Epictetus]** Settle on the type of person you want to be and stick to it, whether alone or in company.
-- **[Epictetus]** When you’re called upon to speak, then speak, but never about banalities like gladiators, horses, sports, food and drink – common-place stuff. Above all don’t gossip about people, praising, blaming or comparing them.
-- **[Epictetus]** If you learn that someone is speaking ill of you, don’t try to defend yourself against the rumours; respond instead with, "Yes, and he doesn’t know the half of it, because he could have said more."
-- **[Epictetus]** In your conversation, don’t dwell at excessive length on your own deeds or adventures. Just because you enjoy recounting your exploits doesn’t mean that others derive the same pleasure from hearing about them.
-- **[Epictetus]** Take a minute and let the matter wait on you. Then reflect on both intervals of time: the time you will have to experience the pleasure, and the time after its enjoyment that you will beat yourself up over it.
-- **[Epictetus]** As you are careful when you walk not to step on a nail or turn your ankle, so you should take care not to do any injury to your character at the same time.
-- **[Epictetus]** Whenever anyone criticizes or wrongs you, remember that they are only doing or saying what they think is right. They cannot be guided by your views, only their own; so if their views are wrong, they are the ones who suffer insofar as they are misguided. I mean, if someone declares a true conjunctive proposition to be false, the proposition is unaffected, it is they who come off worse for having their ignorance exposed.
-- **[Epictetus]** [When someone does something you don't like] Say to yourself each time, "He did what he believed was right."
-- **[Epictetus]** If your brother mistreats you, don’t try to come to grips with it by dwelling on the wrong he’s done (because that approach makes it unbearable); remind yourself that he’s your brother, that you two grew up together; then you’ll find that you can bear it.
-- **[Epictetus]** The following are non-sequiturs: "I am richer, therefore superior to you’; or "I am a better speaker, therefore a better person, than you."
-- **[Epictetus]** Someone bathes in haste; don’t say he bathes badly, but in haste. Someone drinks a lot of wine; don’t say he drinks badly, but a lot. Until you know their reasons, how do you know that their actions are vicious?
-- **[Epictetus]** The mark and attitude of the ordinary man: never look for help or harm from yourself, only from outsiders. The mark and attitude of the philosopher: look for help and harm exclusively from yourself.
-- **[Epictetus]** If I admire the interpretation [of a philosophical treatise], I have turned into a literary critic instead of a philosopher, the only difference being that, instead of Homer, I’m interpreting Chrysippus.
-- **[Epictetus]** How long will you wait before you demand the best of yourself, and trust reason to determine what is best?
-- **[Epictetus]** When faced with anything painful or pleasurable, anything bringing glory or disrepute, realize that the crisis is now, that the Olympics have started, and waiting is no longer an option; that the chance for progress, to keep or lose, turns on the events of a single day.
-- **[Epictetus]** [on valuing theoretical over practical philosophy] The result is that we lie – but have no difficulty proving why we shouldn’t.
-- **[Epictetus]** Just keep in mind: the more we value things outside our control, the less control we have.
-- **[Epictetus]** When someone is properly grounded in life, they shouldn't have to look outside themselves for approval.
-- **[Epictetus]** Don't explain your philosophy. Embody it.
-- **[Epictetus]** Wealth consists not in having great possessions, but in having few wants.
-- **[Epictetus]** He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.
-- **[Epictetus]** Give yourself fully to your endeavors. Decide to construct your character through excellent actions and determine to pay the price of a worthy goal. The trials you encounter will introduce you to your strengths.
-- **[Epictetus]** Now is the time to get serious about living your ideals. How long can you afford to put off who you really want to be? Your nobler self cannot wait any longer. Put your principles into practice – now. Stop the excuses and the procrastination. This is your life! […] Decide to be extraordinary and do what you need to do – now.
-- **[Epictetus]** If anyone tells you that a certain person speaks ill of you, do not make excuses about what is said of you but answer, 'He was ignorant of my other faults, else he would not have mentioned these alone'.
-- **[Epictetus]** I have to die. If it is now, well then I die now; if later, then now I will take my lunch, since the hour for lunch has arrived – and dying I will tend to later.
-- **[Epictetus]** What upsets people is not things themselves, but their judgements about these things.
-- **[Epictetus]** You become what you give your attention to…If you yourself don't choose what thoughts and images you expose yourself to, someone else will.
-- **[Epictetus]** Show me someone for whom success is less important than the manner in which it is achieved. Of concern for the means, rather than the ends, of their actions…I want to see him. This is the person I have looked for a long time, the true genius.
-- **[Epictetus]** No man is free who is not master of himself.
-- **[Epictetus]** Be silent for the most part, or, if you speak, say only what is necessary and in a few words.
-- **[Epictetus]** How long are you going to wait before you demand the best for yourself?
-- **[Epictetus]** Progress is not achieved by luck or accident, but by working on yourself daily.
-- **[Epictetus]** Talk, but rarely, if occasion calls you, but do not talk of ordinary things – of gladiators or horses races or athletes or of meats or drinks – these are topics that arise everywhere – but above all do not talk about men in blame or compliment or comparison.
-- **[Epictetus]** Happiness is not to acquire and enjoy, but nothing to be desired, as it is to be free.
-- **[Epictetus]** It is impossible that happiness, and yearning for what is not present, should ever be united.
-- **[Epictetus]** There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
-- **[Epictetus]** Don't demand or expect that events happen as you would wish them to. Accept events as they actually happen. That way peace is possible.
-- **[Epictetus]** If you are ever tempted to look for outside approval, realize that you have compromised your integrity. If you need a witness, be your own.
-- **[Epictetus]** Keep death and exile before your eyes each day, along with everything that seems terrible — by doing so, you'll never have a base thought nor will you have excessive desire.
-- **[Epictetus]** If evil be spoken of you and it be true, correct yourself, if it's a lie, laugh at it.
-- **[Epictetus]** Keep company only with people who uplift you.
-- **[Epictetus]** If you want to improve, be content to be thought foolish and stupid.
-- **[Epicurus]** You don't develop courage by being happy in your relationships everyday. You develop it by surviving difficult times and challenging adversity.
-- **[Epicurus]** It is not so much our friends' help that helps us as the confident knowledge that they will help us.
-- **[Friedrich Nietzsche]** That one wants nothing to be different, not forward, not backwards, not in all eternity. Not merely bear what is necessary, still less conceal it… but love it.
-- **[Friedrich Nietzsche (Check out for more on Amor Fati)]** Amor fati – "Love your fate", which is in fact your life.
-- **[Ginny Rometty (IBM)]** Growth and comfort do not coexist.
-- **[Greg McKeown]** You cannot overestimate the unimportance of practically everything.
-- **[Greg McKeown (Author of)]** Take a deep breath. Get present in the moment and ask yourself what is important this very second.
-- **[Haemin Sunim]** Life's three best teachers: heartbreak, empty pocket, failures.
-- **[Haemin Sunim]** Your true self is not your emotion such as anger, frustration or hate. It is the inner witness that knows the rise and fall of your emotion.
-- **[Heraclitus]** To be evenminded is the greatest virtue.
-- **[Heraclitus]** Nothing endures but change.
-- **[Heraclitus]** Man's character is his fate.
-- **[Irvine]** Stoicism, understood properly, is a cure for a disease. The disease in question is the anxiety, grief, fear, and various other negative emotions that plague humans and prevent them from experiencing a joyful existence. William B.
-- **[Irvine]** We humans are unhappy in large part because we are insatiable; after working hard to get what we want, we routinely lose interest in the object of our desire. Rather than feeling satisfied, we feel a bit bored, and in response to this boredom, we go on to form new, even grander desires. William B.
-- **[Irvine]** By contemplating the impermanence of everything in the world, we are forced to recognize that every time we do something could be the last time we do it, and this recognition can invest the things we do with a significance and intensity that would otherwise be absent. William B.
-- **[Irvine]** If we seek social status, we give other people power over us: We have to do things calculated to make them admire us, and we have to refrain from doing things that will trigger their disfavor. William B.
-- **[Jack Kornfield]** Life is all the more precious and beautiful because it is so fleeting.
-- **[Jack Kornfield]** Life is so hard, how can we be anything but kind?
-- **[James Allen]** Self-control is strength. Right thought is mastery. Calmness is power.
-- **[James Pierce]** To be stoic is not to be emotionless, but to remain unaffected by your emotions.
-- **[James Pierce]** Effortless stoicism will come when you have dismantled everything in your mind that produces reactions.
-- **[Jane Austen]** Always resignation and acceptance. Always prudence and honour and duty.
-- **[Joe Rogan]** Live your life like you're the hero in your movie.
-- **[Joe Rogan]** If you ever start taking things too seriously, just remember that we are talking monkeys on an organic spaceship flying through the universe.
-- **[Joe Rogan]** We define ourselves far too often by our past failures. That's not you. You are this person right now. You're the person who has learned from those failures.
-- **[Joe Rogan]** Discomfort is your friend. It doesn't matter if you're sick, if you have kids… if you're a pro, you go to work.
-- **[John Milton]** He who reigns within himself, and rules passions, desires, and fears, is more than a king.
-- **[John Wooden]** If you lose self-control everything will fall.
-- **[Johnny Uzan]** Things you won't say on your deathbed: "I wish I paid more attention to what other people think".
-- **[Jonas Salzgeber]** Stoicism teaches how to keep a calm and rational mind no matter what happens to you and it helps you understand and focus on what you can control and not worry about and accept what you can't control.
-- **[Joshua Becker]** Stop trying to impress others with your stuff and start trying to impress them with your life.
-- **[Joshua Fields Millburn]** The things you own end up owning you.
-- **[Joshua Fields Millburn]** The most important reason to live in the moment is nothing lasts forever. Enjoy the moment while it's in front of you. Be present. Accept life for what it is: a finite span of time with infinite possibilities.
-- **[Justus Lipsius]** He who does not desire or fear the uncertain day or capricious fate, is equal to the gods above and loftier than mortals.
-- **[Ken Poirot]** True success is achieved by stretching oneself, learning to feel comfortable being uncomfortable.
-- **[Krishna]** It is better to perform one's own predetermined duty, even if one performs that duty imperfectly, than perform the duty of another. When one performs his own predetermined duty in accordance with one's nature, one does not incur any sin.
-- **[Krishna]** Everything comes and goes in life. Happiness and unhappiness are temporary experiences that rise from sense perception. Heat and cold, pleasure and pain, will come and go. They never last forever. So, do not get attached to them. We have no control over them.
-- **[Lao Tzu]** The key to growth is the introduction of higher dimensions of consciousness into our awareness.
-- **[Live Math Money]** Life is a slow treadmill. People who stand still are actually going behind.
-- **[Marcus Aurelius]** From my grandfather Verus I learned good morals and the government of my temper.
-- **[Marcus Aurelius]** From my mother [I learned] abstinence, not only from evil deeds, but even from evil thoughts; and further, simplicity in my way of living, far removed from the habits of the rich.
-- **[Marcus Aurelius]** From Diognetus [I learned] not to busy myself about trifling things, and not to give credit to what was said by miracle-workers and jugglers about incantations and the driving away of demons and such things.
-- **[Marcus Aurelius]** From Rustics [I learned] with respect to those who have offended me by words, or done me wrong, to be easily disposed to be pacified and reconciled.
-- **[Marcus Aurelius]** From Sextus [I learned] to tolerate ignorant persons, and those who form opinions without consideration.
-- **[Marcus Aurelius]** From Fronto [I learned] that generally those among us who are called Patricians are rather deficient in paternal affection.
-- **[Marcus Aurelius]** From Alexander the Platonic [I learned not] continually to excuse the neglect of duties required by our relations to those with whom we live, by alleging urgent occupations.
-- **[Marcus Aurelius]** From Catulus [I learned] not to be indifferent when a friend finds fault, even if he should find fault without reason, but to try to restore him to his usual disposition.
-- **[Marcus Aurelius]** From my brother Severus [I learned] to love my kin, and to love truth, and to love justice.
-- **[Marcus Aurelius]** From Maximus I learned self-government, and not to be led aside by anything; and cheerfulness in all circumstances, as well as in illness.
-- **[Marcus Aurelius]** The things that conduce in any way to the convenience of life, and of which fortune gives an abundant supply, [my adoptive father] used without arrogance and without excusing himself.
-- **[Marcus Aurelius]** Begin the morning by saying to yourself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil. ... I can neither be injured by any of them, for no one can fix on me what is ugly, nor can I be angry with my kinsman, nor hate him.
-- **[Marcus Aurelius]** A limit of time is fixed for you, which if you do not use for clearing away the clouds from your mind, it will go and you will go, and it will never return.
-- **[Marcus Aurelius]** You will give yourself relief, if you do every act of your life as if it were the last.
-- **[Marcus Aurelius]** Failure to observe what is in the mind of another has seldom made a man unhappy; but those who do not observe the movements of their own minds must of necessity be unhappy.
-- **[Marcus Aurelius]** Since it is possible that you might depart from life this very moment, regulate every act and thought accordingly.
-- **[Marcus Aurelius]** Death and life, honor and dishonor, pain and pleasure — all these things equally happen to good men and bad, being things which make us neither better nor worse. Therefore they are neither good nor evil.
-- **[Marcus Aurelius]** How quickly things disappear: in the universe the bodies themselves, but in time the memory of them.
-- **[Marcus Aurelius]** The present is the only thing of which a man can be deprived, if it is true that this is the only thing which he has, and that a man cannot lose something he does not already possess.
-- **[Marcus Aurelius]** Even the smallest thing should be done with reference to an end.
-- **[Marcus Aurelius]** What then can guide a man? One thing and only one, philosophy. But this consists in keeping the daimon within a man free from violence and unharmed, superior to pains and pleasures, doing nothing without a purpose, nor yet falsely and with hypocrisy.
-- **[Marcus Aurelius]** Finally, waiting for death with a cheerful mind, as being nothing else than a dissolution of the elements of which every living being is compounded. But if there is no harm to the elements themselves in each continually changing into another, why should a man have any apprehension about the change and dissolution of all the elements?
-- **[Marcus Aurelius]** Hippocrates, after curing many diseases, himself fell sick and died. ... Alexander and Pompeius and Gaius Caesar, after so often completely destroying whole cities ... themselves, too, at last departed from life. ... And lice destroyed Democritus; and other lice killed Socrates.
-- **[Marcus Aurelius]** What does all this mean? You have embarked, made the voyage, and come to the shore; get out. If indeed to another life, there is no want of gods, not even there. But if to a state without sensation, you will cease to be held by pains and pleasures, and to be a slave to the vessel.
-- **[Marcus Aurelius]** Do not waste the remainder of your life in thoughts about others ... for you lose the opportunity of doing something else when you have such thoughts as these.
-- **[Marcus Aurelius]** To care for all men is according to man’s nature; and man should value the opinion only of those who openly live according to nature.
-- **[Marcus Aurelius]** Labor willingly and diligently, undistracted and aware of the common interest. ... Be cheerful also, and do not seek external help or the tranquillity that others give. A man then must stand erect, not be kept erect by others.
-- **[Marcus Aurelius]** It is not right that anything of any other kind, such as praise from the many, or power, or enjoyment of pleasure, should come into competition with that which is rationally and politically and practically good.
-- **[Marcus Aurelius]** Never value anything as profitable that compels you to break your promise, to lose your self-respect, to hate any man, to suspect, to curse, to act the hypocrite, to desire anything that needs walls and curtains.
-- **[Marcus Aurelius]** Brief is man’s life and small the nook of the earth where he lives; brief, too, is the longest posthumous fame, buoyed only by a succession of poor human beings who will very soon die and who know little of themselves, much less of someone who died long ago.
-- **[Marcus Aurelius]** It is in your power whenever you choose to retire into yourself. For there is no retreat that is quieter or freer from trouble than a man’s own soul.
-- **[Marcus Aurelius]** With what are you discontented? With the badness of men? Recall to your mind this conclusion, that rational animals exist for one another, and that to endure is a part of justice, and that men do wrong involuntarily.
-- **[Marcus Aurelius]** Perhaps the desire of the thing called fame torments you. See how soon everything is forgotten, and look at the chaos of infinite time on each side of the present, and the emptiness of applause, and the fickleness and lack of judgment in those who pretend to give praise, and the narrowness of its domain, and be quiet at last.
-- **[Marcus Aurelius]** Things do not touch the soul, for they are external and remain immovable; so our perturbations come only from our inner opinions.
-- **[Marcus Aurelius]** The universe is transformation: life is opinion.
-- **[Marcus Aurelius]** If the intellectual is common to all men, so is reason, in respect of which we are rational beings: if this is so, common also is the reason that commands us what to do, and what not to do; if this is so, there is a common law also; if this is so, we are fellow-citizens; if this is so, we are members of some political community.
-- **[Marcus Aurelius]** Take away your opinion, and then there is taken away the complaint, "I have been harmed." Take away the complaint, "I have been harmed," and the harm is taken away.
-- **[Marcus Aurelius]** A man should always have these two rules in readiness: one, to do only whatever the reason of the ruling and legislating faculty may suggest for the use of men; the other, to change your opinion, if anyone sets you right and dissuades you from any opinion.
-- **[Marcus Aurelius]** Do you have reason? I have. Why then do you not use it?
-- **[Marcus Aurelius]** Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.
-- **[Marcus Aurelius]** Look not round at the depraved morals of others, but run straight along the line without deviating from it.
-- **[Marcus Aurelius]** He who has a vehement desire for posthumous fame does not consider that every one of those who remember him will himself also die very soon.
-- **[Marcus Aurelius]** A thing is neither better nor worse for having been praised.
-- **[Marcus Aurelius]** Do not be whirled about, but in every movement have respect to justice, and on the occasion of every impression maintain the faculty of comprehension or understanding.
-- **[Marcus Aurelius]** Do what is necessary, and whatever the reason of a social animal naturally requires, and as it requires.
-- **[Marcus Aurelius]** Since the greatest part of what we say and do is unnecessary, dispensing with such activities affords a man more leisure and less uneasiness.
-- **[Marcus Aurelius]** Your life is short. You must turn to profit the present by the aid of reason and justice.
-- **[Marcus Aurelius]** In like manner view also the other epochs of time and of whole nations, and see how many after great efforts soon fell and were resolved into the elements.
-- **[Marcus Aurelius]** It is necessary to remember that the attention given to everything has its proper value and proportion. For you will not be dissatisfied if you apply yourself to smaller matters no further than is fit.
-- **[Marcus Aurelius]** Everything is only for a day, both that which remembers and that which is remembered.
-- **[Marcus Aurelius]** Always observe how ephemeral and worthless human things are, and what was yesterday a speck of semen tomorrow will be a mummy or ashes.
-- **[Marcus Aurelius]** Be like the promontory against which the waves continually break; but it stands firm and tames the fury of the water around it.
-- **[Marcus Aurelius]** "I am unhappy, because this has happened to me." Not so: say, "I am happy, though this has happened to me, because I continue free from pain, neither crushed by the present nor fearing the future."
-- **[Marcus Aurelius]** Remember, too, on every occasion that leads you to vexation to apply this principle: not that this is a misfortune, but that to bear it nobly is good fortune.
-- **[Marcus Aurelius]** Altogether the interval is small between birth and death; and consider with how much trouble, and in company with what sort of people and in what a feeble body, this interval is laboriously passed.
-- **[Marcus Aurelius]** In the morning, when you rise unwillingly, let this thought be present: I am rising to the work of a human being.
-- **[Marcus Aurelius]** Have I been made for this, to lie under the blankets and keep myself warm? But this is more pleasant. Do you exist then to take your pleasure, and not at all for action or exertion?
-- **[Marcus Aurelius]** Judge every word and deed that are naturally fit for you, and do not be diverted by words of blame or criticism; if it is good to do or say something, do not consider it unworthy of yourself.
-- **[Marcus Aurelius]** Do you see how many qualities you are immediately able to exhibit, in which there is no excuse of natural incapacity and unfitness, and yet you still remain voluntarily below the mark?
-- **[Marcus Aurelius]** A man when he has done a good act, does not call out for others to come and see, but he goes on to another act, as a vine goes on to produce again the grapes in season.
-- **[Marcus Aurelius]** Do not be disgusted, discouraged, or dissatisfied if you do not succeed in doing everything according to right principles; but when you have failed, return again, and be content if the greater part of what you do is consistent with man’s nature.
-- **[Marcus Aurelius]** To rest in these principles only: the one, that nothing will happen to me which is not conformable to the nature of the universe; and the other, that it is in my power never to act contrary to my god and daimon: for there is no man who will compel me to this.
-- **[Marcus Aurelius]** Every part of me then will be reduced by change into some part of the universe, and that again will change into another part of the universe, and so on forever.
-- **[Marcus Aurelius]** Such as are your habitual thoughts, such also will be the character of your mind; for the soul is dyed by the thoughts. Dye it then with a continuous series of such thoughts as these: for instance, that where a man can live, there he can also live well.
-- **[Marcus Aurelius]** Where the end is, there also is the advantage and the good of each thing. Now the good for the reasonable animal is society.
-- **[Marcus Aurelius]** Think of the universal substance, of which you have a very small portion; and of universal time, of which a short and indivisible interval has been assigned to you; and of that which is fixed by destiny, and how small a part of it you are.
-- **[Marcus Aurelius]** As you intend to live when you are gone, so it is in your power to live here. But if men do not permit you, then get away out of life, as if you were suffering no harm. The house is smoky, and I quit it. Why do you think that this is any trouble? But so long as nothing of the kind drives me out, I remain, am free, and no man shall hinder me from doing what I choose; and I choose to do what is according to the nature of the rational and social animal.
-- **[Marcus Aurelius]** The history of your life is now complete and your service is ended: and how many beautiful things you have seen; and how many pleasures and pains you have despised; and how many things called honorable you have spurned; and to how many ill-minded folks you have shown a kind disposition.
-- **[Marcus Aurelius]** You can pass your life in an equable flow of happiness if you can follow the right way and think and act in the right way.
-- **[Marcus Aurelius]** Let it make no difference to you whether you are cold or warm, if you are doing your duty; and whether you are drowsy or satisfied with sleep; and whether ill- spoken of or praised; and whether dying or doing something else.
-- **[Marcus Aurelius]** When you have been compelled by circumstances to be disturbed in a manner, quickly return to yourself and do not continue out of tune longer than the compulsion lasts.
-- **[Marcus Aurelius]** Suppose then that you have given up this worthless thing called fame, what remains that is worth valuing? This, in my opinion: to move yourself and to restrain yourself in conformity to your proper constitution, to which end all employments and arts lead.
-- **[Marcus Aurelius]** How strangely men act. They will not praise those who are living at the same time and living with themselves; but to be themselves praised by posterity, by those whom they have never seen or ever will see, this they set much value on.
-- **[Marcus Aurelius]** Let us overlook many things in those who are like antagonists in the gymnasium. For it is in our power, as I said, to get out of the way and to have no suspicion or hatred.
-- **[Marcus Aurelius]** If any man is able to convince me and show me that I do not think or act right, I will gladly change; for I seek the truth by which no man was ever injured. But he is injured who abides in his error and ignorance.
-- **[Marcus Aurelius]** Alexander the Macedonian and his groom were brought to the same state by death; for either they were received among the same seminal principles of the universe, or they were alike dispersed among the atoms.
-- **[Marcus Aurelius]** They are certainly moved toward things because they suppose them to be suitable to their nature and profitable to them. "But it is not so." Teach them then, and show them without being angry.
-- **[Marcus Aurelius]** Return to your sober senses and call yourself back; and when you have roused yourself from sleep and have perceived that they were only dreams that troubled you, now in your waking hours look at these (the things about you) as you did look at those (the dreams).
-- **[Marcus Aurelius]** My city and country, so far as I am Antoninus, is Rome; but so far as I am a man, it is the world.
-- **[Marcus Aurelius]** You will observe this general truth, that whatever is profitable to any man is profitable also to other men.
-- **[Marcus Aurelius]** Think continually that all kinds of men, pursuits, and nations are dead.
-- **[Marcus Aurelius]** One thing here is worth a great deal: to pass your life in truth and justice, with a benevolent disposition even to liars and unjust men.
-- **[Marcus Aurelius]** When you wish to delight yourself, think of the virtues of those who live with you; for instance, the activity of one, the modesty of another, the liberality of a third, and some other good quality of a fourth.
-- **[Marcus Aurelius]** He who loves fame considers another man’s activity to be his own good; and he who loves pleasure, his own sensations; but he who has understanding considers his own acts to be his own good.
-- **[Marcus Aurelius]** It is in our power to have no opinion about a thing and not to be disturbed in our soul; for things themselves have no natural power to form our judgments.
-- **[Marcus Aurelius]** Accustom yourself to attend carefully to what is said by another, and as much as it is possible, try to inhabit the speaker’s mind.
-- **[Marcus Aurelius]** How soon will time cover all things, and how many it has covered already.
-- **[Marcus Aurelius]** In whatever I do, either by myself or with another, I must direct my energies to this alone, that it shall conduce to the common interest and be in harmony with it.
-- **[Marcus Aurelius]** To the rational animal the same act is at once according to nature and according to reason.
-- **[Marcus Aurelius]** Whatever any one does or says, I must be good, just as if the emerald (or the gold or the purple) were always saying "Whatever any one does or says, I must be emerald and keep my color."
-- **[Marcus Aurelius]** Is any man afraid of change? What can take place without change? What then is more pleasing or more suitable to the universal nature? And can you take a hot bath unless the wood for the fire undergoes a change? And can you be nourished unless the food undergoes a change? And can anything else that is useful be accomplished without change? Do you not see then that for yourself also to change is just the same, and equally necessary for the universal nature?
-- **[Marcus Aurelius]** In a little while you will have forgotten everything; in a little while everything will have forgotten you.
-- **[Marcus Aurelius]** It is peculiar to man to love even those who do wrong. And this happens, if when they do wrong it occurs to you that they are fellow humans and that they do wrong through ignorance and unintentionally, and that soon both of you will die; and above all, that the wrongdoer has done you no harm, for he has not made your ruling faculty worse than it was before.
-- **[Marcus Aurelius]** If even the perception of doing wrong departs, what reason is there for living any longer?
-- **[Marcus Aurelius]** When a man has done you wrong, immediately consider with what opinion about good or evil he has done wrong. For when you have seen this, you will pity him, and will neither wonder nor be angry.
-- **[Marcus Aurelius]** Think not so much of what you lack as of what you have: but of the things that you have, select the best, and then reflect how eagerly you would have sought them if you did not have them. At the same time, however, take care that you do not through being so pleased with them accustom yourself to overvalue them, so as to be disturbed if you should ever not have them.
-- **[Marcus Aurelius]** About death: Whether it is a dispersion, or a resolution into atoms, or annihilation, it is either extinction or change.
-- **[Marcus Aurelius]** The mind maintains its own tranquillity by retiring into itself, and the ruling faculty is not made worse. But the parts that are harmed by pain, let them, if they can, give their opinion about it.
-- **[Marcus Aurelius]** Consider that as the heaps of sand piled on one another hide the former sands, so in life the events that go before are soon covered by those that come after.
-- **[Marcus Aurelius]** No man can escape his destiny, the next inquiry being how he may best live the time that he has to live.
-- **[Marcus Aurelius]** To have contemplated human life for forty years is the same as to have contemplated it for ten thousand years. For what more will you see?
-- **[Marcus Aurelius]** Only attend to yourself, and resolve to be a good man in every act that you do.
-- **[Marcus Aurelius]** The art of life is more like the wrestler’s art than the dancer’s, in respect of this, that it should stand ready and firm to meet onsets that are sudden and unexpected.
-- **[Marcus Aurelius]** Constantly observe who those are whose approbation you wish to have, and what ruling principles they possess. For then you will neither blame those who offend involuntarily, nor will you want their approbation if you look to the sources of their opinions and appetites.
-- **[Marcus Aurelius]** Pain is neither intolerable nor everlasting if you bear in mind that it has its limits, and if you add nothing to it in imagination.
-- **[Marcus Aurelius]** Very little indeed is necessary for living a happy life.
-- **[Marcus Aurelius]** The judgment should be able to say to the thing that falls under its observation: This you are in substance (reality), though in men’s opinion you may appear to be of a different kind.
-- **[Marcus Aurelius]** The perfection of moral character consists in this, in passing every day as if it were the last, and in being neither violently excited nor torpid nor playing the hypocrite.
-- **[Marcus Aurelius]** It is a ridiculous thing for a man not to fly from his own badness, which is indeed possible, but to fly from other men’s badness, which is impossible.
-- **[Marcus Aurelius]** When you have done a good act and another has received it, why do you look for a third thing besides these, as fools do, either to have the reputation of having done a good act or to obtain a return?
-- **[Marcus Aurelius]** On the occasion of every act ask yourself, How is this with respect to me? Will I regret it? A little time and I am dead, and all is gone.
-- **[Marcus Aurelius]** Consider that men will do the same things even though you would burst with rage.
-- **[Marcus Aurelius]** Do not be perturbed, for all things are according to the nature of the universal; and in a little time you will be nobody and nowhere, like Hadrian and Augustus.
-- **[Marcus Aurelius]** You have not leisure or ability to read. But you have leisure or ability to check arrogance: you have leisure to be superior to pleasure and pain: you have leisure to be superior to love of fame, and not to be vexed at stupid and ungrateful people, nay even to care for them.
-- **[Marcus Aurelius]** Constantly and, if it be possible, on the occasion of every impression on the soul, apply to it the principles of physics, ethics, and dialectics [logic].
-- **[Marcus Aurelius]** Whatever man you meet with, immediately say to yourself: What opinions has this man about good and bad?
-- **[Marcus Aurelius]** If a thing is in your own power, why do you do it? But if it is in the power of another, whom do you blame? The atoms (chance) or the gods? Both are foolish. You must blame nobody.
-- **[Marcus Aurelius]** Nothing should be done without a purpose.
-- **[Marcus Aurelius]** It is a proper work of a man to be benevolent to his own kind, to despise the movements of the senses, to form a just judgment of plausible appearances, and to take a survey of the nature of the universe and of the things that happen in it.
-- **[Marcus Aurelius]** Now it is in my power to let no badness be in this soul, nor desire nor any perturbation at all; but looking at all things, I see their true nature, and I use each according to its value.
-- **[Marcus Aurelius]** Receive wealth or prosperity without arrogance; and be ready to let it go.
-- **[Marcus Aurelius]** Do not let your thoughts at once embrace all the various troubles that you may expect to befall you: but on every occasion ask yourself, What is there in this that is intolerable and past bearing? For you will be ashamed to confess.
-- **[Marcus Aurelius]** I see no virtue that is opposed to justice; but I see a virtue that is opposed to love of pleasure, and that is temperance.
-- **[Marcus Aurelius]** Different things delight different people. But it is my delight to keep the ruling faculty sound without turning away either from any man or from any of the things that happen to men, but looking at and receiving all with welcoming eyes and using everything according to its value.
-- **[Marcus Aurelius]** Those who rather pursue posthumous fame do not consider that the men of tomorrow will be exactly like these whom they cannot bear now; and both are mortal.
-- **[Marcus Aurelius]** Take me and cast me where you will; for there I shall keep my divine part tranquil, that is, content, if it can feel and act conformably to its proper constitution.
-- **[Marcus Aurelius]** If you are pained by any external thing, it is not this thing that disturbs you, but your own judgment about it. And it is in your power to wipe out this judgment now.
-- **[Marcus Aurelius]** "But it is not worthwhile to live if this cannot be done." Take your departure then from life contentedly.
-- **[Marcus Aurelius]** The mind that is free from passions is a citadel, for man has nothing more secure to which he can fly for refuge and repel every attack.
-- **[Marcus Aurelius]** "A cucumber is bitter." Throw it away. "There are briars in the road." Turn aside from them. This is enough. Do not add, "And why were such things made in the world?"
-- **[Marcus Aurelius]** To my own free will the free will of my neighbor is just as indifferent as his poor breath and flesh.
-- **[Marcus Aurelius]** He who fears death fears either the loss of sensation or a different kind of sensation. But if you shall have no sensation, neither will you feel any harm; and if you will acquire another kind of sensation, you will be a different kind of living being and you will not cease to live.
-- **[Marcus Aurelius]** Men exist for the sake of one another. Teach them then or bear with them.
-- **[Marcus Aurelius]** Injustice is impiety. For since the universal nature has made rational animals for the sake of one another to help one another according to their deserts, but in no way to injure one another, he who transgresses her will is clearly guilty of impiety toward the highest divinity.
-- **[Marcus Aurelius]** He who is afraid of pain will sometimes also be afraid of some of the things that will happen in the world, and even this is impiety. And he who pursues pleasure will not abstain from injustice, and this is plainly impiety.
-- **[Marcus Aurelius]** This, then, is consistent with the character of a reflecting man, to be neither careless nor impatient nor contemptuous with respect to death, but to wait for it as one of the operations of nature.
-- **[Marcus Aurelius]** He who does wrong does wrong against himself. He who acts unjustly acts unjustly to himself, because he makes himself bad.
-- **[Marcus Aurelius]** He often acts unjustly who does not do a certain thing; not only he who does a certain thing.
-- **[Marcus Aurelius]** If you are able, correct by teaching those who do wrong; but if you cannot, remember that indulgence is given to you for this purpose.
-- **[Marcus Aurelius]** Labor not as one who is wretched, nor yet as one who would be pitied or admired; but direct your will to one thing only: to act or not to act as social reason requires.
-- **[Marcus Aurelius]** Today I have got out of all trouble, or rather I have cast out all trouble, for it was not outside, but within and in my opinions.
-- **[Marcus Aurelius]** Things stand outside of us, themselves by themselves, neither knowing anything of themselves nor expressing any judgment. What is it, then, that passes judgment on them? The ruling faculty.
-- **[Marcus Aurelius]** All things are changing: and you yourself are in continuous mutation and in a manner in continuous destruction, and the whole universe, too.
-- **[Marcus Aurelius]** As you yourself are a component part of a social system, so let every act of yours be a component part of social life.
-- **[Marcus Aurelius]** When another blames you or hates you, or when men say anything injurious about you, approach their poor souls, penetrate within, and see what kind of men they are. You will discover that there is no reason to be concerned that these men have this or that opinion about you.
-- **[Marcus Aurelius]** In a word, if there is a god, all is well; and if chance rules, do not also be governed by it.
-- **[Marcus Aurelius]** Set yourself in motion, if it is in your power, and do not look about you to see if anyone will observe it; nor yet expect Plato’s Republic: but be content if the smallest thing goes on well, and consider such an event to be no small matter.
-- **[Marcus Aurelius]** The work of philosophy is simple and modest. Do not draw me aside into pomposity.
-- **[Marcus Aurelius]** How short is the time from birth to dissolution, and the illimitable time before birth as well as the equally boundless time after dissolution.
-- **[Marcus Aurelius]** Either all things proceed from one intelligent source and come together as in one body, and the part ought not to find fault with what is done for the benefit of the whole; or there are only atoms, and nothing else than mixture and dispersion. Why, then, are you disturbed?
-- **[Marcus Aurelius]** When you are offended with any man’s shameless conduct, immediately ask yourself, is it possible, then, that shameless men should not be in the world? It is not possible. Do not, then, require what is impossible.
-- **[Marcus Aurelius]** Where is the harm or the strangeness in the boor acting like a boor? See whether you are not yourself the more to blame in not expecting that he would err in such a way. For you had means given you by your reason to suppose that it was likely that he would commit this error, and yet you have forgotten and are amazed that he has erred.
-- **[Marcus Aurelius]** The rational animal is consequently also a social animal.
-- **[Marcus Aurelius]** If a man is mistaken, instruct him kindly and show him his error. But if you are not able, blame yourself, or not even yourself.
-- **[Marcus Aurelius]** Whether the universe is a concourse of atoms, or nature is a system, let this first be established: that I am a part of the whole that is governed by nature; next, that I stand in some intimate connection with other kindred parts.
-- **[Marcus Aurelius]** When you have assumed these names—good, modest, truthful, rational, a man of equanimity, and magnanimous—take care that you do not change these names; and if you should lose them, quickly return to them.
-- **[Marcus Aurelius]** Acquire the contemplative way of seeing how all things change into one another, and constantly attend to it, and exercise yourself about this part of philosophy. For nothing is so much adapted to produce magnanimity.
-- **[Marcus Aurelius]** He who follows reason in all things is both tranquil and active at the same time, and also cheerful and collected.
-- **[Marcus Aurelius]** No longer talk at all about the kind of man that a good man ought to be, but be such.
-- **[Marcus Aurelius]** Consider what men are when they are eating, sleeping, coupling, evacuating, and so forth. Then what kind of men they are when they are imperious and arrogant, or angry and scolding from their elevated place.
-- **[Marcus Aurelius]** When you are offended at any man’s fault, immediately turn to yourself and reflect in what manner you yourself have erred: for example, in thinking that money is a good thing or pleasure, or a bit of reputation, and the like.
-- **[Marcus Aurelius]** A brief existence is common to all things, and yet you avoid and pursue all things as if they would be eternal.
-- **[Marcus Aurelius]** There is no man so fortunate that there shall not be by him when he is dying some who are pleased with what is going to happen.
-- **[Marcus Aurelius]** What is your art? To be good. And how is this accomplished well except by general principles, some about the nature of the universe, and others about the proper constitution of man?
-- **[Marcus Aurelius]** Justice will not be observed, if we either care for indifferent things or are easily deceived and careless and changeable.
-- **[Marcus Aurelius]** Shall any man hate me? That will be his affair. But I will be mild and benevolent toward every man, and ready to show even him his mistake, not reproachfully, nor yet as making a display of my endurance, but nobly and honestly.
-- **[Marcus Aurelius]** Consider that you also do many things wrong, and that you are a man like others; and even if you do abstain from certain faults, still you have the disposition to commit them, though either through cowardice, or concern about reputation, or some such mean motive, you abstain from such faults.
-- **[Marcus Aurelius]** A man must learn a great deal to enable him to pass a correct judgment on another man’s acts.
-- **[Marcus Aurelius]** It is our own opinions that disturb us. Take away these opinions then, and resolve to dismiss your judgment about an act as if it were something grievous, and your anger is gone.
-- **[Marcus Aurelius]** To expect bad men not to do wrong is madness, for he who expects this desires an impossibility. But to allow men to behave so to others, and to expect them not to do you any wrong, is irrational and tyrannical.
-- **[Marcus Aurelius]** In the writings of the Ephesians there was this precept: constantly to think of one of the men of former times who practiced virtue.
-- **[Marcus Aurelius]** The Pythagoreans bid us in the morning look to the heavens that we may be reminded of those bodies that continually do the same things and in the same manner perform their work, and also be reminded of their purity and nudity. For there is no veil over a star.
-- **[Marcus Aurelius]** If you shall be afraid not because you must some time cease to live, but if you shall fear never to have begun to live according to nature—then you will be a man worthy of the universe that has produced you, and you will cease to be a stranger in your native land.
-- **[Marcus Aurelius]** You are composed of three things: body, breath (life), intelligence. Of these the first two are yours insofar as it is your duty to take care of them; but the third alone is truly yours.
-- **[Marcus Aurelius]** I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.
-- **[Marcus Aurelius]** In the application of your principles you must be like the pancratiast, not like the gladiator. For the latter lays aside the blade he uses, and takes it up again, but the former always has his hand and needs only to clench it.
-- **[Marcus Aurelius]** Either there is a fatal necessity and invincible order, or a kind Providence, or a confusion without a purpose and without a director. If then there is an invincible necessity, why do you resist? But if there is a Providence that allows itself to be propitiated, make yourself worthy of the help of the divinity. But if there is a confusion without a governor, be content that in such a tempest you have yourself a certain ruling intelligence.
-- **[Marcus Aurelius]** If it is not right, do not do it: if it is not true, do not say it. For let your impulse be in your own power.
-- **[Marcus Aurelius]** First, do nothing inconsiderately or without a purpose. Second, make your acts refer to nothing else but a social end.
-- **[Marcus Aurelius]** Consider that before long you will be nobody and nowhere, nor will any of the things exist that you now see, nor any of those who are now living. For all things are formed by nature to change and be turned and to perish in order that other things in continuous succession may exist.
-- **[Marcus Aurelius]** Consider that everything is opinion, and opinion is in your power. Take away then, when you choose, your opinion, and like a mariner who has rounded the headland, you will find calm, everything stable, and a waveless bay.
-- **[Marcus Aurelius]** With respect to what may happen to you from without, consider that it happens either by chance or according to Providence, and you must neither blame chance nor accuse Providence.
-- **[Marcus Aurelius]** Constantly recall those who have complained greatly about anything, those who have been most conspicuous by the greatest fame or misfortunes or enmities or fortunes of any kind: then think, Where are they all now? Smoke and ash and a tale, or not even a tale.
-- **[Marcus Aurelius]** How small a part of the boundless and unfathomable time is assigned to every man! For it is very soon swallowed up in the eternal. And how small a part of the whole substance! And how small a part of the universal soul! And on what a small clod of the whole earth you creep!
-- **[Marcus Aurelius]** The tranquility that comes when you stop caring what they say. Or think, or do. Only what you do.
-- **[Marcus Aurelius]** Learn to be indifferent to what makes no difference.
-- **[Marcus Aurelius]** If it's endurable, then endure it. Stop complaining.
-- **[Marcus Aurelius]** Waste no more time arguing what a good man should be, be one.
-- **[Marcus Aurelius]** You have power over your mind — not outside events. Realize this, and you will find strength.
-- **[Marcus Aurelius]** Be tolerant with others and strict with yourself.
-- **[Marcus Aurelius]** Just that you do the right thing. The rest doesn't matter.
-- **[Marcus Aurelius]** When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love.
-- **[Marcus Aurelius]** Do what you will. Even if you tear yourself apart, most people will continue doing the same things.
-- **[Marcus Aurelius]** It can ruin your life only if it ruins your character. Otherwise it cannot harm you — inside or out.
-- **[Marcus Aurelius]** Every hour focus your mind attentively…on the performance of the task in hand, with dignity, human sympathy, benevolence and freedom, and leave aside all other thoughts. You will achieve this, if you perform each action as if it were your last.
-- **[Marcus Aurelius]** There are two of the most immediately useful thoughts you will dip into. First that things cannot touch the mind: they are external and inert; anxieties can only come from your internal judgement. Second, that all these things you see will change almost as you look at them, and then will be no more. Constantly bring to mind all that you yourself have already seen changed. The universe is change: life is judgement.
-- **[Marcus Aurelius]** If you have your heart set on wearing crowns, why not make one out of roses – you will look even more elegant in that.
-- **[Marcus Aurelius]** Whatever happens at all happens as it should; you will find this true, if you watch narrowly.
-- **[Marcus Aurelius]** Why is this so unbearable? Why can't I endure it? You'll be embarrassed to answer.
-- **[Marcus Aurelius]** Run down the list of those who felt intense anger at something: the most famous, the most unfortunate, the most hated, the most whatever: Where is all that now? Smoke, dust, legend…or not even a legend. Think of all the examples. And how trivial the things we want so passionately are.
-- **[Marcus Aurelius]** Everything that happens is either endurable or not. If it's endurable, then endure it. Stop complaining. If it's unendurable… then stop complaining. Your destruction will mean its end as well. Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so.
-- **[Marcus Aurelius]** The impediment to action advances action. What stands in the way becomes the way.
-- **[Marcus Aurelius]** Not to assume it's impossible because you find it hard. But to recognize that if it's humanly possible, you can do it too.
-- **[Marcus Aurelius]** Do not indulge in dreams of having what you have not, but reckon up the chief of the blessings you do possess, and then thankfully remember how you would crave for them if they were not yours.
-- **[Marcus Aurelius]** Men seek out retreats for themselves in the country, by the seaside, on the mountains… nowhere can a man find a retreat more peaceful or more free from trouble than his own soul.
-- **[Marcus Aurelius]** Objective judgment, at this very moment. Unselfish action, now at this very moment. Willing acceptance – now at this very moment – of all external events. That's all you need.
-- **[Marcus Aurelius]** This is the mark of perfection of character—to spend each day as if it were your last, without frenzy, laziness, or any pretending.
-- **[Marcus Aurelius]** Concentrate every minute like a Roman— like a man— on doing what's in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions.
-- **[Marcus Aurelius]** Because most of what we say and do is not essential. If you can eliminate it, you'll have more time, and more tranquility. Ask yourself at every moment, 'Is this necessary?'.
-- **[Marcus Aurelius]** If you seek tranquility, do less. Or (more accurately) do what's essential – what the reason of a social being requires, and in the requisite way. Which brings a double satisfaction: to do less, better.
-- **[Marcus Aurelius]** The happiness of those who want to be popular depends on others; the happiness of those who seek pleasure fluctuates with moods outside their control; but the happiness of the wise grows out of their own free acts.
-- **[Marcus Aurelius]** All you need are these: certainty of judgment in the present moment; action for the common good in the present moment; and an attitude of gratitude in the present moment for anything that comes your way.
-- **[Marcus Aurelius]** To love only what happens, what was destined. No greater harmony.
-- **[Marcus Aurelius]** Whatever anyone does or says, I'm bound to the good. Whatever anyone does or says, I must be what I am and show my true colors.
-- **[Marcus Aurelius]** Everywhere, at each moment, you have the option: to accept this event with humility; to treat this person as he should be treated; to approach this thought with care, so that nothing irrational creeps in.
-- **[Marcus Aurelius]** Focus on what nature demands, as if you were governed by that alone. Then do that, and accept it, unless your nature as a living being would be degraded by it.
-- **[Marcus Aurelius]** Whatever happens to you has been waiting to happen since the beginning of time.
-- **[Marcus Aurelius]** Only these two questions: Is what he's doing now the right thing to be doing? Does he accept and welcome what he's been assigned?
-- **[Marcus Aurelius]** Each of us needs what nature gives us, when nature gives it.
-- **[Marcus Aurelius]** Accept things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.
-- **[Marcus Aurelius]** Here is a rule to remember in future, when anything tempts you to feel bitter: not 'This is misfortune', but 'To bear this worthily is good fortune.
-- **[Marcus Aurelius]** If anyone can refute me‚ show me I'm making a mistake or looking at things from the wrong perspective‚ I'll gladly change. It's the truth I'm after.
-- **[Marcus Aurelius]** Many of the anxieties that harass you are superfluous… Expand into an ampler region, letting your thought sweep over the entire universe.
-- **[Marcus Aurelius]** Death smiles at us all, but all a man can do is smile back.
-- **[Marcus Aurelius]** Consider the abyss of time past, infinite future. Three das of life or three generations: what's the difference?
-- **[Marcus Aurelius]** You could leave life right now. Let that determine what you do and say and think.
-- **[Marcus Aurelius]** He has stripped away his body and – realizing that at some point soon he will have to abandon mankind and leave all this behind – has dedicated himself to serving justice in all he does, and nature in all that happens.
-- **[Marcus Aurelius]** The best answer to anger is silence.
-- **[Marcus Aurelius]** Not to display anger or other emotions. To be free of passion and yet full of love.
-- **[Marcus Aurelius]** It is our own opinions that disturb us. Take away these opinions then, and resolve to dismiss your judgment about an act as if it were something grievous, and your anger is gone.
-- **[Marcus Aurelius]** Yes, you can — if you do everything as if it were the last thing you were doing in life, and stop being aimless, stop letting your emotions override what your mind tells you, stop being hypocritical, self-centered, irritable.
-- **[Marcus Aurelius]** Pain is neither intolerable nor everlasting if you bear in mind that it has its limits, and if you add nothing to it in imagination.
-- **[Marcus Aurelius]** Does what's happened keep you from acting with justice, generosity, self-control, sanity, prudence, honesty, humility, straightforwardness, and all other qualities that allow a person's nature to fulfil itself? So remember this principle when something threatens to cause you pain: the thing itself was no misfortune at all; to endure it and prevail is great good fortune.
-- **[Marcus Aurelius]** What people say or think about him, or how they treat him, isn't something he worries about.
-- **[Marcus Aurelius]** You don't love yourself enough. Or you'd love your nature too, and what it demands of you.
-- **[Marcus Aurelius]** Accustom yourself to attend carefully to what is said by another, and as much as it is possible, try to inhabit the speaker's mind.
-- **[Marcus Aurelius]** The secret of all victory lies in the organization of the non-obvious.
-- **[Marcus Aurelius]** Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
-- **[Maxime Lagacé]** Be stoic: Just do the right thing. Just keep going.
-- **[Maxime Lagacé]** If you make happiness your goal, you'll be disappointed. If you make presence your goal, you'll be satisfied.
-- **[Maxime Lagacé]** Ensure you endure.
-- **[Maxime Lagacé]** Keep your intention pure. Emotions will try to distract you. So keep going. That's the cure.
-- **[Maxime Lagacé]** Expect the river to be wild, surprising and challenging. To expect the opposite is to live in delusion.
-- **[Maxime Lagacé]** Some can delay gratification. Others don't seek it at all. Be the latter.
-- **[Maxime Lagacé]** The only thing you can control is the thought you are having right now. Make it calm, clear and simple. Make it your superpower.
-- **[Maxime Lagacé]** True stoics don't care about the outcome. They just care to give their best shot, right here, right now.
-- **[Maxime Lagacé]** Life will punch you in the face if your head gets too big. Don't ever pretend, don't lie, don't feel superior. Just be honest and do your own thing.
-- **[Maxime Lagacé]** The easiest way to live unhappy and unsatisfied is to hope. More often than not, you'll be disappointed. Thus, your main aim should be to do the best you can right now and to expect nothing at all. Accept the way things turn out despite your best effort. That's the only path to a peaceful mind.
-- **[Maxime Lagacé]** Human beings want control and certainty. "Accepting fate" means the opposite. That's why it seems absurd to us.
-- **[Maxime Lagacé]** I'm not asking you to be fearless. I'm asking you to be courageous.
-- **[Maxime Lagacé]** Death could be around the corner, for you, for your friends and for your family. I'm not trying to scare you. I'm just realist.
-- **[Maxime Lagacé]** Being angry means your lizard brain took control. Being calm means you stayed above your emotions.
-- **[Maxime Lagacé]** It will only hurt if you keep remembering it but a true stoic looks forward.
-- **[Maxime Lagacé]** Understand: a critic doesn't disturb you, it disturbs your ego. You want to know the truth. Your ego is scared of it.
-- **[Maxime Lagacé]** Life without love would be a strange thing. But don't be surprised if you get burned.
-- **[Maxime Lagacé]** Winning is not about talent, being smart, taking shortcuts. It's about finding the right thing to do, and doing it.
-- **[Michael]** Advice for nearly everything: start slowly and maintain traction.
-- **[Michael]** It's hard to prioritize the long term when you think you should feel comfortable in every moment.
-- **[Mingyur Rinpoche]** When we become fixed in our perceptions we lose our ability to fly.
-- **[Mingyur Rinpoche]** When you transform your mind, everything you experience is transformed.
-- **[Mingyur Rinpoche]** The expectation that you bring to your meditation are often the greatest obstacles you will encounter.
-- **[Mingyur Rinpoche]** At any given moment, you can choose to follow the chain of thoughts, emotions, and sensations that reinforce a perception of yourself as vulnerable and limited, or to remember that your true nature is pure, unconditioned, and incapable of being harmed.
-- **[Mokokoma Mokhonoana]** Expectation is the only seed of disappointment.
-- **[Musonius Rufus]** Since every man dies, it is better to die with distinction than to live long.
-- **[Musonius Rufus]** If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.
-- **[Nassim Nicholas Taleb]** Stoicism is about the domestication of emotions, not their elimination.
-- **[Nassim Nicholas Taleb]** A Stoic is someone who transforms fear into prudence, pain into transformation, mistakes into initiation, and desire into undertaking.
-- **[Nassim Nicholas Taleb]** Don't aim to be perfect. Aim to be antifragile.
-- **[Nassim Nicholas Taleb]** Difficulty is what wakes up the genius.
-- **[Nassim Nicholas Taleb]** A stoic is a Buddhist with attitude.
-- **[Nassim Nicholas Taleb]** Missing a train is only painful if you run after it! Likewise, not matching the idea of success others expect from you is only painful if that's what you are seeking.
-- **[Nassim Nicholas Taleb]** Much of what other people know isn't worth knowing.
-- **[Nassim Nicholas Taleb]** Intelligence consists in ignoring things that are irrelevant.
-- **[Nassim Nicholas Taleb]** The wise man listens to meaning, the fool only gets the noise.
-- **[Nassim Nicholas Taleb]** Heroes are heroes because they are heroic in behaviour, not because they won or lost.
-- **[Nassim Nicholas Taleb]** You find peace by coming to terms with what you don't know.
-- **[Nassim Nicholas Taleb]** Comfort makes you weaker. We need some variability, some stressors. Not too much, but just enough.
-- **[Nassim Nicholas Taleb]** The fragile wants tranquility, the antifragile grows from disorder, and the robust doesn't care too much.
-- **[Nassim Nicholas Taleb]** Learn to fail with pride — and do so fast and cleanly. Maximise trial and error — by mastering the error part.
-- **[Nassim Nicholas Taleb]** Greatness starts with the replacement of hatred with polite disdain.
-- **[Nassim Nicholas Taleb]** Your reputation is harmed the most by what you say to defend it.
-- **[Nassim Nicholas Taleb]** Love without sacrifice is like theft.
-- **[Nassim Nicholas Taleb]** It is a sign of weakness to avoid showing signs of weakness.
-- **[Nassim Nicholas Taleb]** Weak men act to satisfy their needs, stronger men their duties.
-- **[Naval Ravikant]** We are bacteria to the universe. We're basically monkeys on a small rock orbiting a small backwards star in a huge galaxy, which is in an absolutely staggeringly gigantic universe, which itself may be part of a gigantic multiverse.
-- **[Naval Ravikant]** Desire is a contract that you make with yourself to be unhappy until you get what you want.
-- **[Naval Ravikant]** Your existence, my existence is just infinitesimal. It's like a firefly blinking once in the night.
-- **[Naval Ravikant]** The universe has been around for a long time, and the universe is a very, very large place. If you'll study even the smallest bit of science, for all practical purposes we are nothing.
-- **[Naval Ravikant]** We're not really here that long, and we don't really matter that much. Nothing that we do lasts. Eventually, you will fade. Your works will fade. Your children will fade. Your thoughts will fade. These planets will fade. This sun will fade. It will all be gone.
-- **[Naval Ravikant]** The phrase that I use the most to myself in my head is one word: accept.
-- **[Naval Ravikant]** True rewards – wealth, knowledge, love, fitness, and equanimity – come from ignoring others and improving ourselves.
-- **[Naval Ravikant]** You can it, you can accept it, or you can leave it. What is not a good option is to sit around wishing you would change it but not changing it, wishing you would leave it but not leaving it, and not accepting it.
-- **[Naval Ravikant]** Meditation is intermittent fasting for the mind. Too much sugar leads to a heavy body, and too many distractions lead to a heavy mind. Time spent undistracted and alone, in self-examination, journaling, meditation, resolves the unresolved and takes us from mentally fat to fit.
-- **[Naval Ravikant]** Success is the enemy of learning. It can deprive you of the time and the incentive to start over. Beginner's mind also needs beginner's time.
-- **[Naval Ravikant]** The fundamental delusion — there is something out there that will make me happy and fulfilled forever.
-- **[Naval Ravikant]** Once you've truly controlled your own fate, for better or for worse, you'll never let anyone else tell you what to do.
-- **[Naval Ravikant]** All greatness comes from suffering.
-- **[Naval Ravikant]** A fit body, a calm mind, a house full of love. These things cannot be bought — they must be earned.
-- **[Naval Ravikant]** If you're more passionate about founding a business than the business itself, you can fall into a ten year trap. Better to stay emotionally unattached and select the best opportunity that arises. Applies to relationships too.
-- **[net)]** Happiness isn't outside of us, but actually comes from within. Leo Babauta (zenhabits.
-- **[Nicholas Nassim Taleb]** We are quick to forget that just being alive is an extraordinary piece of good luck, a remote event, a chance occurrence of monstrous proportions.
-- **[Othello]** The robbed that smiles steals something from the thief.
-- **[Paul Graham]** Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have.
-- **[Pema Chödrön]** Fear is a natural reaction to moving closer to the truth.
-- **[Plato]** No human thing is of serious importance.
-- **[Posidonius]** A single day among the learned lasts longer than the longest life of the ignorant.
-- **[Robert Greene]** The ultimate power in life is to be completely self-reliant, completely yourself.
-- **[Robert Greene]** Too many people believe that everything must be pleasurable in life.
-- **[Robert Greene]** Move toward resistance and pain.
-- **[Robert Greene]** Make the mind tougher by exposing it to adversity.
-- **[Robert Greene]** Life is full of hostility — some of it overt, some clever and underhanded.
-- **[Robert Greene]** Learn to detach yourself from the chaos of the battlefield.
-- **[Robert Greene]** If change is forced upon you, you must resist the temptation to overreact or feel sorry for yourself.
-- **[Robert Greene]** Cultivate a fearless approach to life, attack everything with boldness and energy.
-- **[Robert Greene]** Understand: in life as in war, nothing ever happens just as you expect it to.
-- **[Robert Greene]** Realists are not afraid to look at the harsh circumstances of life.
-- **[Robert Greene]** Repeated failure will toughen your spirit and show you with absolute clarity how things must be done.
-- **[Robert Greene]** Withstand the setbacks and failures, the days of drudgery, and the hard work that are always a part of any creative action.
-- **[Robert Greene]** Life has more meaning in the face of death.
-- **[Robert Greene]** By becoming deeply aware of our mortality, we intensify our experience of every aspect of life.
-- **[Robert Greene]** Once the ego inflates it will only come back to earth through some jarring failure.
-- **[Robert Greene]** Do not envy those who seems naturally gifted; it is often a curse.
-- **[Robert Greene]** The pain and boredom we experience in the initial stage of learning a skill toughens our minds.
-- **[Robert Greene]** Accustom yourself to criticism.
-- **[Robert Greene]** Can you take criticism and use it constructively?
-- **[Robert Greene]** Become your own worst critic; see your work as if through the eyes of others.
-- **[Robert Greene]** You must not be afraid of your uniqueness and you must care less and less what people think of you.
-- **[Robert Greene]** Eventually, the time that was not spent on learning skills will catch up with you, and the fall will be painful.
-- **[Robert Greene]** You are not tied to a particular position; your loyalty is not to a career or company.
-- **[Robert Greene]** Understand: people will constantly attack you in life. One of their main weapons will be to instill in you doubts about yourself. They will often disguise this as their objective opinion, but invariably it has a political purpose – they want to keep you down.
-- **[Robertson]** Remind yourself that the past and are 'indifferent' to you, and that the supreme good, and eudaimonia, can only exist within you, right now, in the present moment. Donald J.
-- **[Robertson]** The wise man needs nothing and yet he can make good use of anything, whereas the fool 'needs' countless things but can make good use of none of them. Donald J.
-- **[Robin Sharma]** The more time you spend in your discomfort zone, the more your comfort zone will expand.
-- **[Rumi]** Don't grieve. Anything you lose comes round in another form.
-- **[Ryan Holiday]** The great law of nature is that it never stops. There is no end.
-- **[Ryan Holiday]** The obstacle is the way.
-- **[Ryan Holiday]** Great times are great softeners.
-- **[Ryan Holiday]** In life, it doesn't matter what happens to you or where you came from. It matters what you do with what happens and what you've been given.
-- **[Ryan Holiday]** The world might call you a pessimist. Who cares? It's far better to seem like a downer than to be blindsided or caught off guard.
-- **[Ryan Holiday]** No one is asking you to look at the world through rose-colored glasses.
-- **[Ryan Holiday]** What matters most is not what our obstacles are but how we see them, how we react to them, and whether we keep our composure.
-- **[Ryan Holiday]** We must remember: There is no easy way.
-- **[Ryan Holiday]** Genius often really is just persistence in disguise.
-- **[Ryan Holiday]** True will is quiet humility, resilience, and flexibility; the other kind of will is weakness disguised by bluster and ambition.
-- **[Ryan Holiday]** First, see clearly. Next, act correctly. Finally, endure and accept the world as it is.
-- **[Ryan Holiday]** Focus on the moment, not the monsters that may or may not be up ahead.
-- **[Ryan Holiday]** We must be willing to roll the dice and lose. Prepare, at the end of the day, for none of it to work.
-- **[Ryan Holiday]** The path of least resistance is a terrible teacher.
-- **[Ryan Holiday]** Bad companies are destroyed by crisis. Good companies survive them. Great individuals, like great companies, find a way to transform weakness into strength.
-- **[Ryōkan]** Why do you so earnestly seek the truth in distant places? Look for delusion and truth in the bottom of your own hearts.
-- **[Sam Altman]** Don't let jerks live rent-free in your head.
-- **[Scott Peck]** The truth is that our finest moments are most likely to occur when we are feeling deeply uncomfortable, unhappy, or unfulfilled. For it is only in such moments, propelled by our discomfort, that we are likely to step out of our ruts and start searching for different ways or truer answers. M.
-- **[Seneca]** There’s no difference between the one and the other - you didn’t exist and you won’t exist - you’ve got no concern with either period. As it is with a play, so it is with life - what matters is not how long the acting lasts, but how good it is. It is not important at what point you stop. Stop wherever you will - only make sure that you round it off with a good ending.
-- **[Seneca]** There are times when even to live is an act of bravery. So there is the comforting thing about extremities of pain: if you feel it too much you are bound to stop feeling it. The love of power or money or luxurious living are not the only things which are guided by popular thinking. We take our cue from people’s thinking even in the way we feel pain. Another thing which will help you is to turn your mind to other thoughts and that way get away from your suffering. Call to mind things which you have done that have been upright or courageous; run over in your mind the finest parts you have played. "But my illness has taken me away from my duties and won’t allow me to achieve anything." It is your body, not your mind as well, that is in the grip of ill health.
-- **[Seneca]** Drunkenness inflames and lays bare every vice, removing the reserve that acts as a chuck on impulses to wrong behaviour.
-- **[Seneca]** ...pleasures, when they go beyond a certain limit, are but punishments…
-- **[Seneca]** So I look for the best and am prepared for the opposite.
-- **[Seneca]** There is nothing dangerous in a man’s having as much power as he likes if he takes the view that he has power to do only what it is his duty to do.
-- **[Seneca]** The things that are essential are acquired with little bother; it is the luxuries that call for toil and effort.
-- **[Seneca]** One thing I know: all the works of mortal man lie under sentence of mortality; we live among things that are destined to perish.
-- **[Seneca]** A setback has often cleared the way for greater prosperity. Many things have fallen only to rise to more exalted heights.
-- **[Seneca]** When it comes to all we’re required to go through, we’re equals. No one is more vulnerable than the next man, and no one can be more sure of his surviving to the morrow.
-- **[Seneca]** And no one has power over us when death is within our own power.
-- **[Seneca]** The man who spends his time choosing one resort after another in a hunt for peace and quiet, will in every place he visits find something to prevent him from relaxing.
-- **[Seneca]** Now think of the things which goad man into destroying man: they are hope, envy, hatred, fear and contempt.
-- **[Seneca]** ...to be feared is to fear: no one has been able to strike terror into others and at the same time enjoy peace of mind himself.
-- **[Seneca]** People who know no self-restraint lead stormy and disordered lives, passing their time in a state of fear commensurate with the injuries they do to others, never able to relax. After every act they tremble, paralysed, their consciences continually demanding an answer, not allowing them to get on with other things. To expect punishment is to suffer it; and to earn it is to expect it.
-- **[Seneca]** Others have been plundered, indiscriminately, set upon, betrayed, beaten up, attacked with poison or with calumny - mention anything you like, it has happened to plenty of people.
-- **[Seneca]** Every day as it comes should be welcomed and reduced forthwith into our own possession as if it were the finest day imaginable. What flies past has to be seized at.
-- **[Seneca]** My advice is really this: what we hear the philosophers saying and what we find in their writings should be applied in our pursuit of the happy life. We should hunt out the helpful pieces of teaching, and the spirited and noble-minded sayings which are capable of immediate practical application - not far-fetched or archaic expressions or extravagant metaphors and figures of speech - and learn them so well that words become works.
-- **[Seneca]** ...nothing is burdensome if taken lightly, and how… nothing need arouse one’s irritation so long as one doesn’t make it bigger than it is by getting irritated.
-- **[Seneca]** My baker may be out of bread, but the farm manager will have some, or the steward, or a tenant. "Bad bread, yes!" you’ll say. Wait, then: it’ll soon turn into good bread. Hunger will make you find even that bread soft and wheaty.
-- **[Seneca]** It is essential to make oneself used to putting up with a little. Even the wealthy and the well provided are continually met and frustrated by difficult times and situations. It is in no man’s power to have whatever he wants; but he has it in his power not to wish for what he hasn’t got, and cheerfully make the most of the things that do come his way.
-- **[Seneca]** And a stomach firmly under control, one that will put up with hard usage, marks a considerable step towards independence.
-- **[Seneca]** Glory’s an empty, changeable thing, as fickle as the weather. Poverty’s no evil to anyone unless he kicks against it. Death is not an evil. What is it then? The one law mankind has that is free of all discrimination. Superstition is an idiotic heresy: it fears those it should love: it dishonours those it worships. For what difference does it make whether you deny the gods or bring them into disrepute?
-- **[Seneca]** The whole future lies in uncertainty: live immediately.
-- **[Seneca]** It does not matter what you bear, but how you bear it.
-- **[Seneca]** A gem cannot be polished without friction, nor a man perfected without trials.
-- **[Seneca]** To bear trials with a calm mind robs misfortune of its strength and burden.
-- **[Seneca]** The mind that is anxious about future events is miserable.
-- **[Seneca]** The wise man is neither raised up by prosperity nor cast down by adversity; for always he has striven to rely predominantly on himself, and to derive all joy from himself.
-- **[Seneca]** Many men will meet me who are drunkards, lustful, ungrateful, greedy, and excited by the frenzy of ambition.
-- **[Seneca]** Set aside a certain number of days during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while, "Is this the condition that I feared?
-- **[Seneca]** It is not the man who has too little, but the man who craves more, that is poor.
-- **[Seneca]** While we wait for life, life passes.
-- **[Seneca]** There is no genius without a touch of madness.
-- **[Seneca]** We should not, like sheep, follow the herd of creatures in front of us, making our way where others go, not where we ought to go.
-- **[Seneca]** Associate with people who are likely to improve you. Welcome those who you are capable of improving. The process is a mutual one: men learn as they teach.
-- **[Seneca]** As each day arises, welcome it as the very best day of all, and make it your own possession. We must seize what flees.
-- **[Seneca]** Inwardly, we ought to be different in every respect, but our outward dress should blend in with the crowd.
-- **[Seneca]** You are scared of dying—and, tell me, is the kind of life you lead really any different than being dead?
-- **[Seneca]** You need not look about for the reward of a just deed; a just deed in itself offers a still greater return.
-- **[Seneca]** Everyone faces up more bravely to a thing for which he has long prepared himself, sufferings, even, being withstood if they have been trained for in advance. Those who are unprepared, on the other hand, are panic-stricken by the most insignificant happenings.
-- **[Seneca]** True happiness is to enjoy the present, without anxious dependence upon the future, not to amuse ourselves with either hopes or fears but to rest satisfied with what we have, which is sufficient, for he that is so wants nothing.
-- **[Seneca]** Until we have begun to go without them, we fail to realize how unnecessary many things are. We've been using them not because we needed them but because we had them.
-- **[Seneca]** We must take a higher view of all things, and bear with them more easily: it better becomes a man to scoff at life than to lament over it.
-- **[Seneca]** He who laughs at the human race deserves better of it than he who mourns for it, for the former leaves it some good hopes of improvement, while the latter stupidly weeps over what he has given up all hopes of mending.
-- **[Seneca]** We must indulge the mind and from time to time allow it the leisure which is its food and strength. We must go for walks out of doors, so that the mind can be strengthened by a clear sky and plenty of fresh air.
-- **[Seneca]** In the mean time, cling tooth and nail to the following rule: not to give in to adversity, not to trust prosperity, and always take full note of fortune's habit of behaving just as she pleases.
-- **[Seneca]** Let us not postpone anything, let us engage in combats with life each day.
-- **[Seneca]** It's not that we have little time, but more that we waste a good deal of it.
-- **[Seneca]** Begin at once to live, and count each separate day as a separate life.
-- **[Seneca]** So, concerning the things we pursue, and for which we vigorously exert ourselves, we owe this consideration – either there is nothing useful in them, or most aren't useful. Some of them are superfluous, while others aren't worth that much. But we don't discern this and see them as free, when they cost us dearly.
-- **[Seneca]** A man thus grounded must, whether he wills or not, necessarily be attended by constant cheerfulness and a joy that is deep and issues from deep within, since he finds delight in his own resources, and desires no joys greater than his inner joys.
-- **[Seneca]** Your food should appease your hunger, your drink quench your thirst, your clothing keep out the cold, your house be a protection against inclement weather. It makes no difference whether it is built of turf or of variegated marble imported from another country.
-- **[Seneca]** Barley porridge, or a crust of bread, and water do not make a very cheerful diet, but nothing gives one keener pleasure than the ability to derive pleasure even from that — and the feeling of having arrived at something which one cannot be deprived of by any unjust stroke of fortune.
-- **[Seneca]** Set aside now and then a number of days during which you will be content with the plainest of food, and very little of it, and with rough, coarse clothing, and will ask yourself, 'Is this what one used to dread?
-- **[Seneca]** Never have I put my trust in fortune, even when she appeared to be offering peace; all those gifts she bestowed on me in her kindness —, position, influence — I stored where she would be able to reclaim them with no disturbance to me.
-- **[Seneca]** It is essential to make oneself used to putting up with a little. Even the wealthy and the well provided are continually met and frustrated by difficult times and situations. It is in no man's power to have whatever he wants; but he has it in his power not to wish for what he hasn't got, and cheerfully make the most of the things that do come his way.
-- **[Seneca]** In all things we should try to make ourselves be.
-- **[Seneca]** Timendi causa est nescire — Ignorance is the cause of fear.
-- **[Seneca]** What is quite unlooked for is more crushing in its effect, and unexpectedness adds to the weight of a disaster. The fact that it was unforeseen has never failed to intensify a person's grief. This is a reason for ensuring that nothing ever takes us by surprise. We should project our thoughts ahead of us at every turn and have in mind every possible eventuality instead of only the usual course of events.
-- **[Seneca]** This is why we need to envisage every possibility and to strengthen the spirit to deal with the things which may conceivably come about. Rehearse them in your mind: exile, torture, war, shipwreck. Misfortune may snatch you away from your country… If we do not want to be overwhelmed and struck numb by rare events as if they were unprecedented ones; fortune needs envisaging in a thoroughly comprehensive way.
-- **[Seneca]** That person has lost their children: you too, can lose yours; that person received sentence of death: your innocence too, stands under the hammer. This is the fallacy that takes us in and makes us weak while we suffer misfortunes that we never foresaw that we could suffer. The person who has anticipated the coming of troubles takes away their power when they arrive.
-- **[Seneca]** It's better to conquer grief than to deceive it.
-- **[Seneca]** Let us prepare our minds as if we'd come to the very end of life. Let us postpone nothing.
-- **[Seneca]** All cruelty springs from weakness.
-- **[Seneca]** Whatever seems lofty is dangerous… Those whom an unfavorable fortune has placed in a critical position will be safer if they eliminate pride from their proud circumstances and bring down their fortune as much as possible to a lowly state.
-- **[Seneca]** What is the point of dragging up sufferings that are over, of being miserable now, because you were miserable then?
-- **[Seneca]** Wherever there is a human being, there is an opportunity for a kindness.
-- **[Seneca]** We should love all our dear ones… but always with the thought that we have no promise that we may keep them forever—nay, no promise even that we may keep them for long.
-- **[Seneca]** A gift consists not in what is done or given, but in the intention of the giver or doer.
-- **[Seneca]** The mind should not be kept continuously at the same pitch of concentration, but given amusing diversions… Our minds must relax: they will rise better and keener after a rest. Just as you must not force fertile farmland, as uninterrupted productivity will soon exhaust it, so constant effort will sap our mental vigor, while a short period of rest and relaxation will restore our powers.
-- **[Shane Parrish]** Understand what you can control and what you can't. Forget about the things you can't control and put that energy into the things you can control.
-- **[Socrates]** I love to go and see all the things I am happy without.
-- **[Socrates]** Why should we pay so much attention to what the majority thinks?
-- **[Socrates]** Having the fewest wants, I am nearest to the gods.
-- **[Socrates]** The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.
-- **[Steven Pinker]** Together with intelligence, self-control turns out to be the best predictor of a successful and satisfying life.
-- **[The Daily Stoic]** Live as if you died, but were resuscitated and every minute was a gift.
-- **[The Daily Stoic]** Humility is a knowledge of our weaknesses, confidence is a knowledge of our strengths, and ego is something dangerous with none of the former and a skewed sense of the latter.
-- **[The Daily Stoic]** To not be distracted by the darkness of others, to head towards the light. To be good without hesitation, even when other people are not. That's our job.
-- **[Thibaut]** How do you move forward? One step at a time. How do you lose weight? One kilo at a time. How do you write a book? One page at a time. How do you build a relationship? One day at a time. In a world obsessed with speed, never forget things of real worth and value take time.
-- **[Thibaut]** Zoom out. In the grand scheme of things, is this really going to affect you? We can't even remember what we were doing 5 days ago, let alone five years. What matters is how you feel now. If it makes you upset, let it go. If it feels good, let it consume you.
-- **[Thich Nhat Hanh]** You don't suffer because things are impermanent. You suffer because things are impermanent and you think they are permanent.
-- **[Thucydides]** Self-control is the chief element in self-respect, and self-respect is the chief element in courage.
-- **[Unknown]** A rational person can find peace by cultivating indifference to things outside of their control.
-- **[Unknown]** If you are easily provoked you are easily controlled.
-- **[Unknown]** Be an island of calm in the sea of craziness.
-- **[Unknown]** To make a goal of comfort or happiness has never appealed to me; a system of ethics built on this basis would be sufficient only for a herd of cattle.
-- **[Unknown]** The first rule is to keep an untroubled spirit. The second is to look things in the face and know them for what they are.
-- **[Unknown]** Sometimes life hits you in the head with a brick. Don't lose faith.
-- **[Unknown]** What you're supposed to do when you don't like a thing is change it. If you can't change it, change the way you think about it. Don't complain.
-- **[Unknown]** What we fear doing most is usually what we most need to do.
-- **[Unknown]** It is not daily increase but daily decrease, hack away the unessential. The closer to the source, the less wastage there is.
-- **[Unknown]** If you are irritated by every rub, how will your mirror be polished?
-- **[Unknown]** If it doesn't challenge you, it won't change you.
-- **[Unknown]** Be present above all else.
-- **[Unknown]** You will eventually die and the world will keep moving.
-- **[Unknown]** Don't allow yourself to be heard any longer griping about public life, not even with your own ears! Marcus Aurelius
-- **[Unknown]** Peace. It does not mean to be in a place where there is no noise, trouble or hard work. It means to be in the midst of those things and still be calm in your heart.
-- **[Unknown]** There is no cure for birth and death save to enjoy the interval.
-- **[Viktor Frankl]** Between stimulus and response, there is a space. In that space is our power to choose our response.
-- **[Viktor Frankl]** Everything can be taken from a man but one thing: the last of the human freedoms – to choose one's attitude in any given set of circumstances, to choose one's own way.
-- **[Viktor Frankl]** What is to give light must endure burning.
-- **[Viktor Frankl]** What man actually needs is not a tensionless state but rather the striving and struggling for some goal worthy of him.
-- **[Voltaire]** ‎Life is a shipwreck, but we must not forget to sing in the lifeboats.
-- **[Voltaire]** Uncertainty is an uncomfortable position. But certainty is an absurd one.
-- **[Will Durant]** A nation is born stoic, and dies epicurean.
-- **[William James]** The art of being wise is the art of knowing what to overlook.
-- **[Wim Hof]** The limit is not the sky. The limit is the mind.
-- **[Wim Hof]** I'm not afraid of dying. I'm afraid not to have lived.
-- **[Zen proverb]** To be calm is the highest achievement of the self.
-- **[Zen proverb]** Be a master of the mind, not mastered by the mind.
-- **[Zen proverb]** There is no beginning and there is no end to time. There is only your perception of time.
-- **[Zen proverb]** When the pools of perception are clear, everything appears 'as is'.
-- **[Zeno of Citium]** Man conquers the world by conquering himself.
-- **[Zeno of Citium]** The reason why we have two ears and only one mouth is so we might listen more and talk less.
-- **[Zeno of Citium]** The goal of life is living in agreement with Nature.
+- **@LifeMathMoney** Take a deep breath. You're living the dream life of hundreds of millions who are below poverty line people. You have some of the best comforts available to you. You live better than kings did 100 years ago! What the f*ck are you so worried and stressed out all the time about?
+- **@LifeMathMoney** I like times of turbulence more than times of stability. More opportunity to seize and grow.
+- **@LifeMathMoney** The thicker the skin, the happier the man.
+- **@LifeMathMoney** There will come a time in the distant future, where no one will know who you were, no one will know of your existence and contributions, no one will know your pain and suffering, and your happiness. Time will wipe away both men and the memories of men. Let yourself be free.
+- **@LifeMathMoney** Never be angry at someone for telling you the truth, no matter how unpleasant.
+- **@TheAncientSage** "Why do I keep repeating harmful behaviors/habits when I know they are bad for me?" Because they give you pleasure or help you avoid discomfort. And you are too weak to let go of a little pleasure or to bear a little discomfort.
+- **@TheAncientSage** Unfollow the mind. Follow the heart. Mute the masses.
+- **@TheAncientSage** Welcome if it comes. Let go if it goes. Chase nothing. Cling to nothing. Remain unconcerned.
+- **@TheAncientSage** Wisdom lies in cheerful acceptance of whatever life throws at you.
+- **@TheAncientSage** Don't argue with people nor insist on showing them truth. Maybe it is you who needs to change your mind. Even if you are right you only incur resentment by trying to correct others.
+- **@TheAncientSage** If you cannot change something, it is best to accept it cheerfully rather than adding to one's misfortune by grieving over it.
+- **@TheAncientSage** Self-control is all about moment to moment self awareness. You catch yourself doing – or about to do – something undesirable, see that it isn't good for you in the long term, and as a result of this awareness abstain from doing it.
+- **@TheAncientSage** One must be gullible yet skeptical, sane yet mad, proud yet humble, warm yet indifferent, faithful yet a heretic, loving yet uncompromising, fearless yet cautious, open yet decisive. These are not contradictions. They make a person whole. And above all one must be whole, not fragmentary.
+- **@TheAncientSage** Start living in discomfort. Gradually increase it little by little, and you will steadily grow. If you want sudden growth, deluge yourself in great discomfort and do not retreat from it. The more discomfort you are willing to bear, the more you can grow.
+- **@TheAncientSage** You are not affected by reality itself but by your interpretation of reality. A change of perspective changes everything.
+- **@TheAncientSage** A person who has built his life around pleasure is bound to be disillusioned. Hedonism is not sustainable, and it leaves a person empty. We are not meant to experience sustained pleasure. Therefore, to cope with the drab routine of daily existence, one must find meaning somewhere.
+- **@TheAncientSage** The fundamental human fallacy: the illusion that a change in external circumstances will lead to permanent bliss. That the attainment of a future goal will make you satisfied forever. The illusion is so entrenched that it persists despite being refuted by repeated experience.
+- **@TheAncientSage** When you internalize that the source of your satisfaction is within you not without, you are then prepared to receive bliss that never ends because it does not rely on the ever changing external circumstances.
+- **@TheAncientSage** Contentment doesn't mean you stop improving your situation. In fact it has nothing to do with your external situation. It is a state of mind in which your happiness does not depend on external circumstances. It is the absence of neediness. You become self sufficient.
+- **@TheAncientSage** Getting more of something has not satisfied anyone. It will not satisfy you either. It will only increase your discontent. He who has little can be content, but not the one who has a lot. The more one attains, the higher the expectations, and the greater the discontent.
+- **@TheAncientSage** Fear is the basis of all suffering. Both desire and anger are manifestations of fear. Fear itself is a creation of your mind. It does not exist independently. Since it is a fabrication, you don't have to fight it. Just understand it. Understanding is the key to freedom.
+- **@TheAncientSage** People think that if they complain about life, life or the world might change. But of course this does not happen. You cannot change and its laws. It is what it is. No amount of complaining, resentment or mourning will help. Accept, let go and move on.
+- **@TheAncientSage** If you drop your ego, don't take things personally and adopt a detached perspective, your ability to deal with all types of people/situations will immensely improve.
+- **@TheAncientSage** Ignoring someone is more powerful than hating them. Hate means that you are somehow bothered by the person and can't stop thinking about them. They possess you. Indifference indicates that you just don't care. It is freedom.
+- **@TheAncientSage** Not reacting to deliberate provocation is a superpower. If you have the awareness and self-control to not react predictably, there is nothing that can put you off your path. Remember: the only enemy you need to fear is your own self – your lack of awareness and loss of control.
+- **@TheAncientSage** Do not care what others think of you. Be an unapologetic rebel. The masses are lost. Looking up to them for guidance is like a person with eyes looking up to the blind. Feel free to do your own thing without fearing the disapproval of others. If they don't like it's their problem.
+- **@TheAncientSage** If it is time to rest, rest completely. A good rest rejuvenates you so that you may do quality work. If it is time to work, work with complete focus. Time spent working earnestly earns you a well deserved rest. Don't mix work and rest; this compromises the quality of both.
+- **@TheStoicEmperor** Peace must be found in the imperfect present.
+- **@TheStoicEmperor** You will be attacked for doing the right thing. Do it anyway.
+- **@TheStoicEmperor** Think long term. Execute short term. Experience now.
+- **@TheStoicEmperor** You amplify everything you react to.
+- **@TheStoicEmperor** Life is a storm that will test you unceasingly. Don't wait for calm waters that may not arrive. Derive purpose from resilience. Learn to sail the raging sea.
+- **@TheStoicEmperor** Short term thinking is everywhere. Noisy feuds over little prizes. The long term thinker will be king. Win the decade, not the day.
+- **@TheStoicEmperor** "Why did this happen to me?" Why not? Events will never conform perfectly to your desires. Move forward.
+- **@TheStoicEmperor** This is an era of universal hyperbole. Every day delivers a new banality disguised as an emergency. Distrust your first reactions. Begin with the assumption that you are overreacting. Conserve your emotional energies for your real concerns.
+- **@TheStoicEmperor** An hour of deeply contemplating your own moral failures will leave you feeling much more forgiving of the foibles of others.
+- **@TheStoicEmperor** Many will choose the stability of slavery over the uncertainty of freedom.
+- **@TheStoicEmperor** Conviction is much more powerful than "positive thinking". Positive thinking is fragile and easily shattered by random tragedy. Random tragedy is an inevitable feature of life. Conviction guides you through misfortune. It does not wish it away. Purpose outdoes positivity.
+- **@TheStoicEmperor** Short-term thinking makes people desperate, ungenerous, impulsive. Long-term thinking makes people, gracious, controlled.
+- **@TheStoicEmperor** It is easy to blame "them". It is hard to confront "me". The easy path is the road to ruin. The hard path is the way of growth.
+- **@TheStoicEmperor** When you are upset you are likely to sacrifice the wellbeing of tomorrow to appease the hurt feelings of today. Not a good trade. Subject your emotions to a cooling-off period before you allow them to guide major decisions.
+- **@TheStoicEmperor** Try to avoid making important decisions when you're angry. Acknowledge the emotion. Recognize that it clouds your judgement. Remember that angry people tend to sacrifice the long-term good in response to short-term provocation.
+- **@TheStoicEmperor** Drama provides a convenient distraction. We light small fires and busy ourselves with putting them out. Short term "emergencies" give us an excuse to ignore the long term issues that we don't wish to acknowledge.
+- **@TheStoicEmperor** Not everything requires a response. This is truth for many things in life and almost everything in the news.
+- **@TheStoicEmperor** The cause of an event is often unclear. You will feel less anxiety if you can learn to be comfortable with ambiguity.
+- **@TheStoicEmperor** Human beings worry incessantly about their social status. Making every device "socially connected" turned every device into an anxiety machine. The machine becomes symbolic of the set of all people that may be judging you. If "hell is other people" then hell is in our pocket.
+- **@TheStoicEmperor** Some reach the heights of power. Some live quiet lives of virtue and purpose. Some seek nothing but mischief. All find their way to the grave. Time will make ashes of us all. Do not squander this moment. It will not come again.
+- **@TheStoicEmperor** Emotions are easily hijacked by illusory threats that tap into our insecurities. We can't be strategically dynamic if we are always on the defensive. We are more effective when we realize how many things don't require any response at all.
+- **@TheStoicEmperor** It is a narrow passageway that leads to the garden of contentment. Big egos don't fit.
+- **@TheStoicEmperor** A minute of rage can undo a lifetime of diligent effort. Self-control is self-preservation. Most of us won't look back on the moments we acted in anger as among our finest.
+- **@TheStoicEmperor** Do not act when the tide of rage flows in. Wait for it to go out. Then act with reason and proportion.
+- **@TheStoicEmperor** Life is full of suffering. Yes. Why should it be otherwise? Embrace. Endure.
+- **@TheStoicEmperor** Many think great success will pacify their critics. Quite the contrary. Criticism will multiply as you grow and progress. Positive attention does not come without negative attention. This is the price of having an impact.
+- **@TheStoicEmperor** There is nothing more precious than trust. Low trust environments are full of friction and inefficiency. Every interaction is a fierce negotiation. Trust makes a marriage warm and a nation wealthy.
+- **@TheStoicEmperor** Fragile egos make for fragile friendships.
+- **@TheStoicEmperor** People tend to avoid the important work they fear by doing unimportant work that wears them out. They suppress anxiety with exhaustion, but they do not address the source of the problem.
+- **@TheStoicEmperor** Finding information is easier than ever. Filtering information is harder than ever. We are bombarded with irrelevant data and unsolicited stimulation. Choosing what to ignore is as important as choosing what to pay attention to.
+- **Aeschylus** Happiness is a choice that requires effort at times.
+- **Alan Watts** The meaning of life is just to be alive. It is so plain and so obvious and so simple. And yet, everybody rushes around in a great panic as if it were necessary to achieve something beyond themselves.
+- **Alan Watts** As long as you remember that everything is exactly how it's supposed to be, you will always be sane.
+- **Alan Watts** No amount of anxiety makes any difference to anything that is going to happen.
+- **Albert Einstein** Failure and deprivation are the best educators and purifiers.
+- **Albert Einstein** The ordinary objects of human endeavour – property, outward success, luxury – have always seemed to me contemptible.
+- **Albert Einstein** I am happy because I want nothing from anyone. I do not care for money. Decorations, titles or distinctions mean nothing to me. I do not crave praise. The only thing that gives me pleasure, apart from my work, my violin and my sailboat, is the appreciation of my fellow workers.
+- **Anthony de Mello** Problems only exist in the human mind.
+- **Anthony de Mello** "What is the work of a Master?" said a solemn-faced visitor. "To teach people to laugh," said the Master gravely.
+- **Anthony de Mello** Drop your concepts, drop your opinions, drop your prejudices, drop your judgments, and you will see that.
+- **Antisthenes** Pay attention to your enemies, for they are the first to discover your mistakes.
+- **Augustine of Hippo** Order your soul. Reduce your wants.
+- **Brené Brown** Lean into the discomfort of the work.
+- **Brian Thompson** Be disentangled from all perceptions. They are not you.
+- **Brooke Castillo** Discomfort is the currency of success.
+- **Buddhist proverb** Change is never painful, only your resistance to change is painful.
+- **Byron Katie** You're never given more pain than you can handle.
+- **Caroline Myss** Discomfort is a wise teacher.
+- **Cato The Younger** I begin to speak only when I'm certain what I'll say isn't better left unsaid.
+- **Charlie Munger** Is there such a thing as a cheerful pessimist? That's what I am.
+- **Charlie Munger** What are the secret of success? -one word answer: "rational".
+- **Charlie Munger** You stuck to your principles and when opportunities came along, you pounced on them with vigour.
+- **Charlie Munger** Assume life will be really tough, and then ask if you can handle it. If the answer is yes, you've won.
+- **Charlie Munger** It's waiting that helps you as an investor, and a lot of people just can't stand to wait.
+- **Charlie Munger** You need patience, discipline, and an agility to take losses and adversity without going crazy.
+- **Charlie Munger** Our job is to find a few intelligent things to do, not to keep up with every damn thing in the world.
+- **Charlie Munger** It's not supposed to be easy. Anyone who finds it easy is stupid.
+- **Clark** We find comfort among those who agree with us – growth among those who don't. Frank A.
+- **Cleanthes** The willing are led by fate, the reluctant dragged.
+- **Colin Wilson** The average man is a conformist, accepting miseries and disasters with the stoicism of a cow standing in the rain.
+- **Conor McGregor** The more you seek the uncomfortable, the more you will become comfortable.
+- **Dalai Lama** The true hero is one who conquers his own anger and hatred.
+- **Dan Horton** A man is no bigger than the smallest thing that provokes him.
+- **David Goggins** Success is based off of your willingness to work your ass off no matter what obstacles are in your way.
+- **David Goggins** Show people, don't tell people.
+- **David Goggins** Never let people who choose the path of least resistance steer you away from your chosen path of most resistance.
+- **David Goggins** Don't be the person that looks at the weather report the night before to decide what you are going to do the next day.
+- **David Goggins** Sometimes saying "fuck it" at the right time can be a very powerful thing. It tells your mind that you are willing to do whatever it takes to get to the other side.
+- **David Goggins** Don't get mad at others because life is kicking your ass.
+- **David Goggins** I'm happy as hell, but I'm also real. Happy didn't get me here. But going through hell to get to where I'm at made me happy.
+- **David Goggins** Be true to whoever or whatever you are and wear it like a badge of honor. Fit in with one person and one person only: yourself.
+- **David Goggins** There is no better way to grow as a person than to do something you hate every day.
+- **David Goggins** People are always looking for shortcuts. The only way to achieve greatness in life is to have patience, consistency, and discipline.
+- **David Goggins** I like to see what I'm made of. I want to see if there is a limit to the human soul.
+- **David Goggins** The path to success will leave you callused, bruised, and very tired. It will also leave you empowered.
+- **David Goggins** Life isn't always about doing the things we like to do. It's about doing things we have to do.
+- **David Goggins** Don't let your fears paralyze you into becoming a lesser version of yourself. Eliminate fear by confronting what you're afraid of.
+- **David Goggins** Don't let fear, low and the negative voices hold you back from your true destiny.
+- **David Goggins** When you think you're done, you're only at 40% of your body's capability.
+- **David Goggins** Even if you are hurting, never let your competition see the look of defeat or even vulnerability on your face.
+- **David Goggins** Most people who doubt you doubt you because they can never see themselves doing what you are trying to do.
+- **Diogenes** He has the most who is content with the least.
+- **Dzigar Kongtrul Rinpoche** It takes courage to accept life fully, to say yes to our life, yes to our karma, yes to our mind, emotions and whatever else unfolds.
+- **Eckhart Tolle** To complain is always nonacceptance of what is.
+- **Eckhart Tolle** Remember that your perception of the world is a reflection of your state of consciousness.
+- **Ed Latimore** Be so busy building your own life that other people's bullshit is of no concern.
+- **Ed Latimore** Self-discipline and self-control determine the quality of your life more than anything else.
+- **Elizabeth Kenny** He who angers you conquers you.
+- **Epictetus** What decides whether a sum of money is good? The money is not going to tell you; it must be the faculty that makes use of such impressions – reason.
+- **Epictetus** Being attached to many things, we are weighed down and dragged along with them.
+- **Epictetus** What should we do then? Make the best use of what is in our power, and treat the rest in accordance with its nature.
+- **Epictetus** What should we have ready at hand in a situation like this? The knowledge of what is mine and what is not mine, what I can and cannot do.
+- **Epictetus** "I will throw you into prison." "Correction – it is my body you will throw there."
+- **Epictetus** I have to die. If it is now, well then I die now; if later, then now I will take my lunch, since the hour for lunch has arrived – and dying I will tend to later.
+- **Epictetus** Consider at what price you sell your integrity; but please, for God’s sake, don’t sell it cheap.
+- **Epictetus** What is the goal of virtue, after all, except a life that flows smoothly?
+- **Epictetus** If from the moment they get up in the morning they adhere to their ideals, eating and bathing like a person of integrity, putting their principles into practice in every situation they face – the way a runner does when he applies the principles of running, or a singer those of musicianship – that is where you will see true progress embodied, and find someone who has not wasted their time making the journey here from home.
+- **Epictetus** What else are tragedies but the ordeals of people who have come to value externals, tricked out in tragic verse?
+- **Epictetus** If a man objects to truths that are all too evident, it is no easy task finding arguments that will change his mind. This is proof neither of his own strength nor of his teacher’s weakness. When someone caught in an argument hardens to stone, there is just no more reasoning with them.
+- **Epictetus** Most of us dread the deadening of the body and will do anything to avoid it. About the deadening of the soul, however, we don’t care one iota.
+- **Epictetus** And so it is inexcusable for man to begin and end where the beasts do. He should begin where they do, but only end where nature left off dealing with him; which is to say, in contemplation and understanding.
+- **Epictetus** "But my nose is running!" What do you have hands for, idiot, if not to wipe it? "But how is it right that there be running noses in the first place?" Instead of thinking up protests, wouldn’t it be easier just to wipe your nose?
+- **Epictetus** For what does reason purport to do? "Establish what is true, eliminate what is false and suspend judgement in doubtful cases." ... What else does reason prescribe? "To accept the consequence of what has been admitted to be correct."
+- **Epictetus** Why are we still lazy, indifferent and dull? Why do we look for excuses to avoid training and exercising our powers of reason? "Look, if I err in such matters I haven’t killed my father, have I?" No, fool – for there was no father there for you to kill! What did you do instead? You made the only mistake you had the opportunity to make.
+- **Epictetus** Don’t confuse qualities that are found in the same writer only incidentally. If Plato had been strong and handsome, should I also try to become strong and handsome, as if this were essential to philosophy, since there was one particular philosopher who combined philosophy with good looks?
+- **Epictetus** Ask me what the real good in man’s case is, and I can only say that it is the right kind of moral character.
+- **Epictetus** Do as Socrates did, never replying to the question of where he was from with, "I am Athenian," or "I am from Corinth," but always, "I am a citizen of the world."
+- **Epictetus** Really, such a person amounts to no more than a carcass and a little blood. If he were anything more, he would realize that no one is ever unhappy because of someone else.
+- **Epictetus** It isn’t death, pain, exile or anything else you care to mention that accounts for the way we act, only our opinion about death, pain and the rest.
+- **Epictetus** We, not externals, are the masters of our judgements.
+- **Epictetus** Socrates was not in prison, because he chose to be there.
+- **Epictetus** You ought to realize, you take up very little space in the world as a whole – your body, that is; in reason, however, you yield to no one, not even to the gods, because reason is not measured in size but sense. So why not care for that side of you, where you and the gods are equals?
+- **Epictetus** If you have been placed in a position above others, are you automatically going to behave like a despot? Remember who you are and whom you govern – that they are kinsmen, brothers by nature, fellow descendants of Zeus.
+- **Epictetus** You can process in your intellect and senses a wealth of thoughts and impressions simultaneously. There are impressions that you assent to, others that you reject; sometimes you suspend judgement altogether.
+- **Epictetus** Nothing important comes into being overnight; even grapes or figs need time to ripen. If you say that you want a fig now, I will tell you to be patient. First, you must allow the tree to flower, then put forth fruit; then you have to wait until the fruit is ripe. So if the fruit of a fig tree is not brought to maturity instantly or in an hour, how do you expect the human mind to come to fruition, so quickly and easily?
+- **Epictetus** Since reason is what analyses and coordinates everything, it should not go itself unanalysed. Then what will it be analysed by? Obviously by itself or something different. Now, this something different must either be reason or something superior to reason – which is impossible, since there is nothing superior to reason.
+- **Epictetus** Which, I suppose, is why Stoics put logic at the head of our curriculum – for the same reason that, before a quantity of grain can be measured, we must settle on a standard of measurement.
+- **Epictetus** "What about if someone threatens me with death, though; surely he compels me then?" It isn’t what you’re threatened with – it’s the fact that you prefer to do anything rather than die. It’s your set of values that compelled you: will acting on will.
+- **Epictetus** We use labels like "thief" and "robber" in connection with them, but what do these words mean? They merely signify that people are confused about what is good and what is bad. So should we be angry with them, or should we pity them instead?
+- **Epictetus** "But the tyrant will chain –" What will he chain? Your leg. "He will chop off –" What? Your head. What he will never chain or chop off is your integrity.
+- **Epictetus** We should discipline ourselves in small things, and from there progress to things of greater value. If you have a headache, practise not cursing. Don’t curse every time you have an earache. And I’m not saying that you can’t complain, only don’t complain with your whole being.
+- **Epictetus** "But I get to wear a crown of gold." If you have your heart set on wearing crowns, why not make one out of roses – you will look even more elegant in that.
+- **Epictetus** If you want to know just how little concerned you are about things good and bad, and how serious about things indifferent, compare your attitude to going blind with your attitude about being mentally in the dark. You will realize, I think, how inappropriate your values really are.
+- **Epictetus** When someone is properly grounded in life, they shouldn’t have to look outside themselves for approval.
+- **Epictetus** Who exactly are these people that you want to be admired by? Aren’t they the same people you are in the habit of calling crazy? And is this your life ambition, then – to win the approval of lunatics?
+- **Epictetus** Jews, Syrians, Egyptians and Romans. They don’t dispute that what is holy should be preferred above everything else and in every case pursued; but they argue, for example, over whether it is holy or unholy to eat pork.
+- **Epictetus** The operations of the will are in our power; not in our power are the body, the body’s parts, property, parents, siblings, children, country or friends.
+- **Epictetus** The true man is revealed in difficult times. So when trouble comes, think of yourself as a wrestler whom God, like a trainer, has paired with a tough young buck. For what purpose? To turn you into Olympic-class material. But this is going to take some sweat to accomplish.
+- **Epictetus** Death, [Diogenes] said, was not evil because it was not dishonourable. Reputation was the empty noise of fools.
+- **Epictetus** Don’t believe your situation is genuinely bad – no one can make you do that. Is there smoke in the house? If it’s not suffocating, I will stay indoors; if it proves too much, I’ll leave. Always remember – the door is open.
+- **Epictetus** Remember that it is we who torment, we who make difficulties for ourselves – that is, our opinions do. What, for instance, does it mean to be insulted? Stand by a rock and insult it, and what have you accomplished? If someone responds to insult like a rock, what has the abuser gained with his invective?
+- **Epictetus** This, then, is the beginning of philosophy – an awareness of one’s own mental fitness.
+- **Epictetus** Death is necessary and cannot be avoided. I mean, where am I going to go to get away from it?
+- **Epictetus** I cannot escape death, but at least I can escape the fear of it.
+- **Epictetus** Passions stem from frustrated desire.
+- **Epictetus** You Sceptics, who dismiss the evidence of the senses – do you act any differently? Which one of you ever went to the mill when you were in need of a bath?
+- **Epictetus** When someone assents to a false proposition, be sure that they did not want to give their assent, since, as Plato says, "Every soul is deprived of the truth against its will." They simply mistook for true something false.
+- **Epictetus** The essence of good and evil consists in the condition of our character. And externals are the means by which our character finds its particular good and evil.
+- **Epictetus** Correct judgements about externals make our character good, as perverse or distorted ones make it bad.
+- **Epictetus** This is how I came to lose my lamp: the thief was better than I am in staying awake. But he acquired the lamp at a price: he became a thief for its sake, for its sake, he lost his ability to be trusted, for a lamp he became a brute. And he imagined he came out ahead!
+- **Epictetus** If you didn’t learn these things in order to demonstrate them in practice, what did you learn them for?
+- **Epictetus** Anyone who affirms that, in a circle, lines that extend from the centre to the circumference can be unequal is not going to win the respect of mathematicians. So – a true philosopher is under no obligation to respect vulgar opinion as to what is religious or irreligious, what is just or unjust.
+- **Epictetus** "Define for me now what the "indifferents" are." "Whatever things we cannot control.’"Tell me the upshot." "They are nothing to me."
+- **Epictetus** Death and pain are not frightening, it’s the fear of pain and death we need to fear. Which is why we praise the poet who wrote, "Death is not fearful, but dying like a coward is."
+- **Epictetus** Pain too is just a scary mask: look under it and you will see. The body sometimes suffers, but relief is never far behind. And if that isn’t good enough for you, the door stands open; otherwise put up with it. The door needs to stay open whatever the circumstances, with the result that our problems disappear.
+- **Epictetus** The masses are wrong to say that only freeborn men are entitled to an education; believe the philosophers instead, who say that only educated people are entitled to be called free.
+- **Epictetus** If you want to be a man of honour and a man of your word, who is going to stop you? You say you don’t want to be obstructed or forced to do something against your will – well, who is going to force you to desire things that you don’t approve, or dislike something against your better judgement?
+- **Epictetus** Whenever externals are more important to you than your own integrity, then be prepared to serve them the remainder of your life.
+- **Epictetus** We know how to analyse arguments, and have the skill a person needs to evaluate competent logicians. But in life what do I do? What today I say is good tomorrow I will swear is bad. And the reason is that, compared to what I know about syllogisms, my knowledge and experience of life fall far behind.
+- **Epictetus** What are we really doing when we throw away our innate faithfulness, to intrigue with our neighbour’s wife? We are ruining and destroying – well, what? How about the man of trust, principle and piety that once was? And is that all? Aren’t we also ruining the idea of neighbourliness, friendship and community? What position are we putting ourselves in? How am I supposed to deal with you now? As a neighbour? A friend? Some friend! A fellow citizen? But how can a fellow citizen like you be trusted?
+- **Epictetus** Material things per se are indifferent, but the use we make of them is not indifferent.
+- **Epictetus** Getting those things is not in my control – and not good or bad in any case. But the way I use them is good or bad, and depends on me.
+- **Epictetus** It’s something like going on an ocean voyage. What can I do? Pick the captain, the boat, the date, and the best time to sail. But then a storm hits. Well, it’s no longer my business; I have done everything I could. It’s somebody else’s problem now – namely the captain’s. But then the boat actually begins to sink. What are my options? I do the only thing I am in a position to do, drown – but fearlessly, without bawling or crying out to God, because I know that what is born must also die.
+- **Epictetus** To be sure, external things of whatever kind require skill in their use, but we must not grow attached to them; whatever they are, they should only serve for us to show how skilled we are in our handling of them.
+- **Epictetus** What are you? A human being. If you think of yourself as a unit apart, then it is in accordance with your nature to live to old age, to be rich, and be healthy. But if your view of yourself involves being part of a whole, then, for the sake of the whole, circumstances may make it right for you to be sick, go on a dangerous journey, endure poverty, even die before your time.
+- **Epictetus** Because what is a human being? Part of a community – the community of gods and men, primarily, and secondarily that of the city we happen to inhabit, which is only a microcosm of the universe in toto.
+- **Epictetus** So when you hear that even life and the like are indifferent, don’t become apathetic; and by the same token, when you’re advised to care about them, don’t become superficial and conceive a passion for externals.
+- **Epictetus** Because we’re the only animals who not only die but are conscious of it even while it happens, we are beset by anxiety.
+- **Epictetus** "My God, what if I’m sent to Gyara?" Well, if that’s tolerable for you, you will go; if not, you have the choice of another destination, the place even the person who sent you to Gyara is headed, whether they like it or not.
+- **Epictetus** You think I can listen to poetry in my position?" "Why, what is it?" "I’m sentenced to death!" "And the rest of us aren’t?"
+- **Epictetus** Since plants do not even have the power of perception, "good" and "evil" are not applicable to them. Evidently, "good" and "bad" presume the power of using impressions.
+- **Epictetus** A will that never fails to get what it wants, a faculty of aversion that always avoids what it dislikes, proper impulse, careful purpose and disciplined assent. That’s the human specimen you should prepare yourselves to see.
+- **Epictetus** Never get into family fights over material things; give them up willingly, and your moral standing will increase in proportion.
+- **Epictetus** Reflect on the other social roles you play. If you are a council member, consider what a council member should do. If you are young, what does being young mean, if you are old, what does age imply, if you are a father, what does fatherhood entail? Each of our titles, when reflected upon, suggests the acts appropriate to it.
+- **Epictetus** If you lost the capacity to read, or play music, you would think it was a disaster, but you think nothing of losing the capacity to be honest, decent and civilized.
+- **Epictetus** If money is your only standard, then consider that, by your lights, someone who loses their nose does not suffer any harm.
+- **Epictetus** If "good" as well as "bad" really relate to our choices, then consider whether your position does not amount to saying something like, "Well, since that guy hurt himself with the injustice he did me, shouldn’t I wrong him in order to hurt myself in retaliation?"
+- **Epictetus** "Well, whatever you may say, I know good from bad, and have an idea of the good." You have one, I allow. "And I put it into practice." You use it in specific instances, yes. "And I use it correctly." Well, that’s the crux, because this is where opinions become an issue.
+- **Epictetus** Here you have philosophy’s starting point: we find that people cannot agree among themselves, and we go in search of the source of their disagreement.
+- **Epictetus** Something good should be a source of pride, correct? "Yes." And can one really take pride in a momentary pleasure? Please don’t say yes.
+- **Epictetus** When a guide meets up with someone who is lost, ordinarily his reaction is to direct him on the right path, not mock or malign him, then turn on his heel and walk away. As for you, lead someone to the truth and you will find that he can follow. But as long as you don’t point it out to him, don’t make fun of him; be aware of what you need to work on instead.
+- **Epictetus** That is what Socrates would do: he would quit only after he had fleshed out an idea and explored its implications. He wouldn’t just say, "Define envy for me," then, when his discourses interlocutor had ventured on a definition, say, "Wrong: your definiens is not extensionally equivalent to the definiendum."
+- **Epictetus** Now that is the first thing Socrates was known for – never turning dialogue into dispute, never introducing rudeness or invective, although he would put up with the insults of others in order to avoid a fight.
+- **Epictetus** At this point you run the risk of him saying, "What business is that of yours, sir? What are you to me?" Pester him further, and he is liable to punch you in the nose. I myself was once keen for this sort of discourse, until I met with just such a reception.
+- **Epictetus** Take a lyre player: he’s relaxed when he performs alone, but put him in front of an audience, and it’s a different story, no matter how beautiful his voice or how well he plays the instrument. Why? Because he not only wants to perform well, he wants to be well received – and the latter lies outside his control.
+- **Epictetus** It was Antigonus who was anxious before their meeting. Naturally – he wanted to make a good impression, which was beyond his control. Zeno, for his part, had no wish to please the king; no expert needs validation from an amateur.
+- **Epictetus** Becoming a carpenter or pilot, we realize, requires some formal training. Is it unreasonable to suppose that it will take more than just the desire to be good or bad – that the student of philosophy will also have to learn a few things of his own?
+- **Epictetus** And yet I won’t have done you any harm – any more than a mirror is to blame when it shows a plain person what they look like; or a doctor is mean if he tells a patient, "Look, you may think this is insignificant, but you’re really sick; no food for you today, only water." No one thinks, "How rude!" But say to someone, "Your desires are unhealthy, your powers of aversion are weak, your plans are incoherent, your impulses are at odds with nature and your system of values is false and confused," – and off they go alleging slander.
+- **Epictetus** "But we must stick with a decision." "For heaven’s sake, man, that rule only applies to sound decisions. I suppose next you will decide that it is night now, and refuse to change your mind because you don’t want to.
+- **Epictetus** "A fool cannot be convinced or even compelled to renounce his folly." God save me from fools with a little philosophy – no one is more difficult to reach.
+- **Epictetus** Where does the good lie? "In the will." And evil? "Also in the will." And things neither good nor bad – "... lie in whatever is external to the will."
+- **Epictetus** You might as well get on your knees and pray that your nose won’t run. A better idea would be to wipe your nose and forgo the prayer. The point is, isn’t there anything God gave you for your present problem? You have the gifts of courage, fortitude and endurance. With "hands" like these, do you still need somebody to help wipe your nose?
+- **Epictetus** Show me one person who cares how they act, someone for whom success is less important than the manner in which it is achieved. While out walking, who gives any thought to the act of walking itself? Who pays attention to the process of planning, not just the outcome?
+- **Epictetus** The first thing a pretender to philosophy must do is get rid of their presuppositions; a person is not going to undertake to learn anything that they think they already know.
+- **Epictetus** This presumption that you possess knowledge of any use has to be dropped before you approach philosophy – just as if we were enrolling in a school of music or mathematics.
+- **Epictetus** If you like doing something, do it regularly; if you don’t like doing something, make a habit of doing something different. The same goes for moral inclinations. When you get angry, you should know that you aren’t guilty of an isolated lapse, you’ve encouraged a trend and thrown fuel on the fire.
+- **Epictetus** If you don’t want to be cantankerous, don’t feed your temper, or multiply incidents of anger. Suppress the first impulse to be angry, then begin to count the days on which you don’t get mad.
+- **Epictetus** It will even do to socialize with men of good character, in order to model your life on theirs, whether you choose someone living or someone from the past.
+- **Epictetus** Don’t let the force of the impression when first it hits you knock you off your feet; just say to it, "Hold on a moment; let me see who you are and what you represent. Let me put you to the test."
+- **Epictetus** Today people care only for academic discussion, nothing beyond that. But I’m presenting to you the real athlete, namely the one training to face off against the most formidable of impressions.
+- **Epictetus** Show me someone untroubled with disturbing thoughts about illness, danger, death, exile or loss of reputation. By all the gods, I want to see a Stoic!
+- **Epictetus** Even people who deny that statements can be valid or impressions clear are obliged to make use of both. You might almost say that nothing proves the validity of a statement more than finding someone forced to use it while at the same time denying that it is sound.
+- **Epictetus** A vine cannot behave olively, nor an olive tree vinely – it is impossible, inconceivable. No more can a human being wholly efface his native disposition.
+- **Epictetus** What illusion about myself do I entertain?
+- **Epictetus** Don’t be disappointed if you return home with the very same set of ideas you arrived with. Because you had no intention of changing, correcting or adopting others in their place.
+- **Epictetus** You say the speculative topics are useless. Useless to whom? Only to people who don’t use them as they should. I mean, salves and ointments are not useless to people who apply them when and how they’re supposed to; weights are not useless in themselves, they’re useful to some people, worthless to others.
+- **Epictetus** If someone is incapable of distinguishing good things from bad and neutral things from either – well, how could such a person be capable of love? The power to love, then, belongs only to the wise man.
+- **Epictetus** You’re subject to sorrow, fear, jealousy, anger and inconsistency. That’s the real reason you should admit that you are not wise.
+- **Epictetus** No doubt you have seen dogs playing with, and fawning before, each other, and thought, "Nothing could be friendlier." But just throw some meat in the middle, and then you’ll know what friendship amounts to.
+- **Epictetus** Paris was Menelaus" guest, and anyone who saw how well they treated each other would have laughed at anyone who said they weren’t friends. But between the two a bit of temptation was thrown in the form of a beautiful woman, and over that there arose war.
+- **Epictetus** Just ask whether they put their self-interest in externals or in moral choice. If it’s in externals, you cannot call them friends, any more than you can call them trustworthy, consistent, courageous or free.
+- **Epictetus** For where else is friendship found if not with fairness, reliability and respect for virtue only?
+- **Epictetus** [Treat] unenlightened souls with sympathy and indulgence, remembering that they are ignorant or mistaken about what’s most important. Never be harsh, remember Plato’s dictum: "Every soul is deprived of the truth against its will."
+- **Epictetus** An eye, when open, has no option but to see. The decision whether to look at a particular man’s wife, however, and how, belongs to the will. And the determination whether to trust what someone says, and then, if we trust them, whether we should be angered by it – that also belongs to the will.
+- **Epictetus** People act like a traveller headed for home who stops at an inn and, finding it comfortable, decides to remain there. You’ve lost sight of your goal, man. You were supposed to drive through the inn, not park there.
+- **Epictetus** Some students [of philosophy] become captivated by all these things and don’t want to proceed further. One is captivated by diction, another by deductive or equivocal arguments, someone else by yet another "inn" of this kind; and there they stay and rot as if seduced by the Sirens.
+- **Epictetus** When I see that one thing [virtue] is supreme and most important, I cannot say that something else is, just to make you happy.
+- **Epictetus** The body is the raw material of the doctor and physical therapist. Land is the farmer’s raw material. The raw material of the good man is his mind – his goal being to respond to impressions the way nature intended.
+- **Epictetus** What, after all, are sighing and crying, except opinions? What is "misfortune’? An opinion. And sectarian strife, dissension, blame and accusation, ranting and raving – they all are mere opinion, the opinion that good and bad lie outside us.
+- **Epictetus** Speaking for myself, I hope death overtakes me when I’m occupied solely with the care of my character, in an effort to make it passionless, free, unrestricted and unrestrained.
+- **Epictetus** What does Socrates say? "One person likes tending to his farm, another to his horse; I like to daily monitor my self-improvement."
+- **Epictetus** Keep well out of the sun, then, so long as your principles are as pliant as wax.
+- **Epictetus** "Being healthy is good, being sick is bad." No, my friend: enjoying health in the right way is good; making bad use of your health is bad.
+- **Epictetus** For God’s sake, stop honouring externals, quit turning yourself into the tool of mere matter, or of people who can supply you or deny you those material things.
+- **Epictetus** A boxer derives the greatest advantage from his sparring partner – and my accuser is my sparring partner. He trains me in patience, civility and even temper.
+- **Epictetus** I have a bad neighbour – bad, that is, for himself. For me, though, he is good: he exercises my powers of fairness and sociability.
+- **Epictetus** My mind represents for me my medium – like wood to a carpenter, or leather to a shoemaker. The goal in my case is the correct use of impressions.
+- **Epictetus** Look, can you be forced to assent to what appears to you wrong?" "No." "Or to dissent from the plain truth?" "No." "Then you see you do have within you a share of freedom."
+- **Epictetus** All our efforts must be directed towards an end, or we will act in vain. If it is not the right end, we will fail utterly.
+- **Epictetus** Do you want to know if you are educated? Show us your values, philosopher.
+- **Epictetus** He’s a clever young man and a fan of rhetoric." "How do you know?" "He praises me." Oh, well, that proves it, of course.
+- **Epictetus** Understand what words you use first, then use them.
+- **Epictetus** Friends, the school of a philosopher is a hospital. When you leave, you should have suffered, not enjoyed yourself.
+- **Epictetus** Who wants to live with delusion and prejudice, being unjust, undisciplined, mean and ungrateful? "No one." No bad person, then, lives the way he wants, and no bad man is free.
+- **Epictetus** So you admit that you have at least one master. And don’t let the fact that Caesar rules over everyone, as you say, console you: it only means that you’re a slave in a very large household.
+- **Epictetus** "Do we have that many masters?" We do. Because over and above the rest we have masters in the form of circumstances, which are legion. And anyone who controls any one of them controls us as well.
+- **Epictetus** What makes for freedom and fluency in the practice of writing? Knowledge of how to write. The same goes for the practice of playing an instrument. It follows that, in the conduct of life, there must be a science to living well.
+- **Epictetus** But suppose I choose to walk, and someone obstructs me?" What part of you will they obstruct? Certainly not your power of assent? "No, my body." Your body, yes – as they might obstruct a rock. "Perhaps; but the upshot is, now I’m not allowed to walk." Whoever told you, "Walking is your irrevocable privilege’? I said only that the will to walk could not be obstructed.
+- **Epictetus** A plant or animal fares poorly when it acts contrary to its nature; and a human being is no different. Well, then, biting, kicking, wanton imprisonment and beheading – is that what our nature entails? No; rather, acts of kindness, cooperation and good will. And so, whether you like it or not, a person fares poorly whenever he acts like an insensitive brute.
+- **Epictetus** People to whom such things are still denied come to imagine that everything good will be theirs if only they could acquire them. Then they get them: and their longing is unchanged, their anxiety is unchanged, their disgust is no less, and they still long for whatever is lacking. Freedom is not achieved by satisfying desire, but by eliminating it.
+- **Epictetus** Formerly, when you were devoted to worthless pursuits, your friends found you congenial company. But you can’t be a hit in both roles. To the extent you cultivate one you will fall short in the other.
+- **Epictetus** If you forfeit an external possession, make sure to notice what you get in return. If it is something more valuable, never say, "I have suffered a loss."
+- **Epictetus** Very little is needed for everything to be upset and ruined, only a slight lapse in reason. It’s much easier for a mariner to wreck his ship than it is for him to keep it sailing safely; all he has to do is head a little more upwind and disaster is instantaneous. In fact, he does not have to do anything: a momentary loss of attention will produce the same result.
+- **Epictetus** The more we value things outside our control, the less control we have.
+- **Epictetus** Either you’re going to be depressed when your wish is not realized or foolishly pleased with yourself if it is, overjoyed for the wrong reasons.
+- **Epictetus** Just prove to me that you are trustworthy, high-minded and reliable, and that your intentions are benign – prove to me that your jar doesn’t have a hole in it – and you’ll find that I won’t even wait for you to open your heart to me, I’ll be the first to implore you to lend an ear to my own affairs.
+- **Epictetus** If we try to adapt our mind to the regular sequence of changes and accept the inevitable with good grace, our life will proceed quite smoothly and harmoniously.
+- **Epictetus** Impressions (which philosophers call), striking a person’s mind as soon as he perceives something within range of his senses, are not voluntary or subject to his will, they impose themselves on people’s attention almost with a will of their own. But the act of assent (which they call) which endorses these impressions is voluntary and a function of the human will.
+- **Epictetus** Most apparent philosophers were philosophers not in their actions, only their words.
+- **Epictetus** There were two vices much blacker and more serious than the rest: lack of persistence and lack of self-control ... persist and resist.
+- **Epictetus** I say that virtue is more valuable than wealth to the same degree that eyes are more valuable than fingernails.
+- **Epictetus** I blush deeply whenever I catch myself saying anything disgraceful. It’s this reflex that will not allow me to propose pleasure as the good and the goal of life.
+- **Epictetus** It is just charming how people boast about qualities beyond their control. For instance, "I am better than you because I have many estates, while you are practically starving’; or, "I’m a consul," "I’m a governor," or "I have fine curly hair."
+- **Epictetus** People who are physically ill are unhappy with a doctor who doesn’t give them advice, because they think he has given up on them. Shouldn’t we feel the same towards a philosopher – and assume that he has given up hope of our ever becoming rational – if he will no longer tell us what we need (but may not like) to hear?
+- **Epictetus** People with a strong physical constitution can tolerate extremes of hot and cold; people of strong mental health can handle anger, grief, joy and the other emotions.
+- **Epictetus** Once, when [Agrippinus] was preparing for lunch, a messenger arrived from Rome announcing that Nero had sentenced him to exile. Unflustered he replied, "Then why don’t we just move our lunch to Aricia."
+- **Epictetus** So does this misfortune prevent you in any way from being just, generous, sober, reasonable, careful, free from error, courteous, free, etc. – all of which together make human nature complete?
+- **Epictetus** We are responsible for some things, while there are others for which we cannot be held responsible.
+- **Epictetus** If you have the right idea about what really belongs to you and what does not, you will never be subject to force or hindrance, you will never blame or criticize anyone, and everything you do will be done willingly.
+- **Epictetus** So make a practice at once of saying to every strong impression: "An impression is all you are, not the source of the impression." Then test and assess it with your criteria, but one primarily: ask, "Is this something that is, or is not, in my control?"
+- **Epictetus** The faculty of desire purports to aim at securing what you want, while aversion purports to shield you from what you don’t. If you fail in your desire, you are unfortunate, if you experience what you would rather avoid you are unhappy.
+- **Epictetus** It is not events that disturb people, it is their judgements concerning them.
+- **Epictetus** An ignorant person is inclined to blame others for his own misfortune. To blame oneself is proof of progress. But the wise man never has to blame another or himself.
+- **Epictetus** What quality belongs to you? The intelligent use of impressions. If you use impressions as nature enchiridion prescribes, go ahead and indulge your pride, because then you will be celebrating a quality distinctly your own.
+- **Epictetus** Don’t hope that events will turn out the way you want, welcome events in whichever way they happen: this is the path to peace.
+- **Epictetus** Provoked by the sight of a handsome man or a beautiful woman, you will discover within you the contrary power of self-restraint. Faced with pain, you will discover the power of endurance. If you are insulted, you will discover patience. In time, you will grow to be confident that there is not a single impression that you will not have the moral means to tolerate.
+- **Epictetus** Under no circumstances ever say "I have lost something," only "I returned it."
+- **Epictetus** Starting with things of little value – a bit of spilled oil, a little stolen wine – repeat to yourself: "For such a small price I buy tranquillity and peace of mind."
+- **Epictetus** You have to realize, it isn’t easy to keep your will in agreement with nature, as well as externals. Caring about the one inevitably means you are going to shortchange the other.
+- **Epictetus** Remember to act always as if you were at a symposium. When the food or drink comes around, reach out and take some politely; if it passes you by don’t try pulling it back. And if it has not reached you yet, don’t let your desire run ahead of you, be patient until your turn comes.
+- **Epictetus** Don’t let outward appearances mislead you into thinking that someone with more prestige, power or some other distinction must on that account be happy.
+- **Epictetus** Remember, it is not enough to be hit or insulted to be harmed, you must believe that you are being harmed. If someone succeeds in provoking you, realize that your mind is complicit in the provocation. ... Take a moment before reacting, and you will find it is easier to maintain control.
+- **Epictetus** If you commit to philosophy, be prepared at once to be laughed at and made the butt of many snide remarks.
+- **Epictetus** If I can make money while remaining honest, trustworthy and dignified, show me how and I will do it. But if you expect me to sacrifice my own values, just so you can get your hands on things that aren’t even good – well, you can see yourself how thoughtless and unfair you’re being.
+- **Epictetus** "Well, what will my profession in the community be?" Whatever position you are equipped to fill, so long as you preserve the man of trust and integrity.
+- **Epictetus** When somebody’s wife or child dies, to a man we all routinely say, "Well, that’s part of life." But if one of our own family is involved, then right away it’s "Poor, poor me!" We would do better to remember how we react when a similar loss afflicts others.
+- **Epictetus** If your body was turned over to just anyone, you would doubtless take exception. Why aren’t you ashamed that you have made your mind vulnerable to anyone who happens to criticize you, so that it automatically becomes confused and upset?
+- **Epictetus** "My brother is unfair to me." Well then, keep up your side of the relationship; don’t concern yourself with his behaviour, only with what you must do to keep your will in tune with nature. Another person will not hurt you without your cooperation; you are hurt the moment you believe yourself to be.
+- **Epictetus** Settle on the type of person you want to be and stick to it, whether alone or in company.
+- **Epictetus** When you’re called upon to speak, then speak, but never about banalities like gladiators, horses, sports, food and drink – common-place stuff. Above all don’t gossip about people, praising, blaming or comparing them.
+- **Epictetus** If you learn that someone is speaking ill of you, don’t try to defend yourself against the rumours; respond instead with, "Yes, and he doesn’t know the half of it, because he could have said more."
+- **Epictetus** In your conversation, don’t dwell at excessive length on your own deeds or adventures. Just because you enjoy recounting your exploits doesn’t mean that others derive the same pleasure from hearing about them.
+- **Epictetus** Take a minute and let the matter wait on you. Then reflect on both intervals of time: the time you will have to experience the pleasure, and the time after its enjoyment that you will beat yourself up over it.
+- **Epictetus** As you are careful when you walk not to step on a nail or turn your ankle, so you should take care not to do any injury to your character at the same time.
+- **Epictetus** Whenever anyone criticizes or wrongs you, remember that they are only doing or saying what they think is right. They cannot be guided by your views, only their own; so if their views are wrong, they are the ones who suffer insofar as they are misguided. I mean, if someone declares a true conjunctive proposition to be false, the proposition is unaffected, it is they who come off worse for having their ignorance exposed.
+- **Epictetus** [When someone does something you don't like] Say to yourself each time, "He did what he believed was right."
+- **Epictetus** If your brother mistreats you, don’t try to come to grips with it by dwelling on the wrong he’s done (because that approach makes it unbearable); remind yourself that he’s your brother, that you two grew up together; then you’ll find that you can bear it.
+- **Epictetus** The following are non-sequiturs: "I am richer, therefore superior to you’; or "I am a better speaker, therefore a better person, than you."
+- **Epictetus** Someone bathes in haste; don’t say he bathes badly, but in haste. Someone drinks a lot of wine; don’t say he drinks badly, but a lot. Until you know their reasons, how do you know that their actions are vicious?
+- **Epictetus** The mark and attitude of the ordinary man: never look for help or harm from yourself, only from outsiders. The mark and attitude of the philosopher: look for help and harm exclusively from yourself.
+- **Epictetus** If I admire the interpretation [of a philosophical treatise], I have turned into a literary critic instead of a philosopher, the only difference being that, instead of Homer, I’m interpreting Chrysippus.
+- **Epictetus** How long will you wait before you demand the best of yourself, and trust reason to determine what is best?
+- **Epictetus** When faced with anything painful or pleasurable, anything bringing glory or disrepute, realize that the crisis is now, that the Olympics have started, and waiting is no longer an option; that the chance for progress, to keep or lose, turns on the events of a single day.
+- **Epictetus** [on valuing theoretical over practical philosophy] The result is that we lie – but have no difficulty proving why we shouldn’t.
+- **Epictetus** Just keep in mind: the more we value things outside our control, the less control we have.
+- **Epictetus** When someone is properly grounded in life, they shouldn't have to look outside themselves for approval.
+- **Epictetus** Don't explain your philosophy. Embody it.
+- **Epictetus** Wealth consists not in having great possessions, but in having few wants.
+- **Epictetus** He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.
+- **Epictetus** Give yourself fully to your endeavors. Decide to construct your character through excellent actions and determine to pay the price of a worthy goal. The trials you encounter will introduce you to your strengths.
+- **Epictetus** Now is the time to get serious about living your ideals. How long can you afford to put off who you really want to be? Your nobler self cannot wait any longer. Put your principles into practice – now. Stop the excuses and the procrastination. This is your life! […] Decide to be extraordinary and do what you need to do – now.
+- **Epictetus** If anyone tells you that a certain person speaks ill of you, do not make excuses about what is said of you but answer, 'He was ignorant of my other faults, else he would not have mentioned these alone'.
+- **Epictetus** I have to die. If it is now, well then I die now; if later, then now I will take my lunch, since the hour for lunch has arrived – and dying I will tend to later.
+- **Epictetus** What upsets people is not things themselves, but their judgements about these things.
+- **Epictetus** You become what you give your attention to…If you yourself don't choose what thoughts and images you expose yourself to, someone else will.
+- **Epictetus** Show me someone for whom success is less important than the manner in which it is achieved. Of concern for the means, rather than the ends, of their actions…I want to see him. This is the person I have looked for a long time, the true genius.
+- **Epictetus** No man is free who is not master of himself.
+- **Epictetus** Be silent for the most part, or, if you speak, say only what is necessary and in a few words.
+- **Epictetus** How long are you going to wait before you demand the best for yourself?
+- **Epictetus** Progress is not achieved by luck or accident, but by working on yourself daily.
+- **Epictetus** Talk, but rarely, if occasion calls you, but do not talk of ordinary things – of gladiators or horses races or athletes or of meats or drinks – these are topics that arise everywhere – but above all do not talk about men in blame or compliment or comparison.
+- **Epictetus** Happiness is not to acquire and enjoy, but nothing to be desired, as it is to be free.
+- **Epictetus** It is impossible that happiness, and yearning for what is not present, should ever be united.
+- **Epictetus** There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
+- **Epictetus** Don't demand or expect that events happen as you would wish them to. Accept events as they actually happen. That way peace is possible.
+- **Epictetus** If you are ever tempted to look for outside approval, realize that you have compromised your integrity. If you need a witness, be your own.
+- **Epictetus** Keep death and exile before your eyes each day, along with everything that seems terrible — by doing so, you'll never have a base thought nor will you have excessive desire.
+- **Epictetus** If evil be spoken of you and it be true, correct yourself, if it's a lie, laugh at it.
+- **Epictetus** Keep company only with people who uplift you.
+- **Epictetus** If you want to improve, be content to be thought foolish and stupid.
+- **Epicurus** You don't develop courage by being happy in your relationships everyday. You develop it by surviving difficult times and challenging adversity.
+- **Epicurus** It is not so much our friends' help that helps us as the confident knowledge that they will help us.
+- **Friedrich Nietzsche** That one wants nothing to be different, not forward, not backwards, not in all eternity. Not merely bear what is necessary, still less conceal it… but love it.
+- **Friedrich Nietzsche (Check out for more on Amor Fati)** Amor fati – "Love your fate", which is in fact your life.
+- **Ginny Rometty (IBM)** Growth and comfort do not coexist.
+- **Greg McKeown** You cannot overestimate the unimportance of practically everything.
+- **Greg McKeown (Author of)** Take a deep breath. Get present in the moment and ask yourself what is important this very second.
+- **Haemin Sunim** Life's three best teachers: heartbreak, empty pocket, failures.
+- **Haemin Sunim** Your true self is not your emotion such as anger, frustration or hate. It is the inner witness that knows the rise and fall of your emotion.
+- **Heraclitus** To be evenminded is the greatest virtue.
+- **Heraclitus** Nothing endures but change.
+- **Heraclitus** Man's character is his fate.
+- **Irvine** Stoicism, understood properly, is a cure for a disease. The disease in question is the anxiety, grief, fear, and various other negative emotions that plague humans and prevent them from experiencing a joyful existence. William B.
+- **Irvine** We humans are unhappy in large part because we are insatiable; after working hard to get what we want, we routinely lose interest in the object of our desire. Rather than feeling satisfied, we feel a bit bored, and in response to this boredom, we go on to form new, even grander desires. William B.
+- **Irvine** By contemplating the impermanence of everything in the world, we are forced to recognize that every time we do something could be the last time we do it, and this recognition can invest the things we do with a significance and intensity that would otherwise be absent. William B.
+- **Irvine** If we seek social status, we give other people power over us: We have to do things calculated to make them admire us, and we have to refrain from doing things that will trigger their disfavor. William B.
+- **Jack Kornfield** Life is all the more precious and beautiful because it is so fleeting.
+- **Jack Kornfield** Life is so hard, how can we be anything but kind?
+- **James Allen** Self-control is strength. Right thought is mastery. Calmness is power.
+- **James Pierce** To be stoic is not to be emotionless, but to remain unaffected by your emotions.
+- **James Pierce** Effortless stoicism will come when you have dismantled everything in your mind that produces reactions.
+- **Jane Austen** Always resignation and acceptance. Always prudence and honour and duty.
+- **Joe Rogan** Live your life like you're the hero in your movie.
+- **Joe Rogan** If you ever start taking things too seriously, just remember that we are talking monkeys on an organic spaceship flying through the universe.
+- **Joe Rogan** We define ourselves far too often by our past failures. That's not you. You are this person right now. You're the person who has learned from those failures.
+- **Joe Rogan** Discomfort is your friend. It doesn't matter if you're sick, if you have kids… if you're a pro, you go to work.
+- **John Milton** He who reigns within himself, and rules passions, desires, and fears, is more than a king.
+- **John Wooden** If you lose self-control everything will fall.
+- **Johnny Uzan** Things you won't say on your deathbed: "I wish I paid more attention to what other people think".
+- **Jonas Salzgeber** Stoicism teaches how to keep a calm and rational mind no matter what happens to you and it helps you understand and focus on what you can control and not worry about and accept what you can't control.
+- **Joshua Becker** Stop trying to impress others with your stuff and start trying to impress them with your life.
+- **Joshua Fields Millburn** The things you own end up owning you.
+- **Joshua Fields Millburn** The most important reason to live in the moment is nothing lasts forever. Enjoy the moment while it's in front of you. Be present. Accept life for what it is: a finite span of time with infinite possibilities.
+- **Justus Lipsius** He who does not desire or fear the uncertain day or capricious fate, is equal to the gods above and loftier than mortals.
+- **Ken Poirot** True success is achieved by stretching oneself, learning to feel comfortable being uncomfortable.
+- **Krishna** It is better to perform one's own predetermined duty, even if one performs that duty imperfectly, than perform the duty of another. When one performs his own predetermined duty in accordance with one's nature, one does not incur any sin.
+- **Krishna** Everything comes and goes in life. Happiness and unhappiness are temporary experiences that rise from sense perception. Heat and cold, pleasure and pain, will come and go. They never last forever. So, do not get attached to them. We have no control over them.
+- **Lao Tzu** The key to growth is the introduction of higher dimensions of consciousness into our awareness.
+- **Live Math Money** Life is a slow treadmill. People who stand still are actually going behind.
+- **Marcus Aurelius** From my grandfather Verus I learned good morals and the government of my temper.
+- **Marcus Aurelius** From my mother [I learned] abstinence, not only from evil deeds, but even from evil thoughts; and further, simplicity in my way of living, far removed from the habits of the rich.
+- **Marcus Aurelius** From Diognetus [I learned] not to busy myself about trifling things, and not to give credit to what was said by miracle-workers and jugglers about incantations and the driving away of demons and such things.
+- **Marcus Aurelius** From Rustics [I learned] with respect to those who have offended me by words, or done me wrong, to be easily disposed to be pacified and reconciled.
+- **Marcus Aurelius** From Sextus [I learned] to tolerate ignorant persons, and those who form opinions without consideration.
+- **Marcus Aurelius** From Fronto [I learned] that generally those among us who are called Patricians are rather deficient in paternal affection.
+- **Marcus Aurelius** From Alexander the Platonic [I learned not] continually to excuse the neglect of duties required by our relations to those with whom we live, by alleging urgent occupations.
+- **Marcus Aurelius** From Catulus [I learned] not to be indifferent when a friend finds fault, even if he should find fault without reason, but to try to restore him to his usual disposition.
+- **Marcus Aurelius** From my brother Severus [I learned] to love my kin, and to love truth, and to love justice.
+- **Marcus Aurelius** From Maximus I learned self-government, and not to be led aside by anything; and cheerfulness in all circumstances, as well as in illness.
+- **Marcus Aurelius** The things that conduce in any way to the convenience of life, and of which fortune gives an abundant supply, [my adoptive father] used without arrogance and without excusing himself.
+- **Marcus Aurelius** Begin the morning by saying to yourself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil. ... I can neither be injured by any of them, for no one can fix on me what is ugly, nor can I be angry with my kinsman, nor hate him.
+- **Marcus Aurelius** A limit of time is fixed for you, which if you do not use for clearing away the clouds from your mind, it will go and you will go, and it will never return.
+- **Marcus Aurelius** You will give yourself relief, if you do every act of your life as if it were the last.
+- **Marcus Aurelius** Failure to observe what is in the mind of another has seldom made a man unhappy; but those who do not observe the movements of their own minds must of necessity be unhappy.
+- **Marcus Aurelius** Since it is possible that you might depart from life this very moment, regulate every act and thought accordingly.
+- **Marcus Aurelius** Death and life, honor and dishonor, pain and pleasure — all these things equally happen to good men and bad, being things which make us neither better nor worse. Therefore they are neither good nor evil.
+- **Marcus Aurelius** How quickly things disappear: in the universe the bodies themselves, but in time the memory of them.
+- **Marcus Aurelius** The present is the only thing of which a man can be deprived, if it is true that this is the only thing which he has, and that a man cannot lose something he does not already possess.
+- **Marcus Aurelius** Even the smallest thing should be done with reference to an end.
+- **Marcus Aurelius** What then can guide a man? One thing and only one, philosophy. But this consists in keeping the daimon within a man free from violence and unharmed, superior to pains and pleasures, doing nothing without a purpose, nor yet falsely and with hypocrisy.
+- **Marcus Aurelius** Finally, waiting for death with a cheerful mind, as being nothing else than a dissolution of the elements of which every living being is compounded. But if there is no harm to the elements themselves in each continually changing into another, why should a man have any apprehension about the change and dissolution of all the elements?
+- **Marcus Aurelius** Hippocrates, after curing many diseases, himself fell sick and died. ... Alexander and Pompeius and Gaius Caesar, after so often completely destroying whole cities ... themselves, too, at last departed from life. ... And lice destroyed Democritus; and other lice killed Socrates.
+- **Marcus Aurelius** What does all this mean? You have embarked, made the voyage, and come to the shore; get out. If indeed to another life, there is no want of gods, not even there. But if to a state without sensation, you will cease to be held by pains and pleasures, and to be a slave to the vessel.
+- **Marcus Aurelius** Do not waste the remainder of your life in thoughts about others ... for you lose the opportunity of doing something else when you have such thoughts as these.
+- **Marcus Aurelius** To care for all men is according to man’s nature; and man should value the opinion only of those who openly live according to nature.
+- **Marcus Aurelius** Labor willingly and diligently, undistracted and aware of the common interest. ... Be cheerful also, and do not seek external help or the tranquillity that others give. A man then must stand erect, not be kept erect by others.
+- **Marcus Aurelius** It is not right that anything of any other kind, such as praise from the many, or power, or enjoyment of pleasure, should come into competition with that which is rationally and politically and practically good.
+- **Marcus Aurelius** Never value anything as profitable that compels you to break your promise, to lose your self-respect, to hate any man, to suspect, to curse, to act the hypocrite, to desire anything that needs walls and curtains.
+- **Marcus Aurelius** Brief is man’s life and small the nook of the earth where he lives; brief, too, is the longest posthumous fame, buoyed only by a succession of poor human beings who will very soon die and who know little of themselves, much less of someone who died long ago.
+- **Marcus Aurelius** It is in your power whenever you choose to retire into yourself. For there is no retreat that is quieter or freer from trouble than a man’s own soul.
+- **Marcus Aurelius** With what are you discontented? With the badness of men? Recall to your mind this conclusion, that rational animals exist for one another, and that to endure is a part of justice, and that men do wrong involuntarily.
+- **Marcus Aurelius** Perhaps the desire of the thing called fame torments you. See how soon everything is forgotten, and look at the chaos of infinite time on each side of the present, and the emptiness of applause, and the fickleness and lack of judgment in those who pretend to give praise, and the narrowness of its domain, and be quiet at last.
+- **Marcus Aurelius** Things do not touch the soul, for they are external and remain immovable; so our perturbations come only from our inner opinions.
+- **Marcus Aurelius** The universe is transformation: life is opinion.
+- **Marcus Aurelius** If the intellectual is common to all men, so is reason, in respect of which we are rational beings: if this is so, common also is the reason that commands us what to do, and what not to do; if this is so, there is a common law also; if this is so, we are fellow-citizens; if this is so, we are members of some political community.
+- **Marcus Aurelius** Take away your opinion, and then there is taken away the complaint, "I have been harmed." Take away the complaint, "I have been harmed," and the harm is taken away.
+- **Marcus Aurelius** A man should always have these two rules in readiness: one, to do only whatever the reason of the ruling and legislating faculty may suggest for the use of men; the other, to change your opinion, if anyone sets you right and dissuades you from any opinion.
+- **Marcus Aurelius** Do you have reason? I have. Why then do you not use it?
+- **Marcus Aurelius** Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.
+- **Marcus Aurelius** Look not round at the depraved morals of others, but run straight along the line without deviating from it.
+- **Marcus Aurelius** He who has a vehement desire for posthumous fame does not consider that every one of those who remember him will himself also die very soon.
+- **Marcus Aurelius** A thing is neither better nor worse for having been praised.
+- **Marcus Aurelius** Do not be whirled about, but in every movement have respect to justice, and on the occasion of every impression maintain the faculty of comprehension or understanding.
+- **Marcus Aurelius** Do what is necessary, and whatever the reason of a social animal naturally requires, and as it requires.
+- **Marcus Aurelius** Since the greatest part of what we say and do is unnecessary, dispensing with such activities affords a man more leisure and less uneasiness.
+- **Marcus Aurelius** Your life is short. You must turn to profit the present by the aid of reason and justice.
+- **Marcus Aurelius** In like manner view also the other epochs of time and of whole nations, and see how many after great efforts soon fell and were resolved into the elements.
+- **Marcus Aurelius** It is necessary to remember that the attention given to everything has its proper value and proportion. For you will not be dissatisfied if you apply yourself to smaller matters no further than is fit.
+- **Marcus Aurelius** Everything is only for a day, both that which remembers and that which is remembered.
+- **Marcus Aurelius** Always observe how ephemeral and worthless human things are, and what was yesterday a speck of semen tomorrow will be a mummy or ashes.
+- **Marcus Aurelius** Be like the promontory against which the waves continually break; but it stands firm and tames the fury of the water around it.
+- **Marcus Aurelius** "I am unhappy, because this has happened to me." Not so: say, "I am happy, though this has happened to me, because I continue free from pain, neither crushed by the present nor fearing the future."
+- **Marcus Aurelius** Remember, too, on every occasion that leads you to vexation to apply this principle: not that this is a misfortune, but that to bear it nobly is good fortune.
+- **Marcus Aurelius** Altogether the interval is small between birth and death; and consider with how much trouble, and in company with what sort of people and in what a feeble body, this interval is laboriously passed.
+- **Marcus Aurelius** In the morning, when you rise unwillingly, let this thought be present: I am rising to the work of a human being.
+- **Marcus Aurelius** Have I been made for this, to lie under the blankets and keep myself warm? But this is more pleasant. Do you exist then to take your pleasure, and not at all for action or exertion?
+- **Marcus Aurelius** Judge every word and deed that are naturally fit for you, and do not be diverted by words of blame or criticism; if it is good to do or say something, do not consider it unworthy of yourself.
+- **Marcus Aurelius** Do you see how many qualities you are immediately able to exhibit, in which there is no excuse of natural incapacity and unfitness, and yet you still remain voluntarily below the mark?
+- **Marcus Aurelius** A man when he has done a good act, does not call out for others to come and see, but he goes on to another act, as a vine goes on to produce again the grapes in season.
+- **Marcus Aurelius** Do not be disgusted, discouraged, or dissatisfied if you do not succeed in doing everything according to right principles; but when you have failed, return again, and be content if the greater part of what you do is consistent with man’s nature.
+- **Marcus Aurelius** To rest in these principles only: the one, that nothing will happen to me which is not conformable to the nature of the universe; and the other, that it is in my power never to act contrary to my god and daimon: for there is no man who will compel me to this.
+- **Marcus Aurelius** Every part of me then will be reduced by change into some part of the universe, and that again will change into another part of the universe, and so on forever.
+- **Marcus Aurelius** Such as are your habitual thoughts, such also will be the character of your mind; for the soul is dyed by the thoughts. Dye it then with a continuous series of such thoughts as these: for instance, that where a man can live, there he can also live well.
+- **Marcus Aurelius** Where the end is, there also is the advantage and the good of each thing. Now the good for the reasonable animal is society.
+- **Marcus Aurelius** Think of the universal substance, of which you have a very small portion; and of universal time, of which a short and indivisible interval has been assigned to you; and of that which is fixed by destiny, and how small a part of it you are.
+- **Marcus Aurelius** As you intend to live when you are gone, so it is in your power to live here. But if men do not permit you, then get away out of life, as if you were suffering no harm. The house is smoky, and I quit it. Why do you think that this is any trouble? But so long as nothing of the kind drives me out, I remain, am free, and no man shall hinder me from doing what I choose; and I choose to do what is according to the nature of the rational and social animal.
+- **Marcus Aurelius** The history of your life is now complete and your service is ended: and how many beautiful things you have seen; and how many pleasures and pains you have despised; and how many things called honorable you have spurned; and to how many ill-minded folks you have shown a kind disposition.
+- **Marcus Aurelius** You can pass your life in an equable flow of happiness if you can follow the right way and think and act in the right way.
+- **Marcus Aurelius** Let it make no difference to you whether you are cold or warm, if you are doing your duty; and whether you are drowsy or satisfied with sleep; and whether ill- spoken of or praised; and whether dying or doing something else.
+- **Marcus Aurelius** When you have been compelled by circumstances to be disturbed in a manner, quickly return to yourself and do not continue out of tune longer than the compulsion lasts.
+- **Marcus Aurelius** Suppose then that you have given up this worthless thing called fame, what remains that is worth valuing? This, in my opinion: to move yourself and to restrain yourself in conformity to your proper constitution, to which end all employments and arts lead.
+- **Marcus Aurelius** How strangely men act. They will not praise those who are living at the same time and living with themselves; but to be themselves praised by posterity, by those whom they have never seen or ever will see, this they set much value on.
+- **Marcus Aurelius** Let us overlook many things in those who are like antagonists in the gymnasium. For it is in our power, as I said, to get out of the way and to have no suspicion or hatred.
+- **Marcus Aurelius** If any man is able to convince me and show me that I do not think or act right, I will gladly change; for I seek the truth by which no man was ever injured. But he is injured who abides in his error and ignorance.
+- **Marcus Aurelius** Alexander the Macedonian and his groom were brought to the same state by death; for either they were received among the same seminal principles of the universe, or they were alike dispersed among the atoms.
+- **Marcus Aurelius** They are certainly moved toward things because they suppose them to be suitable to their nature and profitable to them. "But it is not so." Teach them then, and show them without being angry.
+- **Marcus Aurelius** Return to your sober senses and call yourself back; and when you have roused yourself from sleep and have perceived that they were only dreams that troubled you, now in your waking hours look at these (the things about you) as you did look at those (the dreams).
+- **Marcus Aurelius** My city and country, so far as I am Antoninus, is Rome; but so far as I am a man, it is the world.
+- **Marcus Aurelius** You will observe this general truth, that whatever is profitable to any man is profitable also to other men.
+- **Marcus Aurelius** Think continually that all kinds of men, pursuits, and nations are dead.
+- **Marcus Aurelius** One thing here is worth a great deal: to pass your life in truth and justice, with a benevolent disposition even to liars and unjust men.
+- **Marcus Aurelius** When you wish to delight yourself, think of the virtues of those who live with you; for instance, the activity of one, the modesty of another, the liberality of a third, and some other good quality of a fourth.
+- **Marcus Aurelius** He who loves fame considers another man’s activity to be his own good; and he who loves pleasure, his own sensations; but he who has understanding considers his own acts to be his own good.
+- **Marcus Aurelius** It is in our power to have no opinion about a thing and not to be disturbed in our soul; for things themselves have no natural power to form our judgments.
+- **Marcus Aurelius** Accustom yourself to attend carefully to what is said by another, and as much as it is possible, try to inhabit the speaker’s mind.
+- **Marcus Aurelius** How soon will time cover all things, and how many it has covered already.
+- **Marcus Aurelius** In whatever I do, either by myself or with another, I must direct my energies to this alone, that it shall conduce to the common interest and be in harmony with it.
+- **Marcus Aurelius** To the rational animal the same act is at once according to nature and according to reason.
+- **Marcus Aurelius** Whatever any one does or says, I must be good, just as if the emerald (or the gold or the purple) were always saying "Whatever any one does or says, I must be emerald and keep my color."
+- **Marcus Aurelius** Is any man afraid of change? What can take place without change? What then is more pleasing or more suitable to the universal nature? And can you take a hot bath unless the wood for the fire undergoes a change? And can you be nourished unless the food undergoes a change? And can anything else that is useful be accomplished without change? Do you not see then that for yourself also to change is just the same, and equally necessary for the universal nature?
+- **Marcus Aurelius** In a little while you will have forgotten everything; in a little while everything will have forgotten you.
+- **Marcus Aurelius** It is peculiar to man to love even those who do wrong. And this happens, if when they do wrong it occurs to you that they are fellow humans and that they do wrong through ignorance and unintentionally, and that soon both of you will die; and above all, that the wrongdoer has done you no harm, for he has not made your ruling faculty worse than it was before.
+- **Marcus Aurelius** If even the perception of doing wrong departs, what reason is there for living any longer?
+- **Marcus Aurelius** When a man has done you wrong, immediately consider with what opinion about good or evil he has done wrong. For when you have seen this, you will pity him, and will neither wonder nor be angry.
+- **Marcus Aurelius** Think not so much of what you lack as of what you have: but of the things that you have, select the best, and then reflect how eagerly you would have sought them if you did not have them. At the same time, however, take care that you do not through being so pleased with them accustom yourself to overvalue them, so as to be disturbed if you should ever not have them.
+- **Marcus Aurelius** About death: Whether it is a dispersion, or a resolution into atoms, or annihilation, it is either extinction or change.
+- **Marcus Aurelius** The mind maintains its own tranquillity by retiring into itself, and the ruling faculty is not made worse. But the parts that are harmed by pain, let them, if they can, give their opinion about it.
+- **Marcus Aurelius** Consider that as the heaps of sand piled on one another hide the former sands, so in life the events that go before are soon covered by those that come after.
+- **Marcus Aurelius** No man can escape his destiny, the next inquiry being how he may best live the time that he has to live.
+- **Marcus Aurelius** To have contemplated human life for forty years is the same as to have contemplated it for ten thousand years. For what more will you see?
+- **Marcus Aurelius** Only attend to yourself, and resolve to be a good man in every act that you do.
+- **Marcus Aurelius** The art of life is more like the wrestler’s art than the dancer’s, in respect of this, that it should stand ready and firm to meet onsets that are sudden and unexpected.
+- **Marcus Aurelius** Constantly observe who those are whose approbation you wish to have, and what ruling principles they possess. For then you will neither blame those who offend involuntarily, nor will you want their approbation if you look to the sources of their opinions and appetites.
+- **Marcus Aurelius** Pain is neither intolerable nor everlasting if you bear in mind that it has its limits, and if you add nothing to it in imagination.
+- **Marcus Aurelius** Very little indeed is necessary for living a happy life.
+- **Marcus Aurelius** The judgment should be able to say to the thing that falls under its observation: This you are in substance (reality), though in men’s opinion you may appear to be of a different kind.
+- **Marcus Aurelius** The perfection of moral character consists in this, in passing every day as if it were the last, and in being neither violently excited nor torpid nor playing the hypocrite.
+- **Marcus Aurelius** It is a ridiculous thing for a man not to fly from his own badness, which is indeed possible, but to fly from other men’s badness, which is impossible.
+- **Marcus Aurelius** When you have done a good act and another has received it, why do you look for a third thing besides these, as fools do, either to have the reputation of having done a good act or to obtain a return?
+- **Marcus Aurelius** On the occasion of every act ask yourself, How is this with respect to me? Will I regret it? A little time and I am dead, and all is gone.
+- **Marcus Aurelius** Consider that men will do the same things even though you would burst with rage.
+- **Marcus Aurelius** Do not be perturbed, for all things are according to the nature of the universal; and in a little time you will be nobody and nowhere, like Hadrian and Augustus.
+- **Marcus Aurelius** You have not leisure or ability to read. But you have leisure or ability to check arrogance: you have leisure to be superior to pleasure and pain: you have leisure to be superior to love of fame, and not to be vexed at stupid and ungrateful people, nay even to care for them.
+- **Marcus Aurelius** Constantly and, if it be possible, on the occasion of every impression on the soul, apply to it the principles of physics, ethics, and dialectics [logic].
+- **Marcus Aurelius** Whatever man you meet with, immediately say to yourself: What opinions has this man about good and bad?
+- **Marcus Aurelius** If a thing is in your own power, why do you do it? But if it is in the power of another, whom do you blame? The atoms (chance) or the gods? Both are foolish. You must blame nobody.
+- **Marcus Aurelius** Nothing should be done without a purpose.
+- **Marcus Aurelius** It is a proper work of a man to be benevolent to his own kind, to despise the movements of the senses, to form a just judgment of plausible appearances, and to take a survey of the nature of the universe and of the things that happen in it.
+- **Marcus Aurelius** Now it is in my power to let no badness be in this soul, nor desire nor any perturbation at all; but looking at all things, I see their true nature, and I use each according to its value.
+- **Marcus Aurelius** Receive wealth or prosperity without arrogance; and be ready to let it go.
+- **Marcus Aurelius** Do not let your thoughts at once embrace all the various troubles that you may expect to befall you: but on every occasion ask yourself, What is there in this that is intolerable and past bearing? For you will be ashamed to confess.
+- **Marcus Aurelius** I see no virtue that is opposed to justice; but I see a virtue that is opposed to love of pleasure, and that is temperance.
+- **Marcus Aurelius** Different things delight different people. But it is my delight to keep the ruling faculty sound without turning away either from any man or from any of the things that happen to men, but looking at and receiving all with welcoming eyes and using everything according to its value.
+- **Marcus Aurelius** Those who rather pursue posthumous fame do not consider that the men of tomorrow will be exactly like these whom they cannot bear now; and both are mortal.
+- **Marcus Aurelius** Take me and cast me where you will; for there I shall keep my divine part tranquil, that is, content, if it can feel and act conformably to its proper constitution.
+- **Marcus Aurelius** If you are pained by any external thing, it is not this thing that disturbs you, but your own judgment about it. And it is in your power to wipe out this judgment now.
+- **Marcus Aurelius** "But it is not worthwhile to live if this cannot be done." Take your departure then from life contentedly.
+- **Marcus Aurelius** The mind that is free from passions is a citadel, for man has nothing more secure to which he can fly for refuge and repel every attack.
+- **Marcus Aurelius** "A cucumber is bitter." Throw it away. "There are briars in the road." Turn aside from them. This is enough. Do not add, "And why were such things made in the world?"
+- **Marcus Aurelius** To my own free will the free will of my neighbor is just as indifferent as his poor breath and flesh.
+- **Marcus Aurelius** He who fears death fears either the loss of sensation or a different kind of sensation. But if you shall have no sensation, neither will you feel any harm; and if you will acquire another kind of sensation, you will be a different kind of living being and you will not cease to live.
+- **Marcus Aurelius** Men exist for the sake of one another. Teach them then or bear with them.
+- **Marcus Aurelius** Injustice is impiety. For since the universal nature has made rational animals for the sake of one another to help one another according to their deserts, but in no way to injure one another, he who transgresses her will is clearly guilty of impiety toward the highest divinity.
+- **Marcus Aurelius** He who is afraid of pain will sometimes also be afraid of some of the things that will happen in the world, and even this is impiety. And he who pursues pleasure will not abstain from injustice, and this is plainly impiety.
+- **Marcus Aurelius** This, then, is consistent with the character of a reflecting man, to be neither careless nor impatient nor contemptuous with respect to death, but to wait for it as one of the operations of nature.
+- **Marcus Aurelius** He who does wrong does wrong against himself. He who acts unjustly acts unjustly to himself, because he makes himself bad.
+- **Marcus Aurelius** He often acts unjustly who does not do a certain thing; not only he who does a certain thing.
+- **Marcus Aurelius** If you are able, correct by teaching those who do wrong; but if you cannot, remember that indulgence is given to you for this purpose.
+- **Marcus Aurelius** Labor not as one who is wretched, nor yet as one who would be pitied or admired; but direct your will to one thing only: to act or not to act as social reason requires.
+- **Marcus Aurelius** Today I have got out of all trouble, or rather I have cast out all trouble, for it was not outside, but within and in my opinions.
+- **Marcus Aurelius** Things stand outside of us, themselves by themselves, neither knowing anything of themselves nor expressing any judgment. What is it, then, that passes judgment on them? The ruling faculty.
+- **Marcus Aurelius** All things are changing: and you yourself are in continuous mutation and in a manner in continuous destruction, and the whole universe, too.
+- **Marcus Aurelius** As you yourself are a component part of a social system, so let every act of yours be a component part of social life.
+- **Marcus Aurelius** When another blames you or hates you, or when men say anything injurious about you, approach their poor souls, penetrate within, and see what kind of men they are. You will discover that there is no reason to be concerned that these men have this or that opinion about you.
+- **Marcus Aurelius** In a word, if there is a god, all is well; and if chance rules, do not also be governed by it.
+- **Marcus Aurelius** Set yourself in motion, if it is in your power, and do not look about you to see if anyone will observe it; nor yet expect Plato’s Republic: but be content if the smallest thing goes on well, and consider such an event to be no small matter.
+- **Marcus Aurelius** The work of philosophy is simple and modest. Do not draw me aside into pomposity.
+- **Marcus Aurelius** How short is the time from birth to dissolution, and the illimitable time before birth as well as the equally boundless time after dissolution.
+- **Marcus Aurelius** Either all things proceed from one intelligent source and come together as in one body, and the part ought not to find fault with what is done for the benefit of the whole; or there are only atoms, and nothing else than mixture and dispersion. Why, then, are you disturbed?
+- **Marcus Aurelius** When you are offended with any man’s shameless conduct, immediately ask yourself, is it possible, then, that shameless men should not be in the world? It is not possible. Do not, then, require what is impossible.
+- **Marcus Aurelius** Where is the harm or the strangeness in the boor acting like a boor? See whether you are not yourself the more to blame in not expecting that he would err in such a way. For you had means given you by your reason to suppose that it was likely that he would commit this error, and yet you have forgotten and are amazed that he has erred.
+- **Marcus Aurelius** The rational animal is consequently also a social animal.
+- **Marcus Aurelius** If a man is mistaken, instruct him kindly and show him his error. But if you are not able, blame yourself, or not even yourself.
+- **Marcus Aurelius** Whether the universe is a concourse of atoms, or nature is a system, let this first be established: that I am a part of the whole that is governed by nature; next, that I stand in some intimate connection with other kindred parts.
+- **Marcus Aurelius** When you have assumed these names—good, modest, truthful, rational, a man of equanimity, and magnanimous—take care that you do not change these names; and if you should lose them, quickly return to them.
+- **Marcus Aurelius** Acquire the contemplative way of seeing how all things change into one another, and constantly attend to it, and exercise yourself about this part of philosophy. For nothing is so much adapted to produce magnanimity.
+- **Marcus Aurelius** He who follows reason in all things is both tranquil and active at the same time, and also cheerful and collected.
+- **Marcus Aurelius** No longer talk at all about the kind of man that a good man ought to be, but be such.
+- **Marcus Aurelius** Consider what men are when they are eating, sleeping, coupling, evacuating, and so forth. Then what kind of men they are when they are imperious and arrogant, or angry and scolding from their elevated place.
+- **Marcus Aurelius** When you are offended at any man’s fault, immediately turn to yourself and reflect in what manner you yourself have erred: for example, in thinking that money is a good thing or pleasure, or a bit of reputation, and the like.
+- **Marcus Aurelius** A brief existence is common to all things, and yet you avoid and pursue all things as if they would be eternal.
+- **Marcus Aurelius** There is no man so fortunate that there shall not be by him when he is dying some who are pleased with what is going to happen.
+- **Marcus Aurelius** What is your art? To be good. And how is this accomplished well except by general principles, some about the nature of the universe, and others about the proper constitution of man?
+- **Marcus Aurelius** Justice will not be observed, if we either care for indifferent things or are easily deceived and careless and changeable.
+- **Marcus Aurelius** Shall any man hate me? That will be his affair. But I will be mild and benevolent toward every man, and ready to show even him his mistake, not reproachfully, nor yet as making a display of my endurance, but nobly and honestly.
+- **Marcus Aurelius** Consider that you also do many things wrong, and that you are a man like others; and even if you do abstain from certain faults, still you have the disposition to commit them, though either through cowardice, or concern about reputation, or some such mean motive, you abstain from such faults.
+- **Marcus Aurelius** A man must learn a great deal to enable him to pass a correct judgment on another man’s acts.
+- **Marcus Aurelius** It is our own opinions that disturb us. Take away these opinions then, and resolve to dismiss your judgment about an act as if it were something grievous, and your anger is gone.
+- **Marcus Aurelius** To expect bad men not to do wrong is madness, for he who expects this desires an impossibility. But to allow men to behave so to others, and to expect them not to do you any wrong, is irrational and tyrannical.
+- **Marcus Aurelius** In the writings of the Ephesians there was this precept: constantly to think of one of the men of former times who practiced virtue.
+- **Marcus Aurelius** The Pythagoreans bid us in the morning look to the heavens that we may be reminded of those bodies that continually do the same things and in the same manner perform their work, and also be reminded of their purity and nudity. For there is no veil over a star.
+- **Marcus Aurelius** If you shall be afraid not because you must some time cease to live, but if you shall fear never to have begun to live according to nature—then you will be a man worthy of the universe that has produced you, and you will cease to be a stranger in your native land.
+- **Marcus Aurelius** You are composed of three things: body, breath (life), intelligence. Of these the first two are yours insofar as it is your duty to take care of them; but the third alone is truly yours.
+- **Marcus Aurelius** I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.
+- **Marcus Aurelius** In the application of your principles you must be like the pancratiast, not like the gladiator. For the latter lays aside the blade he uses, and takes it up again, but the former always has his hand and needs only to clench it.
+- **Marcus Aurelius** Either there is a fatal necessity and invincible order, or a kind Providence, or a confusion without a purpose and without a director. If then there is an invincible necessity, why do you resist? But if there is a Providence that allows itself to be propitiated, make yourself worthy of the help of the divinity. But if there is a confusion without a governor, be content that in such a tempest you have yourself a certain ruling intelligence.
+- **Marcus Aurelius** If it is not right, do not do it: if it is not true, do not say it. For let your impulse be in your own power.
+- **Marcus Aurelius** First, do nothing inconsiderately or without a purpose. Second, make your acts refer to nothing else but a social end.
+- **Marcus Aurelius** Consider that before long you will be nobody and nowhere, nor will any of the things exist that you now see, nor any of those who are now living. For all things are formed by nature to change and be turned and to perish in order that other things in continuous succession may exist.
+- **Marcus Aurelius** Consider that everything is opinion, and opinion is in your power. Take away then, when you choose, your opinion, and like a mariner who has rounded the headland, you will find calm, everything stable, and a waveless bay.
+- **Marcus Aurelius** With respect to what may happen to you from without, consider that it happens either by chance or according to Providence, and you must neither blame chance nor accuse Providence.
+- **Marcus Aurelius** Constantly recall those who have complained greatly about anything, those who have been most conspicuous by the greatest fame or misfortunes or enmities or fortunes of any kind: then think, Where are they all now? Smoke and ash and a tale, or not even a tale.
+- **Marcus Aurelius** How small a part of the boundless and unfathomable time is assigned to every man! For it is very soon swallowed up in the eternal. And how small a part of the whole substance! And how small a part of the universal soul! And on what a small clod of the whole earth you creep!
+- **Marcus Aurelius** The tranquility that comes when you stop caring what they say. Or think, or do. Only what you do.
+- **Marcus Aurelius** Learn to be indifferent to what makes no difference.
+- **Marcus Aurelius** If it's endurable, then endure it. Stop complaining.
+- **Marcus Aurelius** Waste no more time arguing what a good man should be, be one.
+- **Marcus Aurelius** You have power over your mind — not outside events. Realize this, and you will find strength.
+- **Marcus Aurelius** Be tolerant with others and strict with yourself.
+- **Marcus Aurelius** Just that you do the right thing. The rest doesn't matter.
+- **Marcus Aurelius** When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love.
+- **Marcus Aurelius** Do what you will. Even if you tear yourself apart, most people will continue doing the same things.
+- **Marcus Aurelius** It can ruin your life only if it ruins your character. Otherwise it cannot harm you — inside or out.
+- **Marcus Aurelius** Every hour focus your mind attentively…on the performance of the task in hand, with dignity, human sympathy, benevolence and freedom, and leave aside all other thoughts. You will achieve this, if you perform each action as if it were your last.
+- **Marcus Aurelius** There are two of the most immediately useful thoughts you will dip into. First that things cannot touch the mind: they are external and inert; anxieties can only come from your internal judgement. Second, that all these things you see will change almost as you look at them, and then will be no more. Constantly bring to mind all that you yourself have already seen changed. The universe is change: life is judgement.
+- **Marcus Aurelius** If you have your heart set on wearing crowns, why not make one out of roses – you will look even more elegant in that.
+- **Marcus Aurelius** Whatever happens at all happens as it should; you will find this true, if you watch narrowly.
+- **Marcus Aurelius** Why is this so unbearable? Why can't I endure it? You'll be embarrassed to answer.
+- **Marcus Aurelius** Run down the list of those who felt intense anger at something: the most famous, the most unfortunate, the most hated, the most whatever: Where is all that now? Smoke, dust, legend…or not even a legend. Think of all the examples. And how trivial the things we want so passionately are.
+- **Marcus Aurelius** Everything that happens is either endurable or not. If it's endurable, then endure it. Stop complaining. If it's unendurable… then stop complaining. Your destruction will mean its end as well. Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so.
+- **Marcus Aurelius** The impediment to action advances action. What stands in the way becomes the way.
+- **Marcus Aurelius** Not to assume it's impossible because you find it hard. But to recognize that if it's humanly possible, you can do it too.
+- **Marcus Aurelius** Do not indulge in dreams of having what you have not, but reckon up the chief of the blessings you do possess, and then thankfully remember how you would crave for them if they were not yours.
+- **Marcus Aurelius** Men seek out retreats for themselves in the country, by the seaside, on the mountains… nowhere can a man find a retreat more peaceful or more free from trouble than his own soul.
+- **Marcus Aurelius** Objective judgment, at this very moment. Unselfish action, now at this very moment. Willing acceptance – now at this very moment – of all external events. That's all you need.
+- **Marcus Aurelius** This is the mark of perfection of character—to spend each day as if it were your last, without frenzy, laziness, or any pretending.
+- **Marcus Aurelius** Concentrate every minute like a Roman— like a man— on doing what's in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions.
+- **Marcus Aurelius** Because most of what we say and do is not essential. If you can eliminate it, you'll have more time, and more tranquility. Ask yourself at every moment, 'Is this necessary?'.
+- **Marcus Aurelius** If you seek tranquility, do less. Or (more accurately) do what's essential – what the reason of a social being requires, and in the requisite way. Which brings a double satisfaction: to do less, better.
+- **Marcus Aurelius** The happiness of those who want to be popular depends on others; the happiness of those who seek pleasure fluctuates with moods outside their control; but the happiness of the wise grows out of their own free acts.
+- **Marcus Aurelius** All you need are these: certainty of judgment in the present moment; action for the common good in the present moment; and an attitude of gratitude in the present moment for anything that comes your way.
+- **Marcus Aurelius** To love only what happens, what was destined. No greater harmony.
+- **Marcus Aurelius** Whatever anyone does or says, I'm bound to the good. Whatever anyone does or says, I must be what I am and show my true colors.
+- **Marcus Aurelius** Everywhere, at each moment, you have the option: to accept this event with humility; to treat this person as he should be treated; to approach this thought with care, so that nothing irrational creeps in.
+- **Marcus Aurelius** Focus on what nature demands, as if you were governed by that alone. Then do that, and accept it, unless your nature as a living being would be degraded by it.
+- **Marcus Aurelius** Whatever happens to you has been waiting to happen since the beginning of time.
+- **Marcus Aurelius** Only these two questions: Is what he's doing now the right thing to be doing? Does he accept and welcome what he's been assigned?
+- **Marcus Aurelius** Each of us needs what nature gives us, when nature gives it.
+- **Marcus Aurelius** Accept things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.
+- **Marcus Aurelius** Here is a rule to remember in future, when anything tempts you to feel bitter: not 'This is misfortune', but 'To bear this worthily is good fortune.
+- **Marcus Aurelius** If anyone can refute me‚ show me I'm making a mistake or looking at things from the wrong perspective‚ I'll gladly change. It's the truth I'm after.
+- **Marcus Aurelius** Many of the anxieties that harass you are superfluous… Expand into an ampler region, letting your thought sweep over the entire universe.
+- **Marcus Aurelius** Death smiles at us all, but all a man can do is smile back.
+- **Marcus Aurelius** Consider the abyss of time past, infinite future. Three das of life or three generations: what's the difference?
+- **Marcus Aurelius** You could leave life right now. Let that determine what you do and say and think.
+- **Marcus Aurelius** He has stripped away his body and – realizing that at some point soon he will have to abandon mankind and leave all this behind – has dedicated himself to serving justice in all he does, and nature in all that happens.
+- **Marcus Aurelius** The best answer to anger is silence.
+- **Marcus Aurelius** Not to display anger or other emotions. To be free of passion and yet full of love.
+- **Marcus Aurelius** It is our own opinions that disturb us. Take away these opinions then, and resolve to dismiss your judgment about an act as if it were something grievous, and your anger is gone.
+- **Marcus Aurelius** Yes, you can — if you do everything as if it were the last thing you were doing in life, and stop being aimless, stop letting your emotions override what your mind tells you, stop being hypocritical, self-centered, irritable.
+- **Marcus Aurelius** Pain is neither intolerable nor everlasting if you bear in mind that it has its limits, and if you add nothing to it in imagination.
+- **Marcus Aurelius** Does what's happened keep you from acting with justice, generosity, self-control, sanity, prudence, honesty, humility, straightforwardness, and all other qualities that allow a person's nature to fulfil itself? So remember this principle when something threatens to cause you pain: the thing itself was no misfortune at all; to endure it and prevail is great good fortune.
+- **Marcus Aurelius** What people say or think about him, or how they treat him, isn't something he worries about.
+- **Marcus Aurelius** You don't love yourself enough. Or you'd love your nature too, and what it demands of you.
+- **Marcus Aurelius** Accustom yourself to attend carefully to what is said by another, and as much as it is possible, try to inhabit the speaker's mind.
+- **Marcus Aurelius** The secret of all victory lies in the organization of the non-obvious.
+- **Marcus Aurelius** Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
+- **Maxime Lagacé** Be stoic: Just do the right thing. Just keep going.
+- **Maxime Lagacé** If you make happiness your goal, you'll be disappointed. If you make presence your goal, you'll be satisfied.
+- **Maxime Lagacé** Ensure you endure.
+- **Maxime Lagacé** Keep your intention pure. Emotions will try to distract you. So keep going. That's the cure.
+- **Maxime Lagacé** Expect the river to be wild, surprising and challenging. To expect the opposite is to live in delusion.
+- **Maxime Lagacé** Some can delay gratification. Others don't seek it at all. Be the latter.
+- **Maxime Lagacé** The only thing you can control is the thought you are having right now. Make it calm, clear and simple. Make it your superpower.
+- **Maxime Lagacé** True stoics don't care about the outcome. They just care to give their best shot, right here, right now.
+- **Maxime Lagacé** Life will punch you in the face if your head gets too big. Don't ever pretend, don't lie, don't feel superior. Just be honest and do your own thing.
+- **Maxime Lagacé** The easiest way to live unhappy and unsatisfied is to hope. More often than not, you'll be disappointed. Thus, your main aim should be to do the best you can right now and to expect nothing at all. Accept the way things turn out despite your best effort. That's the only path to a peaceful mind.
+- **Maxime Lagacé** Human beings want control and certainty. "Accepting fate" means the opposite. That's why it seems absurd to us.
+- **Maxime Lagacé** I'm not asking you to be fearless. I'm asking you to be courageous.
+- **Maxime Lagacé** Death could be around the corner, for you, for your friends and for your family. I'm not trying to scare you. I'm just realist.
+- **Maxime Lagacé** Being angry means your lizard brain took control. Being calm means you stayed above your emotions.
+- **Maxime Lagacé** It will only hurt if you keep remembering it but a true stoic looks forward.
+- **Maxime Lagacé** Understand: a critic doesn't disturb you, it disturbs your ego. You want to know the truth. Your ego is scared of it.
+- **Maxime Lagacé** Life without love would be a strange thing. But don't be surprised if you get burned.
+- **Maxime Lagacé** Winning is not about talent, being smart, taking shortcuts. It's about finding the right thing to do, and doing it.
+- **Michael** Advice for nearly everything: start slowly and maintain traction.
+- **Michael** It's hard to prioritize the long term when you think you should feel comfortable in every moment.
+- **Mingyur Rinpoche** When we become fixed in our perceptions we lose our ability to fly.
+- **Mingyur Rinpoche** When you transform your mind, everything you experience is transformed.
+- **Mingyur Rinpoche** The expectation that you bring to your meditation are often the greatest obstacles you will encounter.
+- **Mingyur Rinpoche** At any given moment, you can choose to follow the chain of thoughts, emotions, and sensations that reinforce a perception of yourself as vulnerable and limited, or to remember that your true nature is pure, unconditioned, and incapable of being harmed.
+- **Mokokoma Mokhonoana** Expectation is the only seed of disappointment.
+- **Musonius Rufus** Since every man dies, it is better to die with distinction than to live long.
+- **Musonius Rufus** If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.
+- **Nassim Nicholas Taleb** Stoicism is about the domestication of emotions, not their elimination.
+- **Nassim Nicholas Taleb** A Stoic is someone who transforms fear into prudence, pain into transformation, mistakes into initiation, and desire into undertaking.
+- **Nassim Nicholas Taleb** Don't aim to be perfect. Aim to be antifragile.
+- **Nassim Nicholas Taleb** Difficulty is what wakes up the genius.
+- **Nassim Nicholas Taleb** A stoic is a Buddhist with attitude.
+- **Nassim Nicholas Taleb** Missing a train is only painful if you run after it! Likewise, not matching the idea of success others expect from you is only painful if that's what you are seeking.
+- **Nassim Nicholas Taleb** Much of what other people know isn't worth knowing.
+- **Nassim Nicholas Taleb** Intelligence consists in ignoring things that are irrelevant.
+- **Nassim Nicholas Taleb** The wise man listens to meaning, the fool only gets the noise.
+- **Nassim Nicholas Taleb** Heroes are heroes because they are heroic in behaviour, not because they won or lost.
+- **Nassim Nicholas Taleb** You find peace by coming to terms with what you don't know.
+- **Nassim Nicholas Taleb** Comfort makes you weaker. We need some variability, some stressors. Not too much, but just enough.
+- **Nassim Nicholas Taleb** The fragile wants tranquility, the antifragile grows from disorder, and the robust doesn't care too much.
+- **Nassim Nicholas Taleb** Learn to fail with pride — and do so fast and cleanly. Maximise trial and error — by mastering the error part.
+- **Nassim Nicholas Taleb** Greatness starts with the replacement of hatred with polite disdain.
+- **Nassim Nicholas Taleb** Your reputation is harmed the most by what you say to defend it.
+- **Nassim Nicholas Taleb** Love without sacrifice is like theft.
+- **Nassim Nicholas Taleb** It is a sign of weakness to avoid showing signs of weakness.
+- **Nassim Nicholas Taleb** Weak men act to satisfy their needs, stronger men their duties.
+- **Naval Ravikant** We are bacteria to the universe. We're basically monkeys on a small rock orbiting a small backwards star in a huge galaxy, which is in an absolutely staggeringly gigantic universe, which itself may be part of a gigantic multiverse.
+- **Naval Ravikant** Desire is a contract that you make with yourself to be unhappy until you get what you want.
+- **Naval Ravikant** Your existence, my existence is just infinitesimal. It's like a firefly blinking once in the night.
+- **Naval Ravikant** The universe has been around for a long time, and the universe is a very, very large place. If you'll study even the smallest bit of science, for all practical purposes we are nothing.
+- **Naval Ravikant** We're not really here that long, and we don't really matter that much. Nothing that we do lasts. Eventually, you will fade. Your works will fade. Your children will fade. Your thoughts will fade. These planets will fade. This sun will fade. It will all be gone.
+- **Naval Ravikant** The phrase that I use the most to myself in my head is one word: accept.
+- **Naval Ravikant** True rewards – wealth, knowledge, love, fitness, and equanimity – come from ignoring others and improving ourselves.
+- **Naval Ravikant** You can it, you can accept it, or you can leave it. What is not a good option is to sit around wishing you would change it but not changing it, wishing you would leave it but not leaving it, and not accepting it.
+- **Naval Ravikant** Meditation is intermittent fasting for the mind. Too much sugar leads to a heavy body, and too many distractions lead to a heavy mind. Time spent undistracted and alone, in self-examination, journaling, meditation, resolves the unresolved and takes us from mentally fat to fit.
+- **Naval Ravikant** Success is the enemy of learning. It can deprive you of the time and the incentive to start over. Beginner's mind also needs beginner's time.
+- **Naval Ravikant** The fundamental delusion — there is something out there that will make me happy and fulfilled forever.
+- **Naval Ravikant** Once you've truly controlled your own fate, for better or for worse, you'll never let anyone else tell you what to do.
+- **Naval Ravikant** All greatness comes from suffering.
+- **Naval Ravikant** A fit body, a calm mind, a house full of love. These things cannot be bought — they must be earned.
+- **Naval Ravikant** If you're more passionate about founding a business than the business itself, you can fall into a ten year trap. Better to stay emotionally unattached and select the best opportunity that arises. Applies to relationships too.
+- **net)** Happiness isn't outside of us, but actually comes from within. Leo Babauta (zenhabits.
+- **Nicholas Nassim Taleb** We are quick to forget that just being alive is an extraordinary piece of good luck, a remote event, a chance occurrence of monstrous proportions.
+- **Othello** The robbed that smiles steals something from the thief.
+- **Paul Graham** Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have.
+- **Pema Chödrön** Fear is a natural reaction to moving closer to the truth.
+- **Plato** No human thing is of serious importance.
+- **Posidonius** A single day among the learned lasts longer than the longest life of the ignorant.
+- **Robert Greene** The ultimate power in life is to be completely self-reliant, completely yourself.
+- **Robert Greene** Too many people believe that everything must be pleasurable in life.
+- **Robert Greene** Move toward resistance and pain.
+- **Robert Greene** Make the mind tougher by exposing it to adversity.
+- **Robert Greene** Life is full of hostility — some of it overt, some clever and underhanded.
+- **Robert Greene** Learn to detach yourself from the chaos of the battlefield.
+- **Robert Greene** If change is forced upon you, you must resist the temptation to overreact or feel sorry for yourself.
+- **Robert Greene** Cultivate a fearless approach to life, attack everything with boldness and energy.
+- **Robert Greene** Understand: in life as in war, nothing ever happens just as you expect it to.
+- **Robert Greene** Realists are not afraid to look at the harsh circumstances of life.
+- **Robert Greene** Repeated failure will toughen your spirit and show you with absolute clarity how things must be done.
+- **Robert Greene** Withstand the setbacks and failures, the days of drudgery, and the hard work that are always a part of any creative action.
+- **Robert Greene** Life has more meaning in the face of death.
+- **Robert Greene** By becoming deeply aware of our mortality, we intensify our experience of every aspect of life.
+- **Robert Greene** Once the ego inflates it will only come back to earth through some jarring failure.
+- **Robert Greene** Do not envy those who seems naturally gifted; it is often a curse.
+- **Robert Greene** The pain and boredom we experience in the initial stage of learning a skill toughens our minds.
+- **Robert Greene** Accustom yourself to criticism.
+- **Robert Greene** Can you take criticism and use it constructively?
+- **Robert Greene** Become your own worst critic; see your work as if through the eyes of others.
+- **Robert Greene** You must not be afraid of your uniqueness and you must care less and less what people think of you.
+- **Robert Greene** Eventually, the time that was not spent on learning skills will catch up with you, and the fall will be painful.
+- **Robert Greene** You are not tied to a particular position; your loyalty is not to a career or company.
+- **Robert Greene** Understand: people will constantly attack you in life. One of their main weapons will be to instill in you doubts about yourself. They will often disguise this as their objective opinion, but invariably it has a political purpose – they want to keep you down.
+- **Robertson** Remind yourself that the past and are 'indifferent' to you, and that the supreme good, and eudaimonia, can only exist within you, right now, in the present moment. Donald J.
+- **Robertson** The wise man needs nothing and yet he can make good use of anything, whereas the fool 'needs' countless things but can make good use of none of them. Donald J.
+- **Robin Sharma** The more time you spend in your discomfort zone, the more your comfort zone will expand.
+- **Rumi** Don't grieve. Anything you lose comes round in another form.
+- **Ryan Holiday** The great law of nature is that it never stops. There is no end.
+- **Ryan Holiday** The obstacle is the way.
+- **Ryan Holiday** Great times are great softeners.
+- **Ryan Holiday** In life, it doesn't matter what happens to you or where you came from. It matters what you do with what happens and what you've been given.
+- **Ryan Holiday** The world might call you a pessimist. Who cares? It's far better to seem like a downer than to be blindsided or caught off guard.
+- **Ryan Holiday** No one is asking you to look at the world through rose-colored glasses.
+- **Ryan Holiday** What matters most is not what our obstacles are but how we see them, how we react to them, and whether we keep our composure.
+- **Ryan Holiday** We must remember: There is no easy way.
+- **Ryan Holiday** Genius often really is just persistence in disguise.
+- **Ryan Holiday** True will is quiet humility, resilience, and flexibility; the other kind of will is weakness disguised by bluster and ambition.
+- **Ryan Holiday** First, see clearly. Next, act correctly. Finally, endure and accept the world as it is.
+- **Ryan Holiday** Focus on the moment, not the monsters that may or may not be up ahead.
+- **Ryan Holiday** We must be willing to roll the dice and lose. Prepare, at the end of the day, for none of it to work.
+- **Ryan Holiday** The path of least resistance is a terrible teacher.
+- **Ryan Holiday** Bad companies are destroyed by crisis. Good companies survive them. Great individuals, like great companies, find a way to transform weakness into strength.
+- **Ryōkan** Why do you so earnestly seek the truth in distant places? Look for delusion and truth in the bottom of your own hearts.
+- **Sam Altman** Don't let jerks live rent-free in your head.
+- **Scott Peck** The truth is that our finest moments are most likely to occur when we are feeling deeply uncomfortable, unhappy, or unfulfilled. For it is only in such moments, propelled by our discomfort, that we are likely to step out of our ruts and start searching for different ways or truer answers. M.
+- **Seneca** There’s no difference between the one and the other - you didn’t exist and you won’t exist - you’ve got no concern with either period. As it is with a play, so it is with life - what matters is not how long the acting lasts, but how good it is. It is not important at what point you stop. Stop wherever you will - only make sure that you round it off with a good ending.
+- **Seneca** There are times when even to live is an act of bravery. So there is the comforting thing about extremities of pain: if you feel it too much you are bound to stop feeling it. The love of power or money or luxurious living are not the only things which are guided by popular thinking. We take our cue from people’s thinking even in the way we feel pain. Another thing which will help you is to turn your mind to other thoughts and that way get away from your suffering. Call to mind things which you have done that have been upright or courageous; run over in your mind the finest parts you have played. "But my illness has taken me away from my duties and won’t allow me to achieve anything." It is your body, not your mind as well, that is in the grip of ill health.
+- **Seneca** Drunkenness inflames and lays bare every vice, removing the reserve that acts as a chuck on impulses to wrong behaviour.
+- **Seneca** ...pleasures, when they go beyond a certain limit, are but punishments…
+- **Seneca** So I look for the best and am prepared for the opposite.
+- **Seneca** There is nothing dangerous in a man’s having as much power as he likes if he takes the view that he has power to do only what it is his duty to do.
+- **Seneca** The things that are essential are acquired with little bother; it is the luxuries that call for toil and effort.
+- **Seneca** One thing I know: all the works of mortal man lie under sentence of mortality; we live among things that are destined to perish.
+- **Seneca** A setback has often cleared the way for greater prosperity. Many things have fallen only to rise to more exalted heights.
+- **Seneca** When it comes to all we’re required to go through, we’re equals. No one is more vulnerable than the next man, and no one can be more sure of his surviving to the morrow.
+- **Seneca** And no one has power over us when death is within our own power.
+- **Seneca** The man who spends his time choosing one resort after another in a hunt for peace and quiet, will in every place he visits find something to prevent him from relaxing.
+- **Seneca** Now think of the things which goad man into destroying man: they are hope, envy, hatred, fear and contempt.
+- **Seneca** ...to be feared is to fear: no one has been able to strike terror into others and at the same time enjoy peace of mind himself.
+- **Seneca** People who know no self-restraint lead stormy and disordered lives, passing their time in a state of fear commensurate with the injuries they do to others, never able to relax. After every act they tremble, paralysed, their consciences continually demanding an answer, not allowing them to get on with other things. To expect punishment is to suffer it; and to earn it is to expect it.
+- **Seneca** Others have been plundered, indiscriminately, set upon, betrayed, beaten up, attacked with poison or with calumny - mention anything you like, it has happened to plenty of people.
+- **Seneca** Every day as it comes should be welcomed and reduced forthwith into our own possession as if it were the finest day imaginable. What flies past has to be seized at.
+- **Seneca** My advice is really this: what we hear the philosophers saying and what we find in their writings should be applied in our pursuit of the happy life. We should hunt out the helpful pieces of teaching, and the spirited and noble-minded sayings which are capable of immediate practical application - not far-fetched or archaic expressions or extravagant metaphors and figures of speech - and learn them so well that words become works.
+- **Seneca** ...nothing is burdensome if taken lightly, and how… nothing need arouse one’s irritation so long as one doesn’t make it bigger than it is by getting irritated.
+- **Seneca** My baker may be out of bread, but the farm manager will have some, or the steward, or a tenant. "Bad bread, yes!" you’ll say. Wait, then: it’ll soon turn into good bread. Hunger will make you find even that bread soft and wheaty.
+- **Seneca** It is essential to make oneself used to putting up with a little. Even the wealthy and the well provided are continually met and frustrated by difficult times and situations. It is in no man’s power to have whatever he wants; but he has it in his power not to wish for what he hasn’t got, and cheerfully make the most of the things that do come his way.
+- **Seneca** And a stomach firmly under control, one that will put up with hard usage, marks a considerable step towards independence.
+- **Seneca** Glory’s an empty, changeable thing, as fickle as the weather. Poverty’s no evil to anyone unless he kicks against it. Death is not an evil. What is it then? The one law mankind has that is free of all discrimination. Superstition is an idiotic heresy: it fears those it should love: it dishonours those it worships. For what difference does it make whether you deny the gods or bring them into disrepute?
+- **Seneca** The whole future lies in uncertainty: live immediately.
+- **Seneca** It does not matter what you bear, but how you bear it.
+- **Seneca** A gem cannot be polished without friction, nor a man perfected without trials.
+- **Seneca** To bear trials with a calm mind robs misfortune of its strength and burden.
+- **Seneca** The mind that is anxious about future events is miserable.
+- **Seneca** The wise man is neither raised up by prosperity nor cast down by adversity; for always he has striven to rely predominantly on himself, and to derive all joy from himself.
+- **Seneca** Many men will meet me who are drunkards, lustful, ungrateful, greedy, and excited by the frenzy of ambition.
+- **Seneca** Set aside a certain number of days during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while, "Is this the condition that I feared?
+- **Seneca** It is not the man who has too little, but the man who craves more, that is poor.
+- **Seneca** While we wait for life, life passes.
+- **Seneca** There is no genius without a touch of madness.
+- **Seneca** We should not, like sheep, follow the herd of creatures in front of us, making our way where others go, not where we ought to go.
+- **Seneca** Associate with people who are likely to improve you. Welcome those who you are capable of improving. The process is a mutual one: men learn as they teach.
+- **Seneca** As each day arises, welcome it as the very best day of all, and make it your own possession. We must seize what flees.
+- **Seneca** Inwardly, we ought to be different in every respect, but our outward dress should blend in with the crowd.
+- **Seneca** You are scared of dying—and, tell me, is the kind of life you lead really any different than being dead?
+- **Seneca** You need not look about for the reward of a just deed; a just deed in itself offers a still greater return.
+- **Seneca** Everyone faces up more bravely to a thing for which he has long prepared himself, sufferings, even, being withstood if they have been trained for in advance. Those who are unprepared, on the other hand, are panic-stricken by the most insignificant happenings.
+- **Seneca** True happiness is to enjoy the present, without anxious dependence upon the future, not to amuse ourselves with either hopes or fears but to rest satisfied with what we have, which is sufficient, for he that is so wants nothing.
+- **Seneca** Until we have begun to go without them, we fail to realize how unnecessary many things are. We've been using them not because we needed them but because we had them.
+- **Seneca** We must take a higher view of all things, and bear with them more easily: it better becomes a man to scoff at life than to lament over it.
+- **Seneca** He who laughs at the human race deserves better of it than he who mourns for it, for the former leaves it some good hopes of improvement, while the latter stupidly weeps over what he has given up all hopes of mending.
+- **Seneca** We must indulge the mind and from time to time allow it the leisure which is its food and strength. We must go for walks out of doors, so that the mind can be strengthened by a clear sky and plenty of fresh air.
+- **Seneca** In the mean time, cling tooth and nail to the following rule: not to give in to adversity, not to trust prosperity, and always take full note of fortune's habit of behaving just as she pleases.
+- **Seneca** Let us not postpone anything, let us engage in combats with life each day.
+- **Seneca** It's not that we have little time, but more that we waste a good deal of it.
+- **Seneca** Begin at once to live, and count each separate day as a separate life.
+- **Seneca** So, concerning the things we pursue, and for which we vigorously exert ourselves, we owe this consideration – either there is nothing useful in them, or most aren't useful. Some of them are superfluous, while others aren't worth that much. But we don't discern this and see them as free, when they cost us dearly.
+- **Seneca** A man thus grounded must, whether he wills or not, necessarily be attended by constant cheerfulness and a joy that is deep and issues from deep within, since he finds delight in his own resources, and desires no joys greater than his inner joys.
+- **Seneca** Your food should appease your hunger, your drink quench your thirst, your clothing keep out the cold, your house be a protection against inclement weather. It makes no difference whether it is built of turf or of variegated marble imported from another country.
+- **Seneca** Barley porridge, or a crust of bread, and water do not make a very cheerful diet, but nothing gives one keener pleasure than the ability to derive pleasure even from that — and the feeling of having arrived at something which one cannot be deprived of by any unjust stroke of fortune.
+- **Seneca** Set aside now and then a number of days during which you will be content with the plainest of food, and very little of it, and with rough, coarse clothing, and will ask yourself, 'Is this what one used to dread?
+- **Seneca** Never have I put my trust in fortune, even when she appeared to be offering peace; all those gifts she bestowed on me in her kindness —, position, influence — I stored where she would be able to reclaim them with no disturbance to me.
+- **Seneca** It is essential to make oneself used to putting up with a little. Even the wealthy and the well provided are continually met and frustrated by difficult times and situations. It is in no man's power to have whatever he wants; but he has it in his power not to wish for what he hasn't got, and cheerfully make the most of the things that do come his way.
+- **Seneca** In all things we should try to make ourselves be.
+- **Seneca** Timendi causa est nescire — Ignorance is the cause of fear.
+- **Seneca** What is quite unlooked for is more crushing in its effect, and unexpectedness adds to the weight of a disaster. The fact that it was unforeseen has never failed to intensify a person's grief. This is a reason for ensuring that nothing ever takes us by surprise. We should project our thoughts ahead of us at every turn and have in mind every possible eventuality instead of only the usual course of events.
+- **Seneca** This is why we need to envisage every possibility and to strengthen the spirit to deal with the things which may conceivably come about. Rehearse them in your mind: exile, torture, war, shipwreck. Misfortune may snatch you away from your country… If we do not want to be overwhelmed and struck numb by rare events as if they were unprecedented ones; fortune needs envisaging in a thoroughly comprehensive way.
+- **Seneca** That person has lost their children: you too, can lose yours; that person received sentence of death: your innocence too, stands under the hammer. This is the fallacy that takes us in and makes us weak while we suffer misfortunes that we never foresaw that we could suffer. The person who has anticipated the coming of troubles takes away their power when they arrive.
+- **Seneca** It's better to conquer grief than to deceive it.
+- **Seneca** Let us prepare our minds as if we'd come to the very end of life. Let us postpone nothing.
+- **Seneca** All cruelty springs from weakness.
+- **Seneca** Whatever seems lofty is dangerous… Those whom an unfavorable fortune has placed in a critical position will be safer if they eliminate pride from their proud circumstances and bring down their fortune as much as possible to a lowly state.
+- **Seneca** What is the point of dragging up sufferings that are over, of being miserable now, because you were miserable then?
+- **Seneca** Wherever there is a human being, there is an opportunity for a kindness.
+- **Seneca** We should love all our dear ones… but always with the thought that we have no promise that we may keep them forever—nay, no promise even that we may keep them for long.
+- **Seneca** A gift consists not in what is done or given, but in the intention of the giver or doer.
+- **Seneca** The mind should not be kept continuously at the same pitch of concentration, but given amusing diversions… Our minds must relax: they will rise better and keener after a rest. Just as you must not force fertile farmland, as uninterrupted productivity will soon exhaust it, so constant effort will sap our mental vigor, while a short period of rest and relaxation will restore our powers.
+- **Shane Parrish** Understand what you can control and what you can't. Forget about the things you can't control and put that energy into the things you can control.
+- **Socrates** I love to go and see all the things I am happy without.
+- **Socrates** Why should we pay so much attention to what the majority thinks?
+- **Socrates** Having the fewest wants, I am nearest to the gods.
+- **Socrates** The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.
+- **Steven Pinker** Together with intelligence, self-control turns out to be the best predictor of a successful and satisfying life.
+- **The Daily Stoic** Live as if you died, but were resuscitated and every minute was a gift.
+- **The Daily Stoic** Humility is a knowledge of our weaknesses, confidence is a knowledge of our strengths, and ego is something dangerous with none of the former and a skewed sense of the latter.
+- **The Daily Stoic** To not be distracted by the darkness of others, to head towards the light. To be good without hesitation, even when other people are not. That's our job.
+- **Thibaut** How do you move forward? One step at a time. How do you lose weight? One kilo at a time. How do you write a book? One page at a time. How do you build a relationship? One day at a time. In a world obsessed with speed, never forget things of real worth and value take time.
+- **Thibaut** Zoom out. In the grand scheme of things, is this really going to affect you? We can't even remember what we were doing 5 days ago, let alone five years. What matters is how you feel now. If it makes you upset, let it go. If it feels good, let it consume you.
+- **Thich Nhat Hanh** You don't suffer because things are impermanent. You suffer because things are impermanent and you think they are permanent.
+- **Thucydides** Self-control is the chief element in self-respect, and self-respect is the chief element in courage.
+- **Unknown** A rational person can find peace by cultivating indifference to things outside of their control.
+- **Unknown** If you are easily provoked you are easily controlled.
+- **Unknown** Be an island of calm in the sea of craziness.
+- **Unknown** To make a goal of comfort or happiness has never appealed to me; a system of ethics built on this basis would be sufficient only for a herd of cattle.
+- **Unknown** The first rule is to keep an untroubled spirit. The second is to look things in the face and know them for what they are.
+- **Unknown** Sometimes life hits you in the head with a brick. Don't lose faith.
+- **Unknown** What you're supposed to do when you don't like a thing is change it. If you can't change it, change the way you think about it. Don't complain.
+- **Unknown** What we fear doing most is usually what we most need to do.
+- **Unknown** It is not daily increase but daily decrease, hack away the unessential. The closer to the source, the less wastage there is.
+- **Unknown** If you are irritated by every rub, how will your mirror be polished?
+- **Unknown** If it doesn't challenge you, it won't change you.
+- **Unknown** Be present above all else.
+- **Unknown** You will eventually die and the world will keep moving.
+- **Unknown** Don't allow yourself to be heard any longer griping about public life, not even with your own ears! Marcus Aurelius
+- **Unknown** Peace. It does not mean to be in a place where there is no noise, trouble or hard work. It means to be in the midst of those things and still be calm in your heart.
+- **Unknown** There is no cure for birth and death save to enjoy the interval.
+- **Viktor Frankl** Between stimulus and response, there is a space. In that space is our power to choose our response.
+- **Viktor Frankl** Everything can be taken from a man but one thing: the last of the human freedoms – to choose one's attitude in any given set of circumstances, to choose one's own way.
+- **Viktor Frankl** What is to give light must endure burning.
+- **Viktor Frankl** What man actually needs is not a tensionless state but rather the striving and struggling for some goal worthy of him.
+- **Voltaire** ‎Life is a shipwreck, but we must not forget to sing in the lifeboats.
+- **Voltaire** Uncertainty is an uncomfortable position. But certainty is an absurd one.
+- **Will Durant** A nation is born stoic, and dies epicurean.
+- **William James** The art of being wise is the art of knowing what to overlook.
+- **Wim Hof** The limit is not the sky. The limit is the mind.
+- **Wim Hof** I'm not afraid of dying. I'm afraid not to have lived.
+- **Zen proverb** To be calm is the highest achievement of the self.
+- **Zen proverb** Be a master of the mind, not mastered by the mind.
+- **Zen proverb** There is no beginning and there is no end to time. There is only your perception of time.
+- **Zen proverb** When the pools of perception are clear, everything appears 'as is'.
+- **Zeno of Citium** Man conquers the world by conquering himself.
+- **Zeno of Citium** The reason why we have two ears and only one mouth is so we might listen more and talk less.
+- **Zeno of Citium** The goal of life is living in agreement with Nature.
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ## Stoicism 101
@@ -897,9 +897,9 @@ Resources around stoic philosophy.
 
 - [Letters from a stoic](https://www.lettersfromastoic.net/archives/)
 
-## Other lists
+## Additional resources
 
-- [](https://www.lettersfromastoic.net/the-stoic-reading-and-resources-list/)
+- [Stoic Reading & Resources](https://www.lettersfromastoic.net/the-stoic-reading-and-resources-list/)
 
 ## Criticisms
 
