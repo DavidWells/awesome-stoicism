@@ -888,6 +888,8 @@ Resources around stoic philosophy.
 - [The Stoics](https://www.youtube.com/watch?v=yu7n0XzqtfA)
 - [How to Apply Stoic Philosophy to Your Life](https://www.youtube.com/watch?v=A0XxceO4qX0)
 - [Lecture on Stoicism](https://www.youtube.com/watch?v=5897dMWJiSM)
+- [Stoicism as a philosophy for an ordinary life](https://www.youtube.com/watch?v=Yhn1Fe8cT0Q)
+- [Stoicism & The Art of Not Caring](https://www.youtube.com/watch?v=uLOB6hj3M_Q)
 
 ## Sites
 
