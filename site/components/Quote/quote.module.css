@@ -1,0 +1,45 @@
+.cardWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 4rem;
+}
+.card {
+  padding: 4rem 6rem;
+  padding-left: 9rem;
+  background: #fff;
+  box-shadow: 0 0.3rem 1rem rgba(0,0,0,.15);
+  border-radius: 2rem;
+  font-size: 2.1rem;
+  -webkit-margin-before: 3.2rem;
+  margin-block-start: 3.2rem;
+  max-width: 660px;
+  position: relative;
+}
+
+.quote {
+  white-space: pre-line;
+}
+.quote:before {
+  font-family: Georgia, serif;
+  content: '\201C';
+  color: rgba(189, 189, 189, 0.65);
+  font-size: 6em;
+  font-weight: 700;
+  opacity: .3;
+  position: absolute;
+  top: -15px;
+  left: 20px;
+  text-shadow: none;
+  z-index: -300;
+  z-index: 9;
+}
+.author {
+  margin-top: 0.83em;
+  margin-bottom: 0px;
+}
+.source {
+  font-size: 12px;
+  display: block;
+  color: #868585;
+}

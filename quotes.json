@@ -2070,7 +2070,7 @@
     "tweetable": true
   },
   {
-    "quote": "Either all things proceed from one intelligent source and come together as in one body, and the part ought not to find fault with what is done for the benefit of the whole; or there are only atoms, and nothing else than mixture and dispersion. Why, then, are you disturbed?",
+    "quote": "Either all things proceed from one intelligent source and come together as in one body, and the part ought not to find fault with what is done for the benefit of the whole; or there are only atoms, and nothing else than mixture and dispersion.\n Why, then, are you disturbed?",
     "author": "Marcus Aurelius",
     "source": "Meditations, IX.39",
     "tweetable": true
@@ -3346,7 +3346,7 @@
   },
   {
     "quote": "Take a deep breath. Get present in the moment and ask yourself what is important this very second.",
-    "author": "Greg McKeown (Author of)",
+    "author": "Greg McKeown",
     "tweetable": true
   },
   {
@@ -3501,7 +3501,7 @@
   },
   {
     "quote": "Growth and comfort do not coexist.",
-    "author": "Ginny Rometty (IBM)",
+    "author": "Ginny Rometty",
     "tweetable": true
   },
   {
@@ -3947,7 +3947,8 @@
   {
     "quote": "Each of us needs what nature gives us, when nature gives it.",
     "author": "Marcus Aurelius",
-    "tweetable": true
+    "tweetable": true,
+    "source": "coolsville"
   },
   {
     "quote": "Accept things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.",

@@ -1,0 +1,41 @@
+{
+  "name": "hello-philosophy",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "clear": "rm -rf .next",
+    "start": "npm run clear && next dev -p 3003",
+    "build": "next build && next export",
+    "serve": "next start",
+    "server": "serve out",
+    "prettier": "prettier './**/*.{js,jsx,ts,tsx,json,md,mdx}' --write"
+  },
+  "dependencies": {
+    "@mapbox/rehype-prism": "^0.4.0",
+    "@mdx-js/loader": "^1.6.1",
+    "@next/mdx": "^9.4.1",
+    "babel-plugin-import-glob-array": "^0.2.0",
+    "date-fns": "^2.13.0",
+    "gray-matter": "^4.0.2",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-optipng": "^7.1.0",
+    "mdx-prism": "^0.3.1",
+    "next": "9.4.1",
+    "next-compose-plugins": "^2.2.0",
+    "next-mdx-enhanced": "^3.0.0",
+    "next-optimized-images": "^2.6.0",
+    "next-videos": "^1.1.4",
+    "prismjs": "^1.20.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-markdown": "^4.3.1",
+    "reading-time": "^1.2.0",
+    "slugify": "^1.4.0"
+  },
+  "devDependencies": {
+    "postcss-nested": "^4.2.1",
+    "prettier": "^2.0.5",
+    "rehype": "^10.0.0",
+    "serve": "^11.3.1"
+  }
+}
