@@ -60,7 +60,7 @@ export async function getStaticPaths() {
     return getSlugs(context)
   })(require.context('../../content/posts', true, /\.md$/))
 
-  const paths = blogSlugs.map((slug) => `/tester/${slug}`)
+  const paths = blogSlugs.map((slug) => `/raw-md/${slug}`)
 
   return {
     paths, // An array of path names, and any params

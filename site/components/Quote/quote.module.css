@@ -19,6 +19,7 @@
 
 .quote {
   white-space: pre-line;
+  color: black;
 }
 .quote:before {
   font-family: Georgia, serif;
@@ -37,6 +38,7 @@
 .author {
   margin-top: 0.83em;
   margin-bottom: 0px;
+  font-size: 34px;
 }
 .source {
   font-size: 12px;

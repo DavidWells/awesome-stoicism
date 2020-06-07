@@ -2,15 +2,15 @@ import React from 'react'
 import slugify  from 'slugify'
 import Link from 'next/link'
 import { blogPosts } from '../utils/blogPosts'
-import TitleAndMetaTags from '../components/TitleAndMetaTags'
 import { BlogCard } from '../components/BlogCard'
+import TitleAndMetaTags from '../components/TitleAndMetaTags'
 import styles from './index.module.css'
 
 export default function Home({ links }){
 
   let renderAuthors = links.map((author, i) => {
     return (
-      <div key={i} className={styles.quoteWrapper}>
+      <div key={i} className={styles.authorCard}>
         <Link href="/[author]" as={`/${author.slug}/`}>
           <a>
             {author.name}
@@ -31,14 +31,22 @@ export default function Home({ links }){
           </h1>
 
           <h2>
-            This site is all about stoic philosophy
+            Welcome! This site is all about stoic philosophy
           </h2>
         </div>
       </div>
 
-      {renderAuthors}
-
       <div>
+        <h1>
+          Stoic Philosophers
+        </h1>
+        <div className={styles.authorsWrapper}>
+          {renderAuthors}
+        </div>
+      </div>
+      
+
+      {/* <div>
         <div>
           Writing
         </div>
@@ -49,7 +57,7 @@ export default function Home({ links }){
             </li>
           ))}
         </ul>
-      </div>
+      </div> */}
     </div>
   )
 }

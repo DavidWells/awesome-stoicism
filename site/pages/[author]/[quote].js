@@ -1,13 +1,20 @@
 import { useRouter } from 'next/router'
-import slugify from 'slugify'
+import Link from 'next/link'
 import Quote from '../../components/Quote'
+import { createQuoteSlug, createAuthorSlug } from '../../utils/createSlug'
+import styles from './quote.module.css'
 
-const Comment = ({ data }) => {
+export default function QuoteView({ data }) {
   const router = useRouter()
   const { author, quote } = router.query
   return (
     <div>
-      <Quote data={data} />
+      <Link href={`/${author}`}>Back</Link>
+      <div className={styles.wrapper}>
+        <div className={styles.quoteWrapper}>
+          <Quote data={data} author={author} />
+        </div>
+      </div>
     </div>
   )
 }
@@ -15,42 +22,33 @@ const Comment = ({ data }) => {
 export async function getStaticProps({ ...ctx }) {
   const quotes = (await import("../../../quotes.json")).default
   const { author, quote } = ctx.params
-  const authorQuotes = quotes.filter((quote) => {
-    const route = slugify(quote.author).toLowerCase()
-    return route === author
+  const quoteData = quotes.find((data) => {
+    const currentRoute = createQuoteSlug(data.quote)
+    return currentRoute === quote
   })
+  // console.log('quoteData', quoteData)
   return {
     props: { 
-      data: authorQuotes[quote]
+      data: quoteData
     }
   }
 }
-let authorQuotePaths = {}
+
 export async function getStaticPaths() {
   const quotes = (await import("../../../quotes.json")).default
-  const authors = quotes.map(quote => quote.author)
   
-  console.log('authors.length', authors.length)
-  const paths = authors.map(author => {
-    const authorSlug = slugify(author).toLowerCase()
-    if (!authorQuotePaths[authorSlug]) {
-      authorQuotePaths[authorSlug] = 0
-    } else {
-      authorQuotePaths[authorSlug] = authorQuotePaths[authorSlug] + 1
-    }
+  const paths = quotes.map((data) => {
+    const authorSlug = createAuthorSlug(data.author)
+    const quoteSlug = createQuoteSlug(data.quote)
     return { 
       params: { 
         author: authorSlug,
-        quote: authorQuotePaths[authorSlug].toString()
+        quote: quoteSlug
       } 
     }
   })
-  console.log('paths', paths)
   return {
     paths,
     fallback: false
   }
 }
-
-
-export default Comment

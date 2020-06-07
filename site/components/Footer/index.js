@@ -5,7 +5,7 @@ import styles from './footer.module.css'
 export const Footer = () => {
   return (
     <div className={styles.wrapper}>
-      <div>
+      {/* <div>
         Hello Philosophy
       </div>
 
@@ -21,7 +21,7 @@ export const Footer = () => {
         <a href="https://twitter.com/hellophilosophy" target="_blank" rel="noopener">
           Twitter
         </a>
-      </div>
+      </div> */}
     </div>
   )
 }
