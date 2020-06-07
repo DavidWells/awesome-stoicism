@@ -85,6 +85,7 @@ Resources around stoic philosophy.
 - **Albert Einstein** Failure and deprivation are the best educators and purifiers.
 - **Albert Einstein** The ordinary objects of human endeavour – property, outward success, luxury – have always seemed to me contemptible.
 - **Albert Einstein** I am happy because I want nothing from anyone. I do not care for money. Decorations, titles or distinctions mean nothing to me. I do not crave praise. The only thing that gives me pleasure, apart from my work, my violin and my sailboat, is the appreciation of my fellow workers.
+- **Amor fati** "Love your fate", which is in fact your life.
 - **Anthony de Mello** Problems only exist in the human mind.
 - **Anthony de Mello** "What is the work of a Master?" said a solemn-faced visitor. "To teach people to laugh," said the Master gravely.
 - **Anthony de Mello** Drop your concepts, drop your opinions, drop your prejudices, drop your judgments, and you will see that.
@@ -361,10 +362,9 @@ Resources around stoic philosophy.
 - **Epicurus** You don't develop courage by being happy in your relationships everyday. You develop it by surviving difficult times and challenging adversity.
 - **Epicurus** It is not so much our friends' help that helps us as the confident knowledge that they will help us.
 - **Friedrich Nietzsche** That one wants nothing to be different, not forward, not backwards, not in all eternity. Not merely bear what is necessary, still less conceal it… but love it.
-- **Friedrich Nietzsche (Check out for more on Amor Fati)** Amor fati – "Love your fate", which is in fact your life.
-- **Ginny Rometty (IBM)** Growth and comfort do not coexist.
+- **Ginny Rometty** Growth and comfort do not coexist.
+- **Greg McKeown** Take a deep breath. Get present in the moment and ask yourself what is important this very second.
 - **Greg McKeown** You cannot overestimate the unimportance of practically everything.
-- **Greg McKeown (Author of)** Take a deep breath. Get present in the moment and ask yourself what is important this very second.
 - **Haemin Sunim** Life's three best teachers: heartbreak, empty pocket, failures.
 - **Haemin Sunim** Your true self is not your emotion such as anger, frustration or hate. It is the inner witness that knows the rise and fall of your emotion.
 - **Heraclitus** To be evenminded is the greatest virtue.
@@ -396,6 +396,7 @@ Resources around stoic philosophy.
 - **Krishna** It is better to perform one's own predetermined duty, even if one performs that duty imperfectly, than perform the duty of another. When one performs his own predetermined duty in accordance with one's nature, one does not incur any sin.
 - **Krishna** Everything comes and goes in life. Happiness and unhappiness are temporary experiences that rise from sense perception. Heat and cold, pleasure and pain, will come and go. They never last forever. So, do not get attached to them. We have no control over them.
 - **Lao Tzu** The key to growth is the introduction of higher dimensions of consciousness into our awareness.
+- **Leo Babauta** Happiness isn't outside of us, but actually comes from within.
 - **Live Math Money** Life is a slow treadmill. People who stand still are actually going behind.
 - **Marcus Aurelius** From my grandfather Verus I learned good morals and the government of my temper.
 - **Marcus Aurelius** From my mother [I learned] abstinence, not only from evil deeds, but even from evil thoughts; and further, simplicity in my way of living, far removed from the habits of the rich.
@@ -546,7 +547,8 @@ Resources around stoic philosophy.
 - **Marcus Aurelius** Set yourself in motion, if it is in your power, and do not look about you to see if anyone will observe it; nor yet expect Plato’s Republic: but be content if the smallest thing goes on well, and consider such an event to be no small matter.
 - **Marcus Aurelius** The work of philosophy is simple and modest. Do not draw me aside into pomposity.
 - **Marcus Aurelius** How short is the time from birth to dissolution, and the illimitable time before birth as well as the equally boundless time after dissolution.
-- **Marcus Aurelius** Either all things proceed from one intelligent source and come together as in one body, and the part ought not to find fault with what is done for the benefit of the whole; or there are only atoms, and nothing else than mixture and dispersion. Why, then, are you disturbed?
+- **Marcus Aurelius** Either all things proceed from one intelligent source and come together as in one body, and the part ought not to find fault with what is done for the benefit of the whole; or there are only atoms, and nothing else than mixture and dispersion.
+ Why, then, are you disturbed?
 - **Marcus Aurelius** When you are offended with any man’s shameless conduct, immediately ask yourself, is it possible, then, that shameless men should not be in the world? It is not possible. Do not, then, require what is impossible.
 - **Marcus Aurelius** Where is the harm or the strangeness in the boor acting like a boor? See whether you are not yourself the more to blame in not expecting that he would err in such a way. For you had means given you by your reason to suppose that it was likely that he would commit this error, and yet you have forgotten and are amazed that he has erred.
 - **Marcus Aurelius** The rational animal is consequently also a social animal.
@@ -696,7 +698,6 @@ Resources around stoic philosophy.
 - **Naval Ravikant** All greatness comes from suffering.
 - **Naval Ravikant** A fit body, a calm mind, a house full of love. These things cannot be bought — they must be earned.
 - **Naval Ravikant** If you're more passionate about founding a business than the business itself, you can fall into a ten year trap. Better to stay emotionally unattached and select the best opportunity that arises. Applies to relationships too.
-- **net)** Happiness isn't outside of us, but actually comes from within. Leo Babauta (zenhabits.
 - **Nicholas Nassim Taleb** We are quick to forget that just being alive is an extraordinary piece of good luck, a remote event, a chance occurrence of monstrous proportions.
 - **Othello** The robbed that smiles steals something from the thief.
 - **Paul Graham** Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have.
@@ -891,7 +892,8 @@ Resources around stoic philosophy.
 - [Stoicism as a philosophy for an ordinary life](https://www.youtube.com/watch?v=Yhn1Fe8cT0Q)
 - [Changing Your Life With Stoic Philosophy](https://www.youtube.com/watch?v=W4n12sAFVLU)
 - [Meditations of Marcus Aurelius](https://www.youtube.com/watch?v=Hu0xDtK3g3Q)
-- [Stoicism & The Art of Not Caring](https://www.youtube.com/watch?v=uLOB6hj3M_Q)
+- [This Is Water](https://www.youtube.com/watch?v=PhhC_N6Bm_s) by David Foster Wallace
+- [About Stoicism](https://www.youtube.com/watch?v=uLOB6hj3M_Q)
 
 ## Sites
 
