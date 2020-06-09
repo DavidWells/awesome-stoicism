@@ -893,6 +893,7 @@ Resources around stoic philosophy.
 - [Changing Your Life With Stoic Philosophy](https://www.youtube.com/watch?v=W4n12sAFVLU)
 - [Meditations of Marcus Aurelius](https://www.youtube.com/watch?v=Hu0xDtK3g3Q)
 - [This Is Water](https://www.youtube.com/watch?v=PhhC_N6Bm_s) by David Foster Wallace
+- [Amor Fati - Stoic Exercises For Inner Peace](https://www.youtube.com/watch?v=oBeJfprKSyw)
 - [About Stoicism](https://www.youtube.com/watch?v=uLOB6hj3M_Q)
 
 ## Sites
