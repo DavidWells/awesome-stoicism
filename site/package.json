@@ -8,12 +8,15 @@
     "build": "next build && next export",
     "serve": "next start",
     "server": "serve out",
+    "deploy": "./node_modules/.bin/netlify deploy --prod --dir out",
     "prettier": "prettier './**/*.{js,jsx,ts,tsx,json,md,mdx}' --write"
   },
   "dependencies": {
+    "@analytics/perfumejs": "^0.2.0",
     "@mapbox/rehype-prism": "^0.4.0",
     "@mdx-js/loader": "^1.6.1",
     "@next/mdx": "^9.4.1",
+    "analytics": "^0.5.1",
     "babel-plugin-import-glob-array": "^0.2.0",
     "date-fns": "^2.13.0",
     "gray-matter": "^4.0.2",
@@ -25,6 +28,7 @@
     "next-mdx-enhanced": "^3.0.0",
     "next-optimized-images": "^2.6.0",
     "next-videos": "^1.1.4",
+    "perfume.js": "^5.1.0",
     "prismjs": "^1.20.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
@@ -33,6 +37,7 @@
     "slugify": "^1.4.0"
   },
   "devDependencies": {
+    "netlify-cli": "^2.41.0",
     "postcss-nested": "^4.2.1",
     "prettier": "^2.0.5",
     "rehype": "^10.0.0",

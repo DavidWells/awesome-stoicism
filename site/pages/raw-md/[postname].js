@@ -38,7 +38,7 @@ export default function BlogPost({ siteTitle, frontmatter, markdownBody }) {
 export async function getStaticProps({ ...ctx }) {
   const { postname } = ctx.params
   const content = await import(`../../content/posts/${postname}.md`)
-  console.log('content', content)
+
   const config = {
     "title": "Demo Blog",
     "description": "This is a simple blog built with Next, easily deployable to Netlify!"

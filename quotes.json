@@ -1314,6 +1314,12 @@
     "tweetable": false
   },
   {
+    "quote": "It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.",
+    "author": "Marcus Aurelius",
+    "source": "Meditations",
+    "tweetable": false
+  },
+  {
     "quote": "What does all this mean? You have embarked, made the voyage, and come to the shore; get out. If indeed to another life, there is no want of gods, not even there. But if to a state without sensation, you will cease to be held by pains and pleasures, and to be a slave to the vessel.",
     "author": "Marcus Aurelius",
     "source": "Meditations III.3",
@@ -3783,6 +3789,11 @@
     "quote": "It is essential to make oneself used to putting up with a little. Even the wealthy and the well provided are continually met and frustrated by difficult times and situations. It is in no man's power to have whatever he wants; but he has it in his power not to wish for what he hasn't got, and cheerfully make the most of the things that do come his way.",
     "author": "Seneca",
     "tweetable": false
+  },
+  {
+    "quote": "The happiness of your life depends upon the quality of your thoughts.",
+    "author": "Marcus Aurelius",
+    "tweetable": true
   },
   {
     "quote": "The happiness of those who want to be popular depends on others; the happiness of those who seek pleasure fluctuates with moods outside their control; but the happiness of the wise grows out of their own free acts.",

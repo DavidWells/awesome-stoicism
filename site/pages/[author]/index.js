@@ -1,7 +1,7 @@
-import slugify from 'slugify'
-import { createQuoteSlug, createAuthorSlug } from '../../utils/createSlug'
+import Head from 'next/head'
 import { useRouter } from 'next/router'
 import Link from 'next/link'
+import { createQuoteSlug, createAuthorSlug } from '../../utils/createSlug'
 import Quote from '../../components/Quote'
 import styles from './author.module.css'
 
@@ -23,7 +23,10 @@ const Post = ({ quotes, authorInfo }) => {
 
   return (
     <div>
-      <Link href='/'>Back home</Link>
+      <Head>
+        <title>{authorInfo} Stoic Quotes</title>
+      </Head>
+      <Link href='/'><a>Back home</a></Link>
       <div className={styles.wrapper}>
         <h1>{authorInfo}</h1>
         {quotes.length} quotes
@@ -47,7 +50,7 @@ export async function getStaticProps({ ...ctx }) {
   })
 
   return {
-    props: { 
+    props: {
       authorInfo: authorQuotes[0].author,
       quotes: authorQuotes
     }
@@ -59,10 +62,10 @@ export async function getStaticPaths() {
   const authors = new Set(quotes.map(quote => quote.author))
   const paths = Array.from(authors).map(author => {
     const authorSlug = createAuthorSlug(author)
-    return { 
-      params: { 
+    return {
+      params: {
         author: authorSlug
-      } 
+      }
     }
   })
   return {

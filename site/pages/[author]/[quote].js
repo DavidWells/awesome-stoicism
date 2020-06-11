@@ -1,5 +1,6 @@
-import { useRouter } from 'next/router'
+import Head from 'next/head'
 import Link from 'next/link'
+import { useRouter } from 'next/router'
 import Quote from '../../components/Quote'
 import { createQuoteSlug, createAuthorSlug } from '../../utils/createSlug'
 import styles from './quote.module.css'
@@ -9,6 +10,9 @@ export default function QuoteView({ data }) {
   const { author, quote } = router.query
   return (
     <div>
+      <Head>
+        <title>{data.quote} - {data.author}</title>
+      </Head>
       <Link href={`/${author}`}>Back</Link>
       <div className={styles.wrapper}>
         <div className={styles.quoteWrapper}>
@@ -28,7 +32,7 @@ export async function getStaticProps({ ...ctx }) {
   })
   // console.log('quoteData', quoteData)
   return {
-    props: { 
+    props: {
       data: quoteData
     }
   }
@@ -36,15 +40,15 @@ export async function getStaticProps({ ...ctx }) {
 
 export async function getStaticPaths() {
   const quotes = (await import("../../../quotes.json")).default
-  
+
   const paths = quotes.map((data) => {
     const authorSlug = createAuthorSlug(data.author)
     const quoteSlug = createQuoteSlug(data.quote)
-    return { 
-      params: { 
+    return {
+      params: {
         author: authorSlug,
         quote: quoteSlug
-      } 
+      }
     }
   })
   return {
