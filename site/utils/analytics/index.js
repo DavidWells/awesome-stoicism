@@ -6,31 +6,36 @@ import { Router } from 'next/router'
 import statsPlugin from './stats-plugin'
 
 const isBrowser = typeof window !== 'undefined'
+const isProd = process.env.NODE_ENV === 'production'
 const Perfume = (isBrowser) ? require('perfume.js').default : null
 
-export const useAnalytics = () => {
-  const analytics = Analytics({
-    app: 'hello-philosophy',
-    plugins: [
-      {
-        name: 'logger',
-        page: ({ payload }) => {
-          console.log('page', payload)
-        }
-      },
-      ...(!isBrowser ? [] : [perfumePlugin({
-        perfume: Perfume
-      })]),
+const analytics = Analytics({
+  app: 'hello-philosophy',
+  plugins: [
+    {
+      name: 'logger',
+      page: ({ payload }) => {
+        console.log('page', payload)
+      }
+    },
+    ...(!isBrowser ? [] : [perfumePlugin({
+      perfume: Perfume
+    })]),
+    ...(!isProd ? [] : [
       statsPlugin({
         endpoint: 'd29fww7xfwwr85.cloudfront.net',
         useAutomation: false
       })
-    ]
-  })
+    ]),
+  ]
+})
 
+export const useAnalytics = () => {
   React.useEffect(() => {
     // Fire initial page view
-    analytics.page()
+    if (process.env.NODE_ENV === 'production') {
+      analytics.page()
+    }
     // Fire page views on routing
     const handleRouteChange = (url) => {
       if (process.env.NODE_ENV === 'production') {
@@ -41,6 +46,7 @@ export const useAnalytics = () => {
         })
       }
     }
+
     Router.events.on('routeChangeComplete', handleRouteChange)
     return () => Router.events.off('routeChangeComplete', handleRouteChange)
   }, [])

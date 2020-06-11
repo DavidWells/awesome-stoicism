@@ -11,7 +11,7 @@ export default function QuoteView({ data }) {
   return (
     <div>
       <Head>
-        <title>{data.quote} - {data.author}</title>
+        <title>{quote} - {data.author}</title>
       </Head>
       <Link href={`/${author}`}>Back</Link>
       <div className={styles.wrapper}>

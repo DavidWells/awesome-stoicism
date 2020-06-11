@@ -152,15 +152,15 @@ export default function ownstatsPlugin(pluginConfig) {
     },
     track: ({ payload, instance }) => {
       // Refer to current page view
-      const currentPageView = instance.getState('page.last');
+      const currentPage = instance.getState('page.last');
       // Metric names
       const perfMetricNames = ['fp', 'fcp', 'lcp', 'lcpFinal', 'fid', 'cls', 'clsFinal', 'tbt', 'tbt10S', 'tbtFinal'];
       // Data to send
       let data = {
         t: 'tr', ts: payload.meta.timestamp,
-        u: currentPageView.properties.url,
+        u: (currentPage.properties) ? currentPage.properties.url : window.location.href,
         hn: window.location.hostname,
-        pa: currentPageView.properties.path,
+        pa: (currentPage.properties) ? currentPage.properties.path : window.location.pathname,
         en: payload.event,
         pr: JSON.stringify(payload.properties)
       };
