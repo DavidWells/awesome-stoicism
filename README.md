@@ -881,6 +881,7 @@ Resources around stoic philosophy.
 - [The Obstacle Is the Way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358)
 - [The Daily Stoic](https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736)
 - [An Essay on Marcus Aurelius](http://books.google.com/books?id=BOY-AAAAIAAJ&pg=PA217&dq=Matthew+Arnold+Marcus+Aurelius&lr=&ei=9DPVSfU_gqzOBMKrmfMC) by Matthew Arnold
+- [Enchiridion](https://roamresearch.com/#/app/rroudt-public/page/wwsDLupqO) written by Epictetus' student Arrian
 
 ## Videos
 
