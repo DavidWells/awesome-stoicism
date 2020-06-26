@@ -29,7 +29,7 @@ export default function QuoteView({ data }) {
 
   const textLength = data.quote.length
   let textFontSize = 68
-  console.log('textLength', textLength)
+  // console.log('textLength', textLength)
   let textWidth = 1120
   if (textLength < 190) {
     textFontSize = 72
