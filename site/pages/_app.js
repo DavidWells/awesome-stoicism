@@ -34,7 +34,6 @@ export default function App({ Component, pageProps }) {
           <link href="https://fonts.googleapis.com/css?family=Fira+Mono&display=swap" rel="stylesheet" />
           <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         </Head>
-
         <div>
           <Component {...pageProps} />
           <Footer />

@@ -3,6 +3,8 @@ import { useRouter } from 'next/router'
 import Link from 'next/link'
 import { createQuoteSlug, createAuthorSlug } from '../../utils/createSlug'
 import Quote from '../../components/Quote'
+import Nav from '../../components/Nav'
+import Wrapper from '../../components/Wrapper'
 import styles from './author.module.css'
 
 const Post = ({ quotes, authorInfo }) => {
@@ -21,18 +23,28 @@ const Post = ({ quotes, authorInfo }) => {
     )
   })
 
+  const rightContent = (
+    <div className={styles.rightNav}>
+      <Link href='/'>
+        <a>
+          Philosophers
+        </a>
+      </Link>
+    </div>
+  )
+
   return (
-    <div>
+    <Wrapper>
       <Head>
         <title>{authorInfo} Stoic Quotes</title>
       </Head>
-      <Link href='/'><a>Back home</a></Link>
+      <Nav rightContent={rightContent} />
       <div className={styles.wrapper}>
         <h1>{authorInfo}</h1>
         {quotes.length} quotes
         {renderQuotes}
       </div>
-    </div>
+    </Wrapper>
   )
 }
 

@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.leftContent {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  cursor: pointer;
+  margin-right: 30px;
+}
+.logo svg {
+  width: 250px;
+}
+
+@media only screen and (max-width : 768px) {
+  .wrapper {
+    flex-direction: column;
+  }
+}

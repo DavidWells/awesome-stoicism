@@ -6,6 +6,15 @@
 }
 .quoteWrapper {
   width: 760px;
+  margin-top: 50px;
+}
+
+.rightNav {
+  a {
+    text-decoration: none;
+    margin-right: 30px;
+    letter-spacing: -0.5px;
+  }
 }
 
 @media only screen and (max-width : 768px) {

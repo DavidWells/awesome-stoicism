@@ -1,19 +1,19 @@
-.wrapper {
-  padding: 30px;
-}
 
 .authorsWrapper {
   display: flex;
   flex-wrap: wrap;
+  padding-bottom: 200px;
 }
 .authorCard {
   width: 30%;
   margin-bottom: 10px;
 }
 
-
 @media only screen and (max-width : 768px) {
   .authorCard {
     width: 50%;
+  }
+  .smile {
+    display: none;
   }
 }

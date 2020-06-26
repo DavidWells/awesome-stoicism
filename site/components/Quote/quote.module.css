@@ -5,7 +5,7 @@
   margin-top: 4rem;
 }
 .card {
-  padding: 4rem 6rem;
+  padding: 6rem 6rem;
   padding-left: 9rem;
   background: #fff;
   box-shadow: 0 0.3rem 1rem rgba(0,0,0,.15);
@@ -29,7 +29,7 @@
   font-weight: 700;
   opacity: .3;
   position: absolute;
-  top: -15px;
+  top: 0px;
   left: 20px;
   text-shadow: none;
   z-index: -300;
@@ -44,4 +44,21 @@
   font-size: 12px;
   display: block;
   color: #868585;
+}
+
+@media only screen and (max-width : 768px) {
+  .card {
+    padding: 4rem 4rem;
+    padding-left: 5rem;
+    padding-right: 3rem;
+    font-size: 1.9rem;
+  }
+  .quote:before {
+    font-size: 4em;
+    top: 10px;
+    left: 10px;
+  }
+  .author {
+    font-size: 26px;
+  }
 }

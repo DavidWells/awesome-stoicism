@@ -3,24 +3,102 @@ import Link from 'next/link'
 import { useRouter } from 'next/router'
 import Quote from '../../components/Quote'
 import { createQuoteSlug, createAuthorSlug } from '../../utils/createSlug'
+import Wrapper from '../../components/Wrapper'
+import Nav from '../../components/Nav'
 import styles from './quote.module.css'
+import getShareImage from '@jlengstorf/get-share-image'
 
 export default function QuoteView({ data }) {
   const router = useRouter()
   const { author, quote } = router.query
+
+  const rightContent = (
+    <div className={styles.rightNav}>
+      <Link href={`/${author}`}>
+        <a>
+          View {data.author} Quotes
+        </a>
+      </Link>
+      <Link href='/'>
+        <a>
+          Philosophers
+        </a>
+      </Link>
+    </div>
+  )
+
+  const textLength = data.quote.length
+  let textFontSize = 68
+  console.log('textLength', textLength)
+  let textWidth = 1120
+  if (textLength < 190) {
+    textFontSize = 72
+  } else if (textLength < 250) {
+    textFontSize = Math.round(textLength * .25)
+  } else if (textLength < 350) {
+    textFontSize = Math.round(textLength * .15)
+  } else if (textLength < 450) {
+    textFontSize = Math.round(textLength * .1)
+    textWidth = 1160
+  } else {
+    textFontSize = Math.round(textLength * .09)
+    textWidth = 1160
+  }
+
+  const socialImage = getShareImage({
+    title: data.quote,
+    tagline: data.author,
+    cloudName: 'davidwells',
+    imagePublicID: 'card_nooiax',
+    titleFont: 'futura',
+    taglineFont: 'futura',
+    textColor: '232129',
+    textLeftOffset: 80,
+    textAreaWidth: textWidth,
+    titleGravity: 'north_west',
+    taglineGravity: 'south_west',
+    taglineColor: '00a395',
+    titleBottomOffset: 90,
+    taglineTopOffset: 30,
+    titleFontSize: textFontSize,
+    taglineFontSize: (data.author.length > 200) ? 35 : 50
+  })
+  let meta
+  if (textLength < 450) {
+    meta = (
+      <>
+      <meta name="image" content={socialImage} />
+      <meta property="og:image" content={socialImage} />
+      </>
+    )
+  }
+
   return (
-    <div>
+    <Wrapper>
       <Head>
-        <title>{quote} - {data.author}</title>
+        {meta}
+        <title>{truncate(data.quote)} - {data.author}</title>
       </Head>
-      <Link href={`/${author}`}>Back</Link>
+      <Nav rightContent={rightContent} />
       <div className={styles.wrapper}>
         <div className={styles.quoteWrapper}>
           <Quote data={data} author={author} />
         </div>
       </div>
-    </div>
+    </Wrapper>
   )
+}
+
+function removePeriod(str) {
+  return str.replace(/\.$/, '')
+}
+
+function truncate(str, length = 160, ending = '...') {
+  const oldString = str.replace(/^\.+/g, '').split('.')
+  if (oldString[0].length < length) {
+    return removePeriod(oldString[0])
+  }
+  return removePeriod(oldString[0].substring(0, length - ending.length) + ending)
 }
 
 export async function getStaticProps({ ...ctx }) {

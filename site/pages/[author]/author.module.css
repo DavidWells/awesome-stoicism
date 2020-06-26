@@ -3,12 +3,20 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding-bottom: 60px;
+  padding-bottom: 200px;
 }
 .quoteWrapper {
   width: 760px;
   a {
     text-decoration: none;
+  }
+}
+
+.rightNav {
+  a {
+    text-decoration: none;
+    margin-right: 30px;
+    letter-spacing: -0.5px;
   }
 }
 

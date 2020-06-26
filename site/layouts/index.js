@@ -3,6 +3,8 @@ import NextLink from 'next/link'
 import { useRouter } from 'next/router'
 import { parseISO, format } from 'date-fns'
 import TitleAndMetaTags from '../components/TitleAndMetaTags'
+import Nav from '../components/Nav'
+import Wrapper from '../components/Wrapper'
 import styles from './default.module.css'
 
 export default (frontMatter) => {
@@ -12,7 +14,8 @@ export default (frontMatter) => {
     const twitterShare = `https://twitter.com/intent/tweet?div="${frontMatter.title}" by @helloPhilosophy&url=https://ped.ro${router.route}`
     const date = format(parseISO(frontMatter.publishedAt), 'MMMM dd, yyyy')
     return (
-      <div className={styles.wrapper}>
+      <Wrapper>
+        <Nav />
         <TitleAndMetaTags description={frontMatter.title} />
 
         <div>
@@ -37,7 +40,7 @@ export default (frontMatter) => {
             {children}
           </div>
         </div>
-      </div>
+      </Wrapper>
     )
   }
 }
