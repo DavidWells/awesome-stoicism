@@ -78,6 +78,7 @@ Resources around stoic philosophy.
 - **@TheStoicEmperor** Fragile egos make for fragile friendships.
 - **@TheStoicEmperor** People tend to avoid the important work they fear by doing unimportant work that wears them out. They suppress anxiety with exhaustion, but they do not address the source of the problem.
 - **@TheStoicEmperor** Finding information is easier than ever. Filtering information is harder than ever. We are bombarded with irrelevant data and unsolicited stimulation. Choosing what to ignore is as important as choosing what to pay attention to.
+- **A.P.J. Abdul Kalam** When learning is purposeful, creativity blossoms. When creativity blossoms, thinking emanates. When thinking emanates, knowledge is fully lit.
 - **Aeschylus** Happiness is a choice that requires effort at times.
 - **Alan Watts** The meaning of life is just to be alive. It is so plain and so obvious and so simple. And yet, everybody rushes around in a great panic as if it were necessary to achieve something beyond themselves.
 - **Alan Watts** As long as you remember that everything is exactly how it's supposed to be, you will always be sane.
@@ -85,7 +86,6 @@ Resources around stoic philosophy.
 - **Albert Einstein** Failure and deprivation are the best educators and purifiers.
 - **Albert Einstein** The ordinary objects of human endeavour – property, outward success, luxury – have always seemed to me contemptible.
 - **Albert Einstein** I am happy because I want nothing from anyone. I do not care for money. Decorations, titles or distinctions mean nothing to me. I do not crave praise. The only thing that gives me pleasure, apart from my work, my violin and my sailboat, is the appreciation of my fellow workers.
-- **Amor fati** "Love your fate", which is in fact your life.
 - **Anthony de Mello** Problems only exist in the human mind.
 - **Anthony de Mello** "What is the work of a Master?" said a solemn-faced visitor. "To teach people to laugh," said the Master gravely.
 - **Anthony de Mello** Drop your concepts, drop your opinions, drop your prejudices, drop your judgments, and you will see that.
@@ -110,6 +110,7 @@ Resources around stoic philosophy.
 - **Cleanthes** The willing are led by fate, the reluctant dragged.
 - **Colin Wilson** The average man is a conformist, accepting miseries and disasters with the stoicism of a cow standing in the rain.
 - **Conor McGregor** The more you seek the uncomfortable, the more you will become comfortable.
+- **Daisaku Ikeda** I cannot say this too strongly: Do not compare yourselves to others. Be true to who you are, and continue to learn with all your might.
 - **Dalai Lama** The true hero is one who conquers his own anger and hatred.
 - **Dan Horton** A man is no bigger than the smallest thing that provokes him.
 - **David Goggins** Success is based off of your willingness to work your ass off no matter what obstacles are in your way.
@@ -421,6 +422,7 @@ Resources around stoic philosophy.
 - **Marcus Aurelius** What then can guide a man? One thing and only one, philosophy. But this consists in keeping the daimon within a man free from violence and unharmed, superior to pains and pleasures, doing nothing without a purpose, nor yet falsely and with hypocrisy.
 - **Marcus Aurelius** Finally, waiting for death with a cheerful mind, as being nothing else than a dissolution of the elements of which every living being is compounded. But if there is no harm to the elements themselves in each continually changing into another, why should a man have any apprehension about the change and dissolution of all the elements?
 - **Marcus Aurelius** Hippocrates, after curing many diseases, himself fell sick and died. ... Alexander and Pompeius and Gaius Caesar, after so often completely destroying whole cities ... themselves, too, at last departed from life. ... And lice destroyed Democritus; and other lice killed Socrates.
+- **Marcus Aurelius** It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.
 - **Marcus Aurelius** What does all this mean? You have embarked, made the voyage, and come to the shore; get out. If indeed to another life, there is no want of gods, not even there. But if to a state without sensation, you will cease to be held by pains and pleasures, and to be a slave to the vessel.
 - **Marcus Aurelius** Do not waste the remainder of your life in thoughts about others ... for you lose the opportunity of doing something else when you have such thoughts as these.
 - **Marcus Aurelius** To care for all men is according to man’s nature; and man should value the opinion only of those who openly live according to nature.
@@ -609,6 +611,7 @@ Resources around stoic philosophy.
 - **Marcus Aurelius** Concentrate every minute like a Roman— like a man— on doing what's in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions.
 - **Marcus Aurelius** Because most of what we say and do is not essential. If you can eliminate it, you'll have more time, and more tranquility. Ask yourself at every moment, 'Is this necessary?'.
 - **Marcus Aurelius** If you seek tranquility, do less. Or (more accurately) do what's essential – what the reason of a social being requires, and in the requisite way. Which brings a double satisfaction: to do less, better.
+- **Marcus Aurelius** The happiness of your life depends upon the quality of your thoughts.
 - **Marcus Aurelius** The happiness of those who want to be popular depends on others; the happiness of those who seek pleasure fluctuates with moods outside their control; but the happiness of the wise grows out of their own free acts.
 - **Marcus Aurelius** All you need are these: certainty of judgment in the present moment; action for the common good in the present moment; and an attitude of gratitude in the present moment for anything that comes your way.
 - **Marcus Aurelius** To love only what happens, what was destined. No greater harmony.
@@ -749,6 +752,7 @@ Resources around stoic philosophy.
 - **Ryan Holiday** Bad companies are destroyed by crisis. Good companies survive them. Great individuals, like great companies, find a way to transform weakness into strength.
 - **Ryōkan** Why do you so earnestly seek the truth in distant places? Look for delusion and truth in the bottom of your own hearts.
 - **Sam Altman** Don't let jerks live rent-free in your head.
+- **Sam Yang** Ego and mastery exist on opposite ends of the same continuum. The more one leans towards ego, the further one is from mastery.
 - **Scott Peck** The truth is that our finest moments are most likely to occur when we are feeling deeply uncomfortable, unhappy, or unfulfilled. For it is only in such moments, propelled by our discomfort, that we are likely to step out of our ruts and start searching for different ways or truer answers. M.
 - **Seneca** There’s no difference between the one and the other - you didn’t exist and you won’t exist - you’ve got no concern with either period. As it is with a play, so it is with life - what matters is not how long the acting lasts, but how good it is. It is not important at what point you stop. Stop wherever you will - only make sure that you round it off with a good ending.
 - **Seneca** There are times when even to live is an act of bravery. So there is the comforting thing about extremities of pain: if you feel it too much you are bound to stop feeling it. The love of power or money or luxurious living are not the only things which are guided by popular thinking. We take our cue from people’s thinking even in the way we feel pain. Another thing which will help you is to turn your mind to other thoughts and that way get away from your suffering. Call to mind things which you have done that have been upright or courageous; run over in your mind the finest parts you have played. "But my illness has taken me away from my duties and won’t allow me to achieve anything." It is your body, not your mind as well, that is in the grip of ill health.
@@ -849,6 +853,7 @@ Resources around stoic philosophy.
 - **Unknown** You will eventually die and the world will keep moving.
 - **Unknown** Don't allow yourself to be heard any longer griping about public life, not even with your own ears! Marcus Aurelius
 - **Unknown** Peace. It does not mean to be in a place where there is no noise, trouble or hard work. It means to be in the midst of those things and still be calm in your heart.
+- **Unknown** Amor fati - "Love your fate", which is in fact your life.
 - **Unknown** There is no cure for birth and death save to enjoy the interval.
 - **Viktor Frankl** Between stimulus and response, there is a space. In that space is our power to choose our response.
 - **Viktor Frankl** Everything can be taken from a man but one thing: the last of the human freedoms – to choose one's attitude in any given set of circumstances, to choose one's own way.
