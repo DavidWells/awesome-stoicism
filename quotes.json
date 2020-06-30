@@ -4658,9 +4658,14 @@
     "author": "A.P.J. Abdul Kalam",
     "tweetable": true
   },
-   {
+  {
     "quote": "The way to get started is to quit talking and start doing.",
     "author": "Walt Disney",
+    "tweetable": true
+  }
+  {
+    "quote": "God grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.",
+    "author": "Unknown",
     "tweetable": true
   }
 ]
