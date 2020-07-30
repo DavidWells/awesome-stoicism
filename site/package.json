@@ -12,7 +12,6 @@
     "prettier": "prettier './**/*.{js,jsx,ts,tsx,json,md,mdx}' --write"
   },
   "dependencies": {
-    "@analytics/perfumejs": "^0.2.0",
     "@jlengstorf/get-share-image": "^0.7.1",
     "@mapbox/rehype-prism": "^0.4.0",
     "@mdx-js/loader": "^1.6.1",
@@ -29,7 +28,6 @@
     "next-mdx-enhanced": "^3.0.0",
     "next-optimized-images": "^2.6.0",
     "next-videos": "^1.1.4",
-    "perfume.js": "^5.1.0",
     "prismjs": "^1.20.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",

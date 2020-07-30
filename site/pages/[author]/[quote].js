@@ -12,6 +12,12 @@ export default function QuoteView({ data }) {
   const router = useRouter()
   const { author, quote } = router.query
 
+  const urlPath = Object.keys(router.query).reduce((acc, curr) => {
+    const value = router.query[curr]
+    return acc.replace(`[${curr}]`, value)
+  }, router.pathname)
+  // console.log('urlPath', urlPath)
+
   const rightContent = (
     <div className={styles.rightNav}>
       <Link href={`/${author}`}>
@@ -63,21 +69,31 @@ export default function QuoteView({ data }) {
     titleFontSize: textFontSize,
     taglineFontSize: (data.author.length > 200) ? 35 : 50
   })
+  const title = `${truncate(data.quote)} - ${data.author}`
   let meta
   if (textLength < 450) {
     meta = (
       <>
       <meta name="image" content={socialImage} />
+      <meta property="og:type" content="article" />
+      <meta property="og:title" content={title} />
+      <meta property="og:description" content={data.quote} />
+      <meta property="og:url" content={`https://hellophilosophy.com${urlPath}`} />
       <meta property="og:image" content={socialImage} />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:title" content={'Stoic Quotes - Hello Philosophy'} />
+      <meta name="twitter:description" content={title} />
+      <meta name="twitter:image" content={socialImage} />
       </>
     )
   }
+  /*<meta name="twitter:creator" content="@stoic">*/
 
   return (
     <Wrapper>
       <Head>
         {meta}
-        <title>{truncate(data.quote)} - {data.author}</title>
+        <title>{title}</title>
       </Head>
       <Nav rightContent={rightContent} />
       <div className={styles.wrapper}>
@@ -90,7 +106,7 @@ export default function QuoteView({ data }) {
 }
 
 function removePeriod(str) {
-  return str.replace(/\.$/, '')
+  return str.replace(/\.$/, '').replace(/$/, '')
 }
 
 function truncate(str, length = 160, ending = '...') {

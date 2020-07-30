@@ -5,7 +5,9 @@ export default class Document extends NextDocument {
   render() {
     return (
       <html lang="en">
-        <Head />
+        <Head>
+          <script src='https://d26s9dlh9vivqr.cloudfront.net/go.js' type='text/javascript' />
+        </Head>
         <body>
           <Main />
           <NextScript />

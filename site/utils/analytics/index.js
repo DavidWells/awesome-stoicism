@@ -1,13 +1,10 @@
 import React from 'react'
 import Analytics from 'analytics'
 import dynamic from 'next/dynamic'
-import perfumePlugin from '@analytics/perfumejs'
 import { Router } from 'next/router'
-import statsPlugin from './stats-plugin'
 
 const isBrowser = typeof window !== 'undefined'
 const isProd = process.env.NODE_ENV === 'production'
-const Perfume = (isBrowser) ? require('perfume.js').default : null
 
 const analytics = Analytics({
   app: 'hello-philosophy',
@@ -17,16 +14,7 @@ const analytics = Analytics({
       page: ({ payload }) => {
         console.log('page', payload)
       }
-    },
-    ...(!isBrowser ? [] : [perfumePlugin({
-      perfume: Perfume
-    })]),
-    ...(!isProd ? [] : [
-      statsPlugin({
-        endpoint: 'd29fww7xfwwr85.cloudfront.net',
-        useAutomation: false
-      })
-    ]),
+    }
   ]
 })
 

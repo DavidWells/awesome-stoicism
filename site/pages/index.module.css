@@ -12,6 +12,9 @@
 @media only screen and (max-width : 768px) {
   .authorCard {
     width: 50%;
+    a {
+      padding-right: 20px;
+    }
   }
   .smile {
     display: none;
