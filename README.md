@@ -905,6 +905,8 @@ Resources around stoic philosophy.
 ## Sites
 
 - [Daily Stoic](https://dailystoic.com/)
+- [Stoicism](https://plato.stanford.edu/entries/stoicism/) - (Stanford Encyclopedia of Philosophy)
+- [Modern Stoicism – Home of Stoicon & Stoic Week](https://modernstoicism.com/)
 
 ## Podcasts
 
