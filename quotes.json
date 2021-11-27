@@ -1710,6 +1710,11 @@
     "tweetable": true
   },
   {
+    "quote": "He who lives in harmony with himself lives in harmony with the world.",
+    "author": "Marcus Aurelius",
+    "tweetable": true
+  },
+  {
     "quote": "To the rational animal the same act is at once according to nature and according to reason.",
     "author": "Marcus Aurelius",
     "source": "Meditations, VII.11",
@@ -2444,6 +2449,11 @@
     "tweetable": true
   },
   {
+    "content": "The greatest remedy for anger is delay.",
+    "author": "Seneca",
+    "tweetable": true
+  },
+  {
     "quote": "It does not matter what you bear, but how you bear it.",
     "author": "Seneca",
     "tweetable": true
@@ -2554,6 +2564,26 @@
     "tweetable": true
   },
   {
+    "quote": "Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.",
+    "author": "Albert Einstein",
+    "tweetable": true
+  },
+  {
+    "quote": "The ordinary objects of human endeavour – property, outward success, luxury – have always seemed to me contemptible.",
+    "author": "Albert Einstein",
+    "tweetable": true
+  },
+  {
+    "quote": "Reality is merely an illusion, albeit a very persistent one.",
+    "author": "Albert Einstein",
+    "tweetable": true
+  },
+  {
+    "quote": "Great ideas often receive violent opposition from mediocre minds.",
+    "author": "Albert Einstein",
+    "tweetable": true
+  },
+  {
     "quote": "If it's endurable, then endure it. Stop complaining.",
     "author": "Marcus Aurelius",
     "tweetable": true
@@ -2655,6 +2685,11 @@
     "tweetable": true
   },
   {
+    "quote": "If you wish to be a writer, write.",
+    "author": "Epictetus",
+    "tweetable": true
+  },
+  {
     "quote": "Wealth consists not in having great possessions, but in having few wants.",
     "author": "Epictetus",
     "tweetable": true
@@ -2696,7 +2731,7 @@
     "tweetable": true
   },
   {
-    "quote": "‎Life is a shipwreck, but we must not forget to sing in the lifeboats.",
+    "quote": "Life is a shipwreck, but we must not forget to sing in the lifeboats.",
     "author": "Voltaire",
     "tweetable": true
   },
@@ -3623,11 +3658,6 @@
   {
     "quote": "Concentrate every minute like a Roman— like a man— on doing what's in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions.",
     "author": "Marcus Aurelius",
-    "tweetable": true
-  },
-  {
-    "quote": "The ordinary objects of human endeavour – property, outward success, luxury – have always seemed to me contemptible.",
-    "author": "Albert Einstein",
     "tweetable": true
   },
   {
@@ -4666,6 +4696,396 @@
   {
     "quote": "God grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.",
     "author": "Unknown",
+    "tweetable": true
+  },
+  {
+    "quote": "Don’t find fault, find a remedy; anybody can complain.",
+    "author": "Henry Ford",
+    "tweetable": true
+  },
+  {
+    "quote": "The only real mistake is the one from which we learn nothing.",
+    "author": "Henry Ford",
+    "tweetable": true
+  },
+  {
+    "quote": "Failure is only the opportunity more intelligently to begin again.",
+    "author": "Henry Ford",
+    "tweetable": true
+  },
+  {
+    "quote": "It has been my observation that most people get ahead during the time that others waste.",
+    "author": "Henry Ford",
+    "tweetable": true
+  },
+  {
+    "quote": "No one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt",
+    "tweetable": true
+  },
+  {
+    "quote": "One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility.",
+    "author": "Eleanor Roosevelt",
+    "tweetable": true
+  },
+  {
+    "quote": "The possibilities are numerous once we decide to act and not react.",
+    "author": "George Bernard Shaw",
+    "tweetable": true
+  },
+  {
+    "quote": "Go for it now. The future is promised to no one.",
+    "author": "Wayne Dyer",
+    "tweetable": true
+  },
+  {
+    "quote": "To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.",
+    "author": "Margaret Thatcher",
+    "tweetable": true
+  },
+  {
+    "quote": "He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.",
+    "author": "Tryon Edwards",
+    "tweetable": true
+  },
+  {
+    "quote": "If you aren't going all the way, why go at all?",
+    "author": "Joe Namath",
+    "tweetable": true
+  },
+  {
+    "quote": "Always remember that you are absolutely unique. Just like everyone else.",
+    "author": "Margaret Mead",
+    "tweetable": true
+  },
+  {
+    "quote": "If you change the way you look at things, the things you look at change.",
+    "author": "Wayne Dyer",
+    "tweetable": true
+  },
+  {
+    "quote": "The foolish man seeks happiness in the distance, the wise grows it under his feet.",
+    "author": "James Oppenheim",
+    "tweetable": true
+  },
+  {
+    "quote": "The supreme art of war is to subdue the enemy without fighting.",
+    "author": "Sun Tzu",
+    "tweetable": true
+  },
+  {
+    "quote": "Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.",
+    "author": "George Herbert",
+    "tweetable": true
+  },
+  {
+    "quote": "Do what you can. Want what you have. Be who you are.",
+    "author": "Forrest Church",
+    "tweetable": true
+  },
+  {
+    "quote": "I destroy my enemies when I make them my friends.",
+    "author": "Abraham Lincoln",
+    "tweetable": true
+  },
+  {
+    "quote": "The only real mistake is the one from which we learn nothing.",
+    "author": "John Powell",
+    "tweetable": true
+  },
+  {
+    "quote": "To be tested is good. The challenged life may be the best therapist.",
+    "author": "Gail Sheehy",
+    "tweetable": true
+  },
+  {
+    "quote": "Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.",
+    "author": "William Arthur Ward",
+    "tweetable": true
+  },
+  {
+    "quote": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+    "author": "Marie Curie",
+    "tweetable": true
+  },
+  {
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "tweetable": true
+  },
+  {
+    "quote": "Well done is better than well said.",
+    "author": "Benjamin Franklin",
+    "tweetable": true
+  },
+  {
+    "quote": "Trust only movement. Life happens at the level of events, not of words. Trust movement.",
+    "author": "Alfred Adler",
+    "tweetable": true
+  },
+  {
+    "quote": "You cannot travel the path until you have become the path itself.",
+    "author": "Buddha",
+    "tweetable": true
+  },
+  {
+    "quote": "There are no failures. Just experiences and your reactions to them.",
+    "author": "Tom Krause",
+    "tweetable": true
+  },
+  {
+    "quote": "For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.",
+    "author": "Mary Kay Ash",
+    "tweetable": true
+  },
+  {
+    "quote": "Good timber does not grow with ease; the stronger the wind, the stronger the trees.",
+    "author": "J. Willard Marriott",
+    "tweetable": true
+  },
+  {
+    "quote": "Wisdom, compassion, and courage are the three universally recognized moral qualities of men.",
+    "author": "Confucius",
+    "tweetable": true
+  },
+  {
+    "quote": "The superior man is modest in his speech, but exceeds in his actions.",
+    "author": "Confucius",
+    "tweetable": true
+  },
+  {
+    "quote": "Life shrinks or expands in proportion to one's courage.",
+    "author": "Anaïs Nin",
+    "tweetable": true
+  },
+  {
+    "quote": "A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.",
+    "author": "George Bernard Shaw",
+    "tweetable": true
+  },
+  {
+    "quote": "If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.",
+    "author": "Margaret Thatcher",
+    "tweetable": true
+  },
+  {
+    "quote": "Never mistake motion for action.",
+    "author": "Ernest Hemingway",
+    "tweetable": true
+  },
+  {
+    "quote": "Life is a succession of lessons, which must be lived to be understood.",
+    "author": "Ralph Waldo Emerson",
+    "tweetable": true
+  },
+  {
+    "quote": "A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them.",
+    "author": "John C. Maxwell",
+    "tweetable": true
+  },
+  {
+    "quote": "Can you imagine what I would do if I could do all I can?",
+    "author": "Sun Tzu",
+    "tweetable": true
+  },
+  {
+    "quote": "When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.",
+    "author": "Confucius",
+    "tweetable": true
+  },
+  {
+    "quote": "It is on our failures that we base a new and different and better success.",
+    "author": "Havelock Ellis",
+    "tweetable": true
+  },
+  {
+    "quote": "Don't cry because it's over. Smile because it happened.",
+    "author": "Dr. Seuss",
+    "tweetable": true
+  },
+  {
+    "quote": "The cause is hidden. The effect is visible to all.",
+    "author": "Ovid",
+    "tweetable": true
+  },
+  {
+    "quote": "I never worry about action, but only inaction.",
+    "author": "Winston Churchill",
+    "tweetable": true
+  },
+  {
+    "quote": "If you're trying to achieve, there will be roadblocks. I've had them; everybody has had them. But obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it.",
+    "author": "Michael Jordan",
+    "tweetable": true
+  },
+  {
+    "quote": "You will not be punished for your anger, you will be punished by your anger.",
+    "author": "Buddha",
+    "tweetable": true
+  },
+  {
+    "quote": "Problems are only opportunities with thorns on them.",
+    "author": "Hugh Miller",
+    "tweetable": true
+  },
+  {
+    "quote": "Nothing is at last sacred but the integrity of your own mind.",
+    "author": "Ralph Waldo Emerson",
+    "tweetable": true
+  },
+  {
+    "quote": "All of our technology is completely unnecessary to a happy life.",
+    "author": "Tom Hodgkinson",
+    "tweetable": true
+  },
+  {
+    "quote": "When you judge another, you do not define them, you define yourself.",
+    "author": "Wayne Dyer",
+    "tweetable": true
+  },
+  {
+    "quote": "You must do the things you think you cannot do.",
+    "author": "Eleanor Roosevelt",
+    "tweetable": true
+  },
+  {
+    "quote": "I hear and I forget. I see and I remember. I do and I understand.",
+    "author": "Confucius",
+    "tweetable": true
+  },
+  {
+    "quote": "What you do not want done to yourself, do not do to others.",
+    "author": "Confucius",
+    "tweetable": true
+  },
+  {
+    "quote": "The smallest deed is better than the greatest intention.",
+    "author": "John Burroughs",
+    "tweetable": true
+  },
+  {
+    "quote": "Learning without reflection is a waste, reflection without learning is dangerous.",
+    "author": "Confucius",
+    "tweetable": true
+  },
+  {
+    "quote": "Blessed is the man who expects nothing, for he shall never be disappointed.",
+    "author": "Alexander Pope",
+    "tweetable": true
+  },
+  {
+    "quote": "Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.",
+    "author": "William Ellery Channing",
+    "tweetable": true
+  },
+  {
+    "quote": "Everything you are against weakens you. Everything you are for empowers you.",
+    "author": "Wayne Dyer",
+    "tweetable": true
+  },
+  {
+    "quote": "In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.",
+    "author": "Buddha",
+    "tweetable": true
+  },
+  {
+    "quote": "Even if you're on the right track, you'll get run over if you just sit there.",
+    "author": "Will Rogers",
+    "tweetable": true
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "tweetable": true
+  },
+  {
+    "quote": "What we see depends mainly on what we look for.",
+    "author": "John Lubbock",
+    "tweetable": true
+  },
+  {
+    "quote": "When I let go of what I am, I become what I might be.",
+    "author": "Laozi",
+    "tweetable": true
+  },
+  {
+    "quote": "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.",
+    "author": "Nelson Mandela",
+    "tweetable": true
+  },
+  {
+    "quote": "There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.",
+    "author": "Mark Twain",
+    "tweetable": true
+  },
+  {
+    "quote": "No snowflake in an avalanche ever feels responsible.",
+    "author": "Voltaire",
+    "tweetable": true
+  },
+  {
+    "quote": "When we seek to discover the best in others, we somehow bring out the best in ourselves.",
+    "author": "William Arthur Ward",
+    "tweetable": true
+  },
+  {
+    "quote": "Keep silence for the most part, and speak only when you must, and then briefly.",
+    "author": "Epictetus",
+    "tweetable": true
+  },
+  {
+    "quote": "The world has the habit of making room for the man whose actions show that he knows where he is going.",
+    "author": "Napoleon Hill",
+    "tweetable": true
+  },
+  {
+    "quote": "Reason and free inquiry are the only effectual agents against error.",
+    "author": "Thomas Jefferson",
+    "tweetable": true
+  },
+  {
+    "quote": "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
+    "author": "Dalai Lama",
+    "tweetable": true
+  },
+  {
+    "quote": "To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.",
+    "author": "Plutarch",
+    "tweetable": true
+  },
+  {
+    "quote": "If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.",
+    "author": "Albert Einstein",
+    "tweetable": true
+  },
+  {
+    "quote": "If we could see the miracle of a single flower clearly, our whole life would change.",
+    "author": "Buddha",
+    "tweetable": true
+  },
+  {
+    "quote": "The aim of life is self-development. To realize ones nature perfectly - that is what each of us is here for.",
+    "author": "Oscar Wilde",
+    "tweetable": true
+  },
+  {
+    "quote": "Difficulties increase the nearer we get to the goal.",
+    "author": "Johann Wolfgang von Goethe",
+    "tweetable": true
+  },
+  {
+    "quote": "Happiness can exist only in acceptance.",
+    "author": "George Orwell",
+    "tweetable": true
+  },
+  {
+    "quote": "The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.",
+    "author": "Margaret Chase Smith",
+    "tweetable": true
+  },
+  {
+    "quote": "Don't wait. The time will never be just right.",
+    "author": "Napoleon Hill",
     "tweetable": true
   }
 ]

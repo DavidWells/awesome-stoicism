@@ -916,6 +916,7 @@ Resources around stoic philosophy.
 
 - [Stoic Reading & Resources](https://www.lettersfromastoic.net/the-stoic-reading-and-resources-list/)
 - [Stocism subreddit](https://www.reddit.com/r/Stoicism/)
+- [More quotes](https://github.com/lukePeavey/quotable/blob/master/data/sample/quotes.json) [example](https://api.quotable.io/random)
 
 ## Criticisms
 
