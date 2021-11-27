@@ -1012,3 +1012,4 @@ As always, make up your own mind. Below are some alternative takes
 - [The Problem with Stoicism](https://medium.com/lessons-from-history/the-problem-with-stoicism-cd4183f7a24)
 - [Two Criticisms of Stoicism](https://www.reddit.com/r/Stoicism/comments/aogjdn/two_criticisms_of_stoicism/)
 - [The False Promise of Stoicism](https://newideal.aynrand.org/the-false-promise-of-stoicism/)
+- [HackerNews Stoic thread](https://news.ycombinator.com/item?id=25006726)
